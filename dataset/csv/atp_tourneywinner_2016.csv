@@ -1,0 +1,63 @@
+tourney_date,tourney_id,tourney_name,surface,opponent_name,opponent_rank,opponent_ioc,round,player_id,player_name,player_rank,player_ioc,tourney_winner
+20160104,2016-M020,Brisbane,Hard,Roger Federer,3,SUI,F,105683,Milos Raonic,14,CAN,yes
+20160104,2016-0891,Chennai,Hard,Borna Coric,44,CRO,F,104527,Stanislas Wawrinka,4,SUI,yes
+20160104,2016-0451,Doha,Hard,Rafael Nadal,5,ESP,F,104925,Novak Djokovic,1,SRB,yes
+20160111,2016-0301,Auckland,Hard,Jack Sock,26,USA,F,105138,Roberto Bautista Agut,25,ESP,yes
+20160111,2016-M001,Sydney,Hard,Grigor Dimitrov,28,BUL,F,104678,Viktor Troicki,22,SRB,yes
+20160118,2016-580,Australian Open,Hard,Andy Murray,2,GBR,F,104925,Novak Djokovic,1,SRB,yes
+20160201,2016-0375,Montpellier,Hard,Paul Henri Mathieu,93,FRA,F,104755,Richard Gasquet,10,FRA,yes
+20160201,2016-7434,Sofia,Hard,Viktor Troicki,25,SRB,F,105138,Roberto Bautista Agut,18,ESP,yes
+20160208,2016-0506,Buenos Aires,Clay,Nicolas Almagro,72,ESP,F,106233,Dominic Thiem,19,AUT,yes
+20160208,2016-0402,Memphis,Hard,Taylor Harry Fritz,145,USA,F,105453,Kei Nishikori,7,JPN,yes
+20160208,2016-0407,Rotterdam,Hard,Gael Monfils,18,FRA,F,105373,Martin Klizan,43,SVK,yes
+20160215,2016-0499,Delray Beach,Hard,Rajeev Ram,89,USA,F,105023,Sam Querrey,61,USA,yes
+20160215,2016-0496,Marseille,Hard,Marin Cilic,12,CRO,F,106401,Nick Kyrgios,41,AUS,yes
+20160215,2016-M052,Rio de Janeiro,Clay,Guido Pella,71,ARG,F,104655,Pablo Cuevas,45,URU,yes
+20160222,2016-M004,Acapulco,Hard,Bernard Tomic,21,AUS,F,106233,Dominic Thiem,15,AUT,yes
+20160222,2016-0495,Dubai,Hard,Marcos Baghdatis,57,CYP,F,104527,Stanislas Wawrinka,4,SUI,yes
+20160222,2016-0533,Sao Paulo,Clay,Pablo Carreno Busta,67,ESP,F,104655,Pablo Cuevas,27,URU,yes
+20160307,2016-M006,Indian Wells Masters,Hard,Milos Raonic,14,CAN,F,104925,Novak Djokovic,1,SRB,yes
+20160321,2016-M007,Miami Masters,Hard,Kei Nishikori,6,JPN,F,104925,Novak Djokovic,1,SRB,yes
+20160404,2016-0360,Marrakech,Clay,Borna Coric,48,CRO,F,105643,Federico Delbonis,47,ARG,yes
+20160411,2016-0410,Monte Carlo Masters,Clay,Gael Monfils,16,FRA,F,104745,Rafael Nadal,5,ESP,yes
+20160418,2016-0425,Barcelona,Clay,Kei Nishikori,6,JPN,F,104745,Rafael Nadal,5,ESP,yes
+20160418,2016-0773,Bucharest,Clay,Lucas Pouille,72,FRA,F,104269,Fernando Verdasco,86,ESP,yes
+20160425,2016-7290,Estoril,Clay,Pablo Carreno Busta,50,ESP,F,104597,Nicolas Almagro,71,ESP,yes
+20160425,2016-0308,Munich,Clay,Dominic Thiem,15,AUT,F,104259,Philipp Kohlschreiber,27,GER,yes
+20160502,2016-M021,Madrid Masters,Clay,Andy Murray,2,GBR,F,104925,Novak Djokovic,1,SRB,yes
+20160509,2016-M009,Rome Masters,Clay,Novak Djokovic,1,SRB,F,104918,Andy Murray,3,GBR,yes
+20160516,2016-0322,Geneva,Clay,Marin Cilic,11,CRO,F,104527,Stanislas Wawrinka,4,SUI,yes
+20160516,2016-6120,Nice,Clay,Alexander Zverev,48,GER,F,106233,Dominic Thiem,15,AUT,yes
+20160523,2016-520,Roland Garros,Clay,Andy Murray,2,GBR,F,104925,Novak Djokovic,1,SRB,yes
+20160606,2016-M010,s-Hertogenbosch,Grass,Gilles Muller,44,LUX,F,103917,Nicolas Mahut,49,FRA,yes
+20160606,2016-0321,Stuttgart,Grass,Philipp Kohlschreiber,26,GER,F,106233,Dominic Thiem,7,AUT,yes
+20160613,2016-0311,London,Grass,Milos Raonic,9,CAN,F,104918,Andy Murray,2,GBR,yes
+20160620,2016-0741,Nottingham,Grass,Pablo Cuevas,25,URU,F,105449,Steve Johnson,38,USA,yes
+20160627,2016-540,Wimbledon,Grass,Milos Raonic,7,CAN,F,104918,Andy Murray,2,GBR,yes
+20160711,2016-0316,Bastad,Clay,Fernando Verdasco,59,ESP,F,105077,Albert Ramos,35,ESP,yes
+20160711,2016-0414,Hamburg,Clay,Pablo Cuevas,24,URU,F,105373,Martin Klizan,47,SVK,yes
+20160711,2016-0315,Newport,Grass,Gilles Muller,39,LUX,F,103333,Ivo Karlovic,38,CRO,yes
+20160718,2016-0314,Gstaad,Clay,Robin Haase,95,NED,F,103852,Feliciano Lopez,21,ESP,yes
+20160718,2016-0319,Kitzbuhel,Clay,Nikoloz Basilashvili,123,RUS,F,103893,Paolo Lorenzi,48,ITA,yes
+20160718,2016-0439,Umag,Clay,Andrej Martin,124,SVK,F,104926,Fabio Fognini,39,ITA,yes
+20160718,2016-M035,Washington,Hard,Ivo Karlovic,35,CRO,F,104792,Gael Monfils,17,FRA,yes
+20160725,2016-0421,Canada Masters,Hard,Kei Nishikori,6,JPN,F,104925,Novak Djokovic,1,SRB,yes
+20160801,2016-6116,Atlanta,Hard,John Isner,17,USA,F,106401,Nick Kyrgios,18,AUS,yes
+20160808,2016-7480,Los Cabos,Hard,Feliciano Lopez,18,ESP,F,103333,Ivo Karlovic,24,CRO,yes
+20160808,2016-O16,Olympics,Hard,Juan Martin Del Potro,141,ARG,F,104918,Andy Murray,2,GBR,yes
+20160815,2016-M024,Cincinnati Masters,Hard,Andy Murray,2,GBR,F,105227,Marin Cilic,14,CRO,yes
+20160822,2016-6242,Winston-Salem,Hard,Roberto Bautista Agut,17,ESP,F,105807,Pablo Carreno Busta,49,ESP,yes
+20160829,2016-560,Us Open,Hard,Novak Djokovic,1,SRB,F,104527,Stanislas Wawrinka,3,SUI,yes
+20160919,2016-0341,Metz,Hard,Dominic Thiem,10,AUT,F,106298,Lucas Pouille,18,FRA,yes
+20160926,2016-6967,Shenzhen,Hard,Richard Gasquet,18,FRA,F,104607,Tomas Berdych,9,CZE,yes
+20160919,2016-0568,St.Petersburg,Hard,Stanislas Wawrinka,3,SUI,F,100644,Alexander Zverev,27,GER,yes
+20161003,2016-M015,Beijing,Hard,Grigor Dimitrov,20,BUL,F,104918,Andy Murray,2,GBR,yes
+20161003,2016-0329,Tokyo,Hard,David Goffin,14,BEL,F,106401,Nick Kyrgios,15,AUS,yes
+20161010,2016-5014,Shanghai Masters,Hard,Roberto Bautista Agut,19,ESP,F,104918,Andy Murray,2,GBR,yes
+20161017,2016-7485,Antwerp,Hard,Diego Sebastian Schwartzman,77,ARG,F,104755,Richard Gasquet,19,FRA,yes
+20161017,2016-M014,Moscow,Hard,Fabio Fognini,50,ITA,F,105807,Pablo Carreno Busta,36,ESP,yes
+20161017,2016-0429,Stockholm,Hard,Jack Sock,23,USA,F,105223,Juan Martin Del Potro,63,ARG,yes
+20161024,2016-0328,Basel,Hard,Kei Nishikori,5,JPN,F,105227,Marin Cilic,12,CRO,yes
+20161024,2016-0337,Vienna,Hard,Jo Wilfried Tsonga,15,FRA,F,104918,Andy Murray,2,GBR,yes
+20161031,2016-0352,Paris Masters,Hard,John Isner,27,USA,F,104918,Andy Murray,2,GBR,yes
+20161114,2016-0605,London,Hard,Novak Djokovic,2,SRB,F,104918,Andy Murray,1,GBR,yes

@@ -1,0 +1,1481 @@
+tourney_date,tourney_id,tourney_name,surface,player_id,player_name,player_rank,player_ioc,round,opponent_id,opponent_name,opponent_rank,opponent_ioc,tourney_winner
+20160111,2016-M001,Sydney,Hard,105173,Adrian Mannarino,44,FRA,R32,103917,Nicolas Mahut,71,FRA,no
+20160118,2016-580,Australian Open,Hard,105173,Adrian Mannarino,48,FRA,R128,105032,Samuel Groth,67,AUS,no
+20160201,2016-7434,Sofia,Hard,105173,Adrian Mannarino,49,FRA,QF,105138,Roberto Bautista Agut,18,ESP,no
+20160215,2016-0499,Delray Beach,Hard,105173,Adrian Mannarino,49,FRA,QF,105777,Grigor Dimitrov,28,BUL,no
+20160222,2016-M004,Acapulco,Hard,105173,Adrian Mannarino,58,FRA,R16,106071,Bernard Tomic,21,AUS,no
+20160307,2016-M006,Indian Wells Masters,Hard,105173,Adrian Mannarino,60,FRA,R32,104545,John Isner,11,USA,no
+20160321,2016-M007,Miami Masters,Hard,105173,Adrian Mannarino,64,FRA,R32,105723,Andrey Kuznetsov,51,RUS,no
+20160411,2016-0410,Monte Carlo Masters,Clay,105173,Adrian Mannarino,73,FRA,R64,106121,Taro Daniel,90,JPN,no
+20160418,2016-0773,Bucharest,Clay,105173,Adrian Mannarino,75,FRA,R32,104593,Daniel Gimeno Traver,125,ESP,no
+20160425,2016-7163,Istanbul,Clay,105173,Adrian Mannarino,77,FRA,R32,105077,Albert Ramos,57,ESP,no
+20160516,2016-6120,Nice,Clay,105173,Adrian Mannarino,63,FRA,SF,106233,Dominic Thiem,15,AUT,no
+20160523,2016-520,Roland Garros,Clay,105173,Adrian Mannarino,58,FRA,R64,105683,Milos Raonic,9,CAN,no
+20160606,2016-M010,s-Hertogenbosch,Grass,105173,Adrian Mannarino,55,FRA,QF,103333,Ivo Karlovic,28,CRO,no
+20160613,2016-0311,London,Grass,105173,Adrian Mannarino,57,FRA,R16,105449,Steve Johnson,39,USA,no
+20160620,2016-0741,Nottingham,Grass,105173,Adrian Mannarino,54,FRA,R16,104312,Andreas Seppi,57,ITA,no
+20160627,2016-540,Wimbledon,Grass,105173,Adrian Mannarino,55,FRA,R64,104925,Novak Djokovic,1,SRB,no
+20160711,2016-0315,Newport,Grass,105173,Adrian Mannarino,55,FRA,QF,104180,Gilles Muller,39,LUX,no
+20160718,2016-M035,Washington,Hard,105173,Adrian Mannarino,55,FRA,R32,105449,Steve Johnson,25,USA,no
+20160801,2016-6116,Atlanta,Hard,105173,Adrian Mannarino,67,FRA,R16,104545,John Isner,17,USA,no
+20160808,2016-7480,Los Cabos,Hard,105173,Adrian Mannarino,66,FRA,R32,104999,Mischa Zverev,135,GER,no
+20160815,2016-M024,Cincinnati Masters,Hard,105173,Adrian Mannarino,58,FRA,R64,104755,Richard Gasquet,15,FRA,no
+20160829,2016-560,Us Open,Hard,105173,Adrian Mannarino,54,FRA,R128,105992,Ryan Harrison,120,USA,no
+20160926,2016-7581,Chengdu,Hard,105173,Adrian Mannarino,62,FRA,R16,111575,Karen Khachanov,101,RUS,no
+20160919,2016-0568,St.Petersburg,Hard,105173,Adrian Mannarino,62,FRA,R32,105575,Ricardas Berankis,83,LTU,no
+20161003,2016-M015,Beijing,Hard,105173,Adrian Mannarino,64,FRA,R16,104745,Rafael Nadal,4,ESP,no
+20161017,2016-0429,Stockholm,Hard,105173,Adrian Mannarino,53,FRA,R16,100644,Alexander Zverev,20,GER,no
+20161024,2016-0328,Basel,Hard,105173,Adrian Mannarino,53,FRA,R32,106058,Jack Sock,22,USA,no
+20161031,2016-0352,Paris Masters,Hard,105173,Adrian Mannarino,60,FRA,R64,104678,Viktor Troicki,28,SRB,no
+20160104,2016-0451,Doha,Hard,105077,Albert Ramos,54,ESP,R32,103908,Paul Henri Mathieu,95,FRA,no
+20160111,2016-0301,Auckland,Hard,105077,Albert Ramos,55,ESP,R32,105217,Thiemo De Bakker,100,NED,no
+20160118,2016-580,Australian Open,Hard,105077,Albert Ramos,61,ESP,R64,105227,Marin Cilic,13,CRO,no
+20160201,2016-7161,Quito,Clay,105077,Albert Ramos,55,ESP,SF,103607,Victor Estrella,58,DOM,no
+20160208,2016-0506,Buenos Aires,Clay,105077,Albert Ramos,46,ESP,R32,104655,Pablo Cuevas,35,URU,no
+20160215,2016-M052,Rio de Janeiro,Clay,105077,Albert Ramos,47,ESP,R16,103970,David Ferrer,6,ESP,no
+20160222,2016-0533,Sao Paulo,Clay,105077,Albert Ramos,48,ESP,R32,105807,Pablo Carreno Busta,67,ESP,no
+20160307,2016-M006,Indian Wells Masters,Hard,105077,Albert Ramos,49,ESP,R32,104792,Gael Monfils,16,FRA,no
+20160321,2016-M007,Miami Masters,Hard,105077,Albert Ramos,50,ESP,R64,104755,Richard Gasquet,10,FRA,no
+20160404,2016-0360,Marrakech,Clay,105077,Albert Ramos,50,ESP,R32,103908,Paul Henri Mathieu,63,FRA,no
+20160411,2016-0410,Monte Carlo Masters,Clay,105077,Albert Ramos,50,ESP,R64,105138,Roberto Bautista Agut,17,ESP,no
+20160418,2016-0425,Barcelona,Clay,105077,Albert Ramos,55,ESP,R32,104655,Pablo Cuevas,25,URU,no
+20160425,2016-7163,Istanbul,Clay,105077,Albert Ramos,57,ESP,QF,105643,Federico Delbonis,36,ARG,no
+20160502,2016-M021,Madrid Masters,Clay,105077,Albert Ramos,56,ESP,R32,104542,Jo Wilfried Tsonga,7,FRA,no
+20160509,2016-M009,Rome Masters,Clay,105077,Albert Ramos,57,ESP,R32,104607,Tomas Berdych,8,CZE,no
+20160516,2016-0322,Geneva,Clay,105077,Albert Ramos,53,ESP,R16,104527,Stanislas Wawrinka,4,SUI,no
+20160523,2016-520,Roland Garros,Clay,105077,Albert Ramos,55,ESP,QF,104527,Stanislas Wawrinka,4,SUI,no
+20160613,2016-0500,Halle,Grass,105077,Albert Ramos,35,ESP,R32,104460,Dustin Brown,87,GER,no
+20160627,2016-540,Wimbledon,Grass,105077,Albert Ramos,36,ESP,R32,104755,Richard Gasquet,10,FRA,no
+20160718,2016-0314,Gstaad,Clay,105077,Albert Ramos,31,ESP,QF,103908,Paul Henri Mathieu,60,FRA,no
+20160808,2016-O16,Olympics,Hard,105077,Albert Ramos,33,ESP,R64,105453,Kei Nishikori,7,JPN,no
+20160815,2016-M024,Cincinnati Masters,Hard,105077,Albert Ramos,33,ESP,R64,104269,Fernando Verdasco,45,ESP,no
+20160822,2016-6242,Winston-Salem,Hard,105077,Albert Ramos,33,ESP,R32,105357,John Millman,81,AUS,no
+20160829,2016-560,Us Open,Hard,105077,Albert Ramos,33,ESP,R64,105723,Andrey Kuznetsov,47,RUS,no
+20160926,2016-7581,Chengdu,Hard,105077,Albert Ramos,31,ESP,F,111575,Karen Khachanov,101,RUS,no
+20160919,2016-0568,St.Petersburg,Hard,105077,Albert Ramos,32,ESP,R32,105098,Alexandre Sidorenko,255,FRA,no
+20161003,2016-M015,Beijing,Hard,105077,Albert Ramos,27,ESP,R32,105173,Adrian Mannarino,64,FRA,no
+20161010,2016-5014,Shanghai Masters,Hard,105077,Albert Ramos,27,ESP,R64,104926,Fabio Fognini,50,ITA,no
+20161017,2016-M014,Moscow,Hard,105077,Albert Ramos,31,ESP,QF,104926,Fabio Fognini,50,ITA,no
+20161024,2016-0337,Vienna,Hard,105077,Albert Ramos,26,ESP,QF,104542,Jo Wilfried Tsonga,15,FRA,no
+20161031,2016-0352,Paris Masters,Hard,105077,Albert Ramos,26,ESP,R32,104542,Jo Wilfried Tsonga,13,FRA,no
+20160118,2016-580,Australian Open,Hard,100644,Alexander Zverev,83,GER,R128,104918,Andy Murray,2,GBR,no
+20160201,2016-0375,Montpellier,Hard,100644,Alexander Zverev,85,GER,SF,103908,Paul Henri Mathieu,93,FRA,no
+20160208,2016-0407,Rotterdam,Hard,100644,Alexander Zverev,70,GER,QF,104792,Gael Monfils,18,FRA,no
+20160215,2016-0496,Marseille,Hard,100644,Alexander Zverev,56,GER,R16,104607,Tomas Berdych,8,CZE,no
+20160307,2016-M006,Indian Wells Masters,Hard,100644,Alexander Zverev,58,GER,R16,104745,Rafael Nadal,5,ESP,no
+20160321,2016-M007,Miami Masters,Hard,100644,Alexander Zverev,52,GER,R64,105449,Steve Johnson,36,USA,no
+20160411,2016-0410,Monte Carlo Masters,Clay,100644,Alexander Zverev,54,GER,R32,104719,Marcel Granollers,67,ESP,no
+20160418,2016-0425,Barcelona,Clay,100644,Alexander Zverev,51,GER,R16,104291,Malek Jaziri,76,TUN,no
+20160425,2016-0308,Munich,Clay,100644,Alexander Zverev,49,GER,SF,106233,Dominic Thiem,15,AUT,no
+20160509,2016-M009,Rome Masters,Clay,100644,Alexander Zverev,44,GER,R32,103819,Roger Federer,2,SUI,no
+20160516,2016-6120,Nice,Clay,100644,Alexander Zverev,48,GER,F,106233,Dominic Thiem,15,AUT,no
+20160523,2016-520,Roland Garros,Clay,100644,Alexander Zverev,41,GER,R32,106233,Dominic Thiem,15,AUT,no
+20160613,2016-0500,Halle,Grass,100644,Alexander Zverev,38,GER,F,104252,Florian Mayer,192,GER,no
+20160627,2016-540,Wimbledon,Grass,100644,Alexander Zverev,28,GER,R32,104607,Tomas Berdych,9,CZE,no
+20160711,2016-0414,Hamburg,Clay,100644,Alexander Zverev,27,GER,R32,105438,Inigo Cervantes Huegun,82,ESP,no
+20160718,2016-M035,Washington,Hard,100644,Alexander Zverev,27,GER,SF,104792,Gael Monfils,17,FRA,no
+20160725,2016-0421,Canada Masters,Hard,100644,Alexander Zverev,25,GER,R64,104229,Yen Hsun Lu,70,TPE,no
+20160815,2016-M024,Cincinnati Masters,Hard,100644,Alexander Zverev,27,GER,R64,105216,Yuichi Sugita,102,JPN,no
+20160829,2016-560,Us Open,Hard,100644,Alexander Zverev,28,GER,R64,105554,Daniel Evans,64,GBR,no
+20161003,2016-M015,Beijing,Hard,100644,Alexander Zverev,24,GER,QF,103970,David Ferrer,13,ESP,no
+20161010,2016-5014,Shanghai Masters,Hard,100644,Alexander Zverev,21,GER,R16,104542,Jo Wilfried Tsonga,13,FRA,no
+20161017,2016-0429,Stockholm,Hard,100644,Alexander Zverev,20,GER,SF,106058,Jack Sock,23,USA,no
+20160304,2016-M-DC-2016-WG-M-GER-CZE-01,Davis Cup WG R1: GER vs CZE,Hard,100644,Alexander Zverev,58,GER,RR,104607,Tomas Berdych,7,CZE,no
+20160304,2016-M-DC-2016-WG-M-GER-CZE-01,Davis Cup WG R1: GER vs CZE,Hard,100644,Alexander Zverev,58,GER,RR,104586,Lukas Rosol,50,CZE,no
+20160111,2016-M001,Sydney,Hard,105238,Alexandr Dolgopolov,36,UKR,QF,105777,Grigor Dimitrov,28,BUL,no
+20160118,2016-580,Australian Open,Hard,105238,Alexandr Dolgopolov,35,UKR,R64,103819,Roger Federer,3,SUI,no
+20160208,2016-0506,Buenos Aires,Clay,105238,Alexandr Dolgopolov,31,UKR,R32,106043,Diego Sebastian Schwartzman,89,ARG,no
+20160215,2016-M052,Rio de Janeiro,Clay,105238,Alexandr Dolgopolov,33,UKR,QF,104745,Rafael Nadal,5,ESP,no
+20160222,2016-M004,Acapulco,Hard,105238,Alexandr Dolgopolov,32,UKR,SF,106071,Bernard Tomic,21,AUS,no
+20160307,2016-M006,Indian Wells Masters,Hard,105238,Alexandr Dolgopolov,29,UKR,R32,104755,Richard Gasquet,10,FRA,no
+20160321,2016-M007,Miami Masters,Hard,105238,Alexandr Dolgopolov,29,UKR,R32,105453,Kei Nishikori,6,JPN,no
+20160418,2016-0425,Barcelona,Clay,105238,Alexandr Dolgopolov,30,UKR,QF,105453,Kei Nishikori,6,JPN,no
+20160502,2016-M021,Madrid Masters,Clay,105238,Alexandr Dolgopolov,29,UKR,R32,105683,Milos Raonic,10,CAN,no
+20160509,2016-M009,Rome Masters,Clay,105238,Alexandr Dolgopolov,28,UKR,R64,106233,Dominic Thiem,15,AUT,no
+20160620,2016-0741,Nottingham,Grass,105238,Alexandr Dolgopolov,32,UKR,QF,104180,Gilles Muller,41,LUX,no
+20160627,2016-540,Wimbledon,Grass,105238,Alexandr Dolgopolov,33,UKR,R64,105554,Daniel Evans,91,GBR,no
+20160718,2016-M035,Washington,Hard,105238,Alexandr Dolgopolov,37,UKR,R16,105023,Sam Querrey,29,USA,no
+20160725,2016-0421,Canada Masters,Hard,105238,Alexandr Dolgopolov,38,UKR,R64,105385,Donald Young,57,USA,no
+20160801,2016-6116,Atlanta,Hard,105238,Alexandr Dolgopolov,38,UKR,R16,106415,Yoshihito Nishioka,97,JPN,no
+20160808,2016-7480,Los Cabos,Hard,105238,Alexandr Dolgopolov,38,UKR,R32,104547,Horacio Zeballos,73,ARG,no
+20160815,2016-M024,Cincinnati Masters,Hard,105238,Alexandr Dolgopolov,37,UKR,R64,104731,Kevin Anderson,24,RSA,no
+20160829,2016-560,Us Open,Hard,105238,Alexandr Dolgopolov,57,UKR,R128,103970,David Ferrer,13,ESP,no
+20160104,2016-0891,Chennai,Hard,105379,Aljaz Bedene,45,GBR,SF,106432,Borna Coric,44,CRO,no
+20160111,2016-0301,Auckland,Hard,105379,Aljaz Bedene,49,GBR,R32,105023,Sam Querrey,60,USA,no
+20160118,2016-580,Australian Open,Hard,105379,Aljaz Bedene,49,GBR,R128,105449,Steve Johnson,32,USA,no
+20160215,2016-M052,Rio de Janeiro,Clay,105379,Aljaz Bedene,51,GBR,R32,104926,Fabio Fognini,24,ITA,no
+20160222,2016-M004,Acapulco,Hard,105379,Aljaz Bedene,54,GBR,R16,104898,Robin Haase,62,NED,no
+20160307,2016-M006,Indian Wells Masters,Hard,105379,Aljaz Bedene,51,GBR,R128,104022,Mikhail Youzhny,76,RUS,no
+20160321,2016-M007,Miami Masters,Hard,105379,Aljaz Bedene,57,GBR,R64,105138,Roberto Bautista Agut,18,ESP,no
+20160411,2016-0410,Monte Carlo Masters,Clay,105379,Aljaz Bedene,60,GBR,R32,104745,Rafael Nadal,5,ESP,no
+20160418,2016-0425,Barcelona,Clay,105379,Aljaz Bedene,59,GBR,R64,111575,Karen Khachanov,138,RUS,no
+20160425,2016-7163,Istanbul,Clay,105379,Aljaz Bedene,59,GBR,R32,111575,Karen Khachanov,128,RUS,no
+20160509,2016-M009,Rome Masters,Clay,105379,Aljaz Bedene,69,GBR,R64,103565,Stephane Robert,103,FRA,no
+20160523,2016-520,Roland Garros,Clay,105379,Aljaz Bedene,66,GBR,R32,104925,Novak Djokovic,1,SRB,no
+20160606,2016-M010,s-Hertogenbosch,Grass,105379,Aljaz Bedene,58,GBR,R16,106071,Bernard Tomic,23,AUS,no
+20160613,2016-0311,London,Grass,105379,Aljaz Bedene,58,GBR,R16,104918,Andy Murray,2,GBR,no
+20160627,2016-540,Wimbledon,Grass,105379,Aljaz Bedene,56,GBR,R128,104755,Richard Gasquet,10,FRA,no
+20160711,2016-0316,Bastad,Clay,105379,Aljaz Bedene,68,GBR,R16,104460,Dustin Brown,101,GER,no
+20160718,2016-0439,Umag,Clay,105379,Aljaz Bedene,69,GBR,R32,105677,Nikola Cacic,761,SRB,no
+20160822,2016-6242,Winston-Salem,Hard,105379,Aljaz Bedene,77,GBR,R32,105138,Roberto Bautista Agut,17,ESP,no
+20160829,2016-560,Us Open,Hard,105379,Aljaz Bedene,77,GBR,R128,106401,Nick Kyrgios,16,AUS,no
+20160104,2016-0451,Doha,Hard,104312,Andreas Seppi,29,ITA,R32,105575,Ricardas Berankis,85,LTU,no
+20160111,2016-M001,Sydney,Hard,104312,Andreas Seppi,29,ITA,R16,103917,Nicolas Mahut,71,FRA,no
+20160118,2016-580,Australian Open,Hard,104312,Andreas Seppi,29,ITA,R32,104925,Novak Djokovic,1,SRB,no
+20160201,2016-7434,Sofia,Hard,104312,Andreas Seppi,31,ITA,QF,105373,Martin Klizan,44,SVK,no
+20160208,2016-0407,Rotterdam,Hard,104312,Andreas Seppi,36,ITA,R32,104180,Gilles Muller,40,LUX,no
+20160222,2016-0495,Dubai,Hard,104312,Andreas Seppi,39,ITA,R32,111202,Hyeon Chung,66,KOR,no
+20160307,2016-M006,Indian Wells Masters,Hard,104312,Andreas Seppi,42,ITA,R64,104545,John Isner,11,USA,no
+20160321,2016-M007,Miami Masters,Hard,104312,Andreas Seppi,43,ITA,R64,105238,Alexandr Dolgopolov,29,UKR,no
+20160509,2016-M009,Rome Masters,Clay,104312,Andreas Seppi,42,ITA,R32,104755,Richard Gasquet,12,FRA,no
+20160516,2016-6120,Nice,Clay,104312,Andreas Seppi,41,ITA,QF,106233,Dominic Thiem,15,AUT,no
+20160523,2016-520,Roland Garros,Clay,104312,Andreas Seppi,38,ITA,R128,105208,Ernests Gulbis,80,LAT,no
+20160606,2016-M010,s-Hertogenbosch,Grass,104312,Andreas Seppi,40,ITA,R32,105173,Adrian Mannarino,55,FRA,no
+20160613,2016-0500,Halle,Grass,104312,Andreas Seppi,40,ITA,QF,104252,Florian Mayer,192,GER,no
+20160620,2016-0741,Nottingham,Grass,104312,Andreas Seppi,57,ITA,SF,105449,Steve Johnson,38,USA,no
+20160627,2016-540,Wimbledon,Grass,104312,Andreas Seppi,45,ITA,R64,105683,Milos Raonic,7,CAN,no
+20160718,2016-0439,Umag,Clay,104312,Andreas Seppi,52,ITA,R32,105807,Pablo Carreno Busta,56,ESP,no
+20160808,2016-O16,Olympics,Hard,104312,Andreas Seppi,71,ITA,R32,104745,Rafael Nadal,5,ESP,no
+20160822,2016-6242,Winston-Salem,Hard,104312,Andreas Seppi,88,ITA,R64,105526,Jan Lennard Struff,78,GER,no
+20160829,2016-560,Us Open,Hard,104312,Andreas Seppi,87,ITA,R64,104745,Rafael Nadal,5,ESP,no
+20160919,2016-0341,Metz,Hard,104312,Andreas Seppi,92,ITA,R32,105011,Illya Marchenko,50,UKR,no
+20161003,2016-M015,Beijing,Hard,104312,Andreas Seppi,94,ITA,R32,104918,Andy Murray,2,GBR,no
+20161017,2016-7485,Antwerp,Hard,104312,Andreas Seppi,100,ITA,QF,106378,Kyle Edmund,43,GBR,no
+20161024,2016-0337,Vienna,Hard,104312,Andreas Seppi,87,ITA,R32,111575,Karen Khachanov,63,RUS,no
+20161031,2016-0352,Paris Masters,Hard,104312,Andreas Seppi,86,ITA,R64,105311,Joao Sousa,43,POR,no
+20160715,2016-M-DC-2016-WG-M-ITA-ARG-01,Davis Cup WG QF: ITA vs ARG,Clay,104312,Andreas Seppi,52,ITA,RR,105643,Federico Delbonis,40,ARG,no
+20160104,2016-0451,Doha,Hard,105723,Andrey Kuznetsov,79,RUS,QF,104745,Rafael Nadal,5,ESP,no
+20160118,2016-580,Australian Open,Hard,105723,Andrey Kuznetsov,74,RUS,R16,104792,Gael Monfils,25,FRA,no
+20160208,2016-0407,Rotterdam,Hard,105723,Andrey Kuznetsov,53,RUS,R32,104678,Viktor Troicki,22,SRB,no
+20160215,2016-0496,Marseille,Hard,105723,Andrey Kuznetsov,54,RUS,QF,105227,Marin Cilic,12,CRO,no
+20160307,2016-M006,Indian Wells Masters,Hard,105723,Andrey Kuznetsov,55,RUS,R32,104527,Stanislas Wawrinka,4,SUI,no
+20160321,2016-M007,Miami Masters,Hard,105723,Andrey Kuznetsov,51,RUS,R16,106401,Nick Kyrgios,26,AUS,no
+20160411,2016-0410,Monte Carlo Masters,Clay,105723,Andrey Kuznetsov,46,RUS,R64,104871,Jeremy Chardy,33,FRA,no
+20160418,2016-0425,Barcelona,Clay,105723,Andrey Kuznetsov,47,RUS,QF,104259,Philipp Kohlschreiber,27,GER,no
+20160502,2016-M021,Madrid Masters,Clay,105723,Andrey Kuznetsov,39,RUS,R32,104745,Rafael Nadal,5,ESP,no
+20160516,2016-0322,Geneva,Clay,105723,Andrey Kuznetsov,40,RUS,QF,104586,Lukas Rosol,68,CZE,no
+20160523,2016-520,Roland Garros,Clay,105723,Andrey Kuznetsov,40,RUS,R64,105453,Kei Nishikori,6,JPN,no
+20160613,2016-0500,Halle,Grass,105723,Andrey Kuznetsov,43,RUS,R32,103333,Ivo Karlovic,28,CRO,no
+20160627,2016-540,Wimbledon,Grass,105723,Andrey Kuznetsov,42,RUS,R32,105453,Kei Nishikori,6,JPN,no
+20160725,2016-0421,Canada Masters,Hard,105723,Andrey Kuznetsov,45,RUS,R64,105992,Ryan Harrison,144,USA,no
+20160808,2016-O16,Olympics,Hard,105723,Andrey Kuznetsov,43,RUS,R64,105138,Roberto Bautista Agut,17,ESP,no
+20160822,2016-6242,Winston-Salem,Hard,105723,Andrey Kuznetsov,42,RUS,QF,105807,Pablo Carreno Busta,49,ESP,no
+20160829,2016-560,Us Open,Hard,105723,Andrey Kuznetsov,47,RUS,R32,104745,Rafael Nadal,5,ESP,no
+20160919,2016-0568,St.Petersburg,Hard,105723,Andrey Kuznetsov,46,RUS,R16,104607,Tomas Berdych,9,CZE,no
+20161003,2016-M015,Beijing,Hard,105723,Andrey Kuznetsov,45,RUS,R16,104918,Andy Murray,2,GBR,no
+20161017,2016-M014,Moscow,Hard,105723,Andrey Kuznetsov,45,RUS,R16,105064,Thomaz Bellucci,62,BRA,no
+20161024,2016-0328,Basel,Hard,105723,Andrey Kuznetsov,47,RUS,R32,105643,Federico Delbonis,48,ARG,no
+20160118,2016-580,Australian Open,Hard,104918,Andy Murray,2,GBR,F,104925,Novak Djokovic,1,SRB,no
+20160307,2016-M006,Indian Wells Masters,Hard,104918,Andy Murray,2,GBR,R32,105643,Federico Delbonis,53,ARG,no
+20160321,2016-M007,Miami Masters,Hard,104918,Andy Murray,2,GBR,R32,105777,Grigor Dimitrov,28,BUL,no
+20160411,2016-0410,Monte Carlo Masters,Clay,104918,Andy Murray,2,GBR,SF,104745,Rafael Nadal,5,ESP,no
+20160502,2016-M021,Madrid Masters,Clay,104918,Andy Murray,2,GBR,F,104925,Novak Djokovic,1,SRB,no
+20160523,2016-520,Roland Garros,Clay,104918,Andy Murray,2,GBR,F,104925,Novak Djokovic,1,SRB,no
+20160815,2016-M024,Cincinnati Masters,Hard,104918,Andy Murray,2,GBR,F,105227,Marin Cilic,14,CRO,no
+20160829,2016-560,Us Open,Hard,104918,Andy Murray,2,GBR,QF,105453,Kei Nishikori,7,JPN,no
+20160916,2016-M-DC-2016-WG-M-GBR-ARG-01,Davis Cup WG SF: GBR vs ARG,Hard,104918,Andy Murray,2,GBR,RR,105223,Juan Martin Del Potro,64,ARG,no
+20160104,2016-0891,Chennai,Hard,105332,Benoit Paire,19,FRA,SF,104527,Stanislas Wawrinka,4,SUI,no
+20160111,2016-0301,Auckland,Hard,105332,Benoit Paire,18,FRA,R16,104586,Lukas Rosol,54,CZE,no
+20160118,2016-580,Australian Open,Hard,105332,Benoit Paire,18,FRA,R128,111511,Noah Rubin,328,USA,no
+20160201,2016-0375,Montpellier,Hard,105332,Benoit Paire,21,FRA,R16,103908,Paul Henri Mathieu,93,FRA,no
+20160208,2016-0407,Rotterdam,Hard,105332,Benoit Paire,21,FRA,R32,104471,Ivan Dodig,87,CRO,no
+20160215,2016-0496,Marseille,Hard,105332,Benoit Paire,22,FRA,SF,105227,Marin Cilic,12,CRO,no
+20160222,2016-0533,Sao Paulo,Clay,105332,Benoit Paire,20,FRA,R16,105583,Dusan Lajovic,76,SRB,no
+20160307,2016-M006,Indian Wells Masters,Hard,105332,Benoit Paire,22,FRA,R64,105173,Adrian Mannarino,60,FRA,no
+20160321,2016-M007,Miami Masters,Hard,105332,Benoit Paire,22,FRA,R32,104755,Richard Gasquet,10,FRA,no
+20160404,2016-0717,Houston,Clay,105332,Benoit Paire,22,FRA,R16,104338,Juan Monaco,148,ARG,no
+20160411,2016-0410,Monte Carlo Masters,Clay,105332,Benoit Paire,22,FRA,R16,104918,Andy Murray,2,GBR,no
+20160418,2016-0425,Barcelona,Clay,105332,Benoit Paire,22,FRA,SF,105453,Kei Nishikori,6,JPN,no
+20160425,2016-7290,Estoril,Clay,105332,Benoit Paire,21,FRA,SF,105807,Pablo Carreno Busta,50,ESP,no
+20160502,2016-M021,Madrid Masters,Clay,105332,Benoit Paire,20,FRA,R64,106058,Jack Sock,26,USA,no
+20160509,2016-M009,Rome Masters,Clay,105332,Benoit Paire,21,FRA,R32,104527,Stanislas Wawrinka,4,SUI,no
+20160516,2016-6120,Nice,Clay,105332,Benoit Paire,21,FRA,R16,105173,Adrian Mannarino,63,FRA,no
+20160523,2016-520,Roland Garros,Clay,105332,Benoit Paire,21,FRA,R64,104559,Teymuraz Gabashvili,79,RUS,no
+20160613,2016-0311,London,Grass,105332,Benoit Paire,23,FRA,R32,105379,Aljaz Bedene,58,GBR,no
+20160627,2016-540,Wimbledon,Grass,105332,Benoit Paire,23,FRA,R64,105357,John Millman,67,AUS,no
+20160711,2016-0414,Hamburg,Clay,105332,Benoit Paire,23,FRA,R32,104593,Daniel Gimeno Traver,156,ESP,no
+20160718,2016-M035,Washington,Hard,105332,Benoit Paire,24,FRA,QF,100644,Alexander Zverev,27,GER,no
+20160725,2016-0421,Canada Masters,Hard,105332,Benoit Paire,28,FRA,R64,103285,Radek Stepanek,129,CZE,no
+20160808,2016-O16,Olympics,Hard,105332,Benoit Paire,32,FRA,R32,104926,Fabio Fognini,40,ITA,no
+20160815,2016-M024,Cincinnati Masters,Hard,105332,Benoit Paire,32,FRA,R64,106432,Borna Coric,49,CRO,no
+20160829,2016-560,Us Open,Hard,105332,Benoit Paire,34,FRA,R64,104571,Marcos Baghdatis,44,CYP,no
+20160919,2016-0341,Metz,Hard,105332,Benoit Paire,38,FRA,R32,104672,Vincent Millot,162,FRA,no
+20160926,2016-6967,Shenzhen,Hard,105332,Benoit Paire,38,FRA,R16,104386,Janko Tipsarevic,224,SRB,no
+20161003,2016-0329,Tokyo,Hard,105332,Benoit Paire,37,FRA,R32,105227,Marin Cilic,11,CRO,no
+20161010,2016-5014,Shanghai Masters,Hard,105332,Benoit Paire,47,FRA,R32,105676,David Goffin,12,BEL,no
+20161017,2016-7485,Antwerp,Hard,105332,Benoit Paire,42,FRA,R32,104327,Steve Darcis,120,BEL,no
+20161024,2016-0328,Basel,Hard,105332,Benoit Paire,44,FRA,R32,104252,Florian Mayer,55,GER,no
+20161031,2016-0352,Paris Masters,Hard,105332,Benoit Paire,45,FRA,R64,103893,Paolo Lorenzi,39,ITA,no
+20160104,2016-M020,Brisbane,Hard,106071,Bernard Tomic,18,AUS,SF,105683,Milos Raonic,14,CAN,no
+20160111,2016-M001,Sydney,Hard,106071,Bernard Tomic,17,AUS,QF,104559,Teymuraz Gabashvili,50,RUS,no
+20160118,2016-580,Australian Open,Hard,106071,Bernard Tomic,17,AUS,R16,104918,Andy Murray,2,GBR,no
+20160201,2016-7161,Quito,Clay,106071,Bernard Tomic,20,AUS,QF,103893,Paolo Lorenzi,59,ITA,no
+20160215,2016-0499,Delray Beach,Hard,106071,Bernard Tomic,20,AUS,R32,104330,Rajeev Ram,89,USA,no
+20160222,2016-M004,Acapulco,Hard,106071,Bernard Tomic,21,AUS,F,106233,Dominic Thiem,15,AUT,no
+20160307,2016-M006,Indian Wells Masters,Hard,106071,Bernard Tomic,20,AUS,R32,105683,Milos Raonic,14,CAN,no
+20160418,2016-0773,Bucharest,Clay,106071,Bernard Tomic,21,AUS,R16,104898,Robin Haase,64,NED,no
+20160425,2016-7163,Istanbul,Clay,106071,Bernard Tomic,22,AUS,R16,106043,Diego Sebastian Schwartzman,87,ARG,no
+20160502,2016-M021,Madrid Masters,Clay,106071,Bernard Tomic,22,AUS,R64,104926,Fabio Fognini,31,ITA,no
+20160509,2016-M009,Rome Masters,Clay,106071,Bernard Tomic,22,AUS,R64,105332,Benoit Paire,21,FRA,no
+20160523,2016-520,Roland Garros,Clay,106071,Bernard Tomic,22,AUS,R64,106432,Borna Coric,47,CRO,no
+20160606,2016-M010,s-Hertogenbosch,Grass,106071,Bernard Tomic,23,AUS,QF,103917,Nicolas Mahut,49,FRA,no
+20160613,2016-0311,London,Grass,106071,Bernard Tomic,22,AUS,SF,105683,Milos Raonic,9,CAN,no
+20160627,2016-540,Wimbledon,Grass,106071,Bernard Tomic,19,AUS,R16,106298,Lucas Pouille,30,FRA,no
+20160718,2016-M035,Washington,Hard,106071,Bernard Tomic,19,AUS,R16,103333,Ivo Karlovic,35,CRO,no
+20160725,2016-0421,Canada Masters,Hard,106071,Bernard Tomic,22,AUS,R16,104731,Kevin Anderson,34,RSA,no
+20160808,2016-7480,Los Cabos,Hard,106071,Bernard Tomic,20,AUS,R16,105583,Dusan Lajovic,72,SRB,no
+20160815,2016-M024,Cincinnati Masters,Hard,106071,Bernard Tomic,21,AUS,QF,104918,Andy Murray,2,GBR,no
+20160829,2016-560,Us Open,Hard,106071,Bernard Tomic,19,AUS,R128,106000,Damir Dzumhur,72,BIH,no
+20160926,2016-6967,Shenzhen,Hard,106071,Bernard Tomic,22,AUS,QF,105064,Thomaz Bellucci,81,BRA,no
+20161003,2016-M015,Beijing,Hard,106071,Bernard Tomic,22,AUS,R32,105807,Pablo Carreno Busta,38,ESP,no
+20161010,2016-5014,Shanghai Masters,Hard,106071,Bernard Tomic,23,AUS,R64,105138,Roberto Bautista Agut,19,ESP,no
+20160304,2016-M-DC-2016-WG-M-USA-AUS-01,Davis Cup WG R1: USA vs AUS,Grass,106071,Bernard Tomic,20,AUS,RR,104545,John Isner,11,USA,no
+20160104,2016-0891,Chennai,Hard,106432,Borna Coric,44,CRO,F,104527,Stanislas Wawrinka,4,SUI,no
+20160111,2016-M001,Sydney,Hard,106432,Borna Coric,40,CRO,R32,104180,Gilles Muller,38,LUX,no
+20160118,2016-580,Australian Open,Hard,106432,Borna Coric,40,CRO,R128,105077,Albert Ramos,61,ESP,no
+20160201,2016-0375,Montpellier,Hard,106432,Borna Coric,38,CRO,R32,103582,Michael Berrer,121,GER,no
+20160208,2016-0407,Rotterdam,Hard,106432,Borna Coric,38,CRO,R16,104792,Gael Monfils,18,FRA,no
+20160222,2016-0495,Dubai,Hard,106432,Borna Coric,38,CRO,R16,104259,Philipp Kohlschreiber,28,GER,no
+20160307,2016-M006,Indian Wells Masters,Hard,106432,Borna Coric,47,CRO,R32,104607,Tomas Berdych,7,CZE,no
+20160321,2016-M007,Miami Masters,Hard,106432,Borna Coric,46,CRO,R128,104797,Denis Istomin,76,UZB,no
+20160404,2016-0360,Marrakech,Clay,106432,Borna Coric,48,CRO,F,105643,Federico Delbonis,47,ARG,no
+20160411,2016-0410,Monte Carlo Masters,Clay,106432,Borna Coric,42,CRO,R64,104259,Philipp Kohlschreiber,28,GER,no
+20160425,2016-7290,Estoril,Clay,106432,Borna Coric,40,CRO,QF,106401,Nick Kyrgios,20,AUS,no
+20160502,2016-M021,Madrid Masters,Clay,106432,Borna Coric,40,CRO,R32,104925,Novak Djokovic,1,SRB,no
+20160509,2016-M009,Rome Masters,Clay,106432,Borna Coric,41,CRO,R64,105062,Mikhail Kukushkin,87,KAZ,no
+20160523,2016-520,Roland Garros,Clay,106432,Borna Coric,47,CRO,R32,105138,Roberto Bautista Agut,16,ESP,no
+20160613,2016-0500,Halle,Grass,106432,Borna Coric,49,CRO,R32,105676,David Goffin,11,BEL,no
+20160627,2016-540,Wimbledon,Grass,106432,Borna Coric,50,CRO,R128,103333,Ivo Karlovic,32,CRO,no
+20160718,2016-M035,Washington,Hard,106432,Borna Coric,53,CRO,R16,104792,Gael Monfils,17,FRA,no
+20160725,2016-0421,Canada Masters,Hard,106432,Borna Coric,53,CRO,R32,104607,Tomas Berdych,8,CZE,no
+20160808,2016-O16,Olympics,Hard,106432,Borna Coric,51,CRO,R64,104468,Gilles Simon,31,FRA,no
+20160815,2016-M024,Cincinnati Masters,Hard,106432,Borna Coric,49,CRO,QF,105227,Marin Cilic,14,CRO,no
+20160829,2016-560,Us Open,Hard,106432,Borna Coric,41,CRO,R128,103852,Feliciano Lopez,18,ESP,no
+20160304,2016-M-DC-2016-WG-M-CRO-BEL-01,Davis Cup WG R1: CRO vs BEL,Clay,106432,Borna Coric,47,CRO,RR,105676,David Goffin,16,BEL,no
+20160916,2016-M-DC-2016-WG-M-FRA-CRO-01,Davis Cup WG SF: FRA vs CRO,Hard,106432,Borna Coric,42,CRO,RR,104755,Richard Gasquet,17,FRA,no
+20160715,2016-M-DC-2016-WG-M-USA-CRO-01,Davis Cup WG QF: USA vs CRO,Hard,106432,Borna Coric,54,CRO,RR,104545,John Isner,16,USA,no
+20160104,2016-0451,Doha,Hard,103970,David Ferrer,7,ESP,R32,105011,Illya Marchenko,94,UKR,no
+20160111,2016-0301,Auckland,Hard,103970,David Ferrer,8,ESP,SF,106058,Jack Sock,26,USA,no
+20160118,2016-580,Australian Open,Hard,103970,David Ferrer,8,ESP,QF,104918,Andy Murray,2,GBR,no
+20160208,2016-0506,Buenos Aires,Clay,103970,David Ferrer,6,ESP,SF,104597,Nicolas Almagro,72,ESP,no
+20160215,2016-M052,Rio de Janeiro,Clay,103970,David Ferrer,6,ESP,QF,106233,Dominic Thiem,19,AUT,no
+20160222,2016-M004,Acapulco,Hard,103970,David Ferrer,8,ESP,R16,105238,Alexandr Dolgopolov,32,UKR,no
+20160321,2016-M007,Miami Masters,Hard,103970,David Ferrer,8,ESP,R32,106298,Lucas Pouille,88,FRA,no
+20160502,2016-M021,Madrid Masters,Clay,103970,David Ferrer,9,ESP,R16,104607,Tomas Berdych,8,CZE,no
+20160509,2016-M009,Rome Masters,Clay,103970,David Ferrer,9,ESP,R16,106298,Lucas Pouille,52,FRA,no
+20160516,2016-0322,Geneva,Clay,103970,David Ferrer,12,ESP,SF,105227,Marin Cilic,11,CRO,no
+20160523,2016-520,Roland Garros,Clay,103970,David Ferrer,11,ESP,R16,104607,Tomas Berdych,8,CZE,no
+20160606,2016-M010,s-Hertogenbosch,Grass,103970,David Ferrer,14,ESP,QF,104180,Gilles Muller,44,LUX,no
+20160613,2016-0500,Halle,Grass,103970,David Ferrer,14,ESP,R32,104312,Andreas Seppi,40,ITA,no
+20160627,2016-540,Wimbledon,Grass,103970,David Ferrer,14,ESP,R64,103917,Nicolas Mahut,51,FRA,no
+20160711,2016-0316,Bastad,Clay,103970,David Ferrer,13,ESP,SF,105077,Albert Ramos,35,ESP,no
+20160808,2016-O16,Olympics,Hard,103970,David Ferrer,12,ESP,R32,105539,Evgeny Donskoy,84,RUS,no
+20160815,2016-M024,Cincinnati Masters,Hard,103970,David Ferrer,12,ESP,R64,103898,Julien Benneteau,294,FRA,no
+20160829,2016-560,Us Open,Hard,103970,David Ferrer,13,ESP,R32,105223,Juan Martin Del Potro,142,ARG,no
+20161003,2016-M015,Beijing,Hard,103970,David Ferrer,13,ESP,SF,104918,Andy Murray,2,GBR,no
+20161010,2016-5014,Shanghai Masters,Hard,103970,David Ferrer,15,ESP,R64,103852,Feliciano Lopez,28,ESP,no
+20161017,2016-7485,Antwerp,Hard,103970,David Ferrer,15,ESP,R16,106378,Kyle Edmund,43,GBR,no
+20161024,2016-0337,Vienna,Hard,103970,David Ferrer,19,ESP,SF,104918,Andy Murray,2,GBR,no
+20161031,2016-0352,Paris Masters,Hard,103970,David Ferrer,16,ESP,R32,104545,John Isner,27,USA,no
+20160104,2016-M020,Brisbane,Hard,105676,David Goffin,16,BEL,R16,106298,Lucas Pouille,78,FRA,no
+20160118,2016-580,Australian Open,Hard,105676,David Goffin,16,BEL,R16,103819,Roger Federer,3,SUI,no
+20160208,2016-0407,Rotterdam,Hard,105676,David Goffin,16,BEL,R32,104571,Marcos Baghdatis,61,CYP,no
+20160215,2016-0496,Marseille,Hard,105676,David Goffin,17,BEL,QF,104607,Tomas Berdych,8,CZE,no
+20160307,2016-M006,Indian Wells Masters,Hard,105676,David Goffin,18,BEL,SF,105683,Milos Raonic,14,CAN,no
+20160321,2016-M007,Miami Masters,Hard,105676,David Goffin,15,BEL,SF,104925,Novak Djokovic,1,SRB,no
+20160411,2016-0410,Monte Carlo Masters,Clay,105676,David Goffin,13,BEL,R16,104719,Marcel Granollers,67,ESP,no
+20160425,2016-0308,Munich,Clay,105676,David Goffin,13,BEL,QF,100644,Alexander Zverev,49,GER,no
+20160502,2016-M021,Madrid Masters,Clay,105676,David Goffin,13,BEL,R64,106298,Lucas Pouille,58,FRA,no
+20160509,2016-M009,Rome Masters,Clay,105676,David Goffin,13,BEL,QF,104918,Andy Murray,3,GBR,no
+20160523,2016-520,Roland Garros,Clay,105676,David Goffin,13,BEL,QF,106233,Dominic Thiem,15,AUT,no
+20160613,2016-0500,Halle,Grass,105676,David Goffin,11,BEL,QF,103819,Roger Federer,3,SUI,no
+20160627,2016-540,Wimbledon,Grass,105676,David Goffin,11,BEL,R16,105683,Milos Raonic,7,CAN,no
+20160725,2016-0421,Canada Masters,Hard,105676,David Goffin,11,BEL,R16,104792,Gael Monfils,14,FRA,no
+20160808,2016-O16,Olympics,Hard,105676,David Goffin,13,BEL,R16,105064,Thomaz Bellucci,54,BRA,no
+20160815,2016-M024,Cincinnati Masters,Hard,105676,David Goffin,13,BEL,R32,106071,Bernard Tomic,21,AUS,no
+20160829,2016-560,Us Open,Hard,105676,David Goffin,14,BEL,R128,111577,Jared Donaldson,122,USA,no
+20160919,2016-0341,Metz,Hard,105676,David Goffin,14,BEL,SF,106298,Lucas Pouille,18,FRA,no
+20160926,2016-6967,Shenzhen,Hard,105676,David Goffin,14,BEL,R16,104291,Malek Jaziri,55,TUN,no
+20161003,2016-0329,Tokyo,Hard,105676,David Goffin,14,BEL,F,106401,Nick Kyrgios,15,AUS,no
+20161010,2016-5014,Shanghai Masters,Hard,105676,David Goffin,12,BEL,QF,104918,Andy Murray,2,GBR,no
+20161017,2016-7485,Antwerp,Hard,105676,David Goffin,12,BEL,SF,106043,Diego Sebastian Schwartzman,77,ARG,no
+20161024,2016-0328,Basel,Hard,105676,David Goffin,11,BEL,R16,105223,Juan Martin Del Potro,42,ARG,no
+20161031,2016-0352,Paris Masters,Hard,105676,David Goffin,12,BEL,R16,105227,Marin Cilic,10,CRO,no
+20161114,2016-0605,London,Hard,105676,David Goffin,11,BEL,RR,104925,Novak Djokovic,2,SRB,no
+20160104,2016-M020,Brisbane,Hard,106233,Dominic Thiem,20,AUT,SF,103819,Roger Federer,3,SUI,no
+20160111,2016-M001,Sydney,Hard,106233,Dominic Thiem,20,AUT,R16,104180,Gilles Muller,38,LUX,no
+20160118,2016-580,Australian Open,Hard,106233,Dominic Thiem,20,AUT,R32,105676,David Goffin,16,BEL,no
+20160215,2016-M052,Rio de Janeiro,Clay,106233,Dominic Thiem,19,AUT,SF,105550,Guido Pella,71,ARG,no
+20160307,2016-M006,Indian Wells Masters,Hard,106233,Dominic Thiem,13,AUT,R16,104542,Jo Wilfried Tsonga,9,FRA,no
+20160321,2016-M007,Miami Masters,Hard,106233,Dominic Thiem,14,AUT,R16,104925,Novak Djokovic,1,SRB,no
+20160411,2016-0410,Monte Carlo Masters,Clay,106233,Dominic Thiem,14,AUT,R16,104745,Rafael Nadal,5,ESP,no
+20160425,2016-0308,Munich,Clay,106233,Dominic Thiem,15,AUT,F,104259,Philipp Kohlschreiber,27,GER,no
+20160502,2016-M021,Madrid Masters,Clay,106233,Dominic Thiem,14,AUT,R64,105223,Juan Martin Del Potro,274,ARG,no
+20160509,2016-M009,Rome Masters,Clay,106233,Dominic Thiem,15,AUT,QF,105453,Kei Nishikori,6,JPN,no
+20160523,2016-520,Roland Garros,Clay,106233,Dominic Thiem,15,AUT,SF,104925,Novak Djokovic,1,SRB,no
+20160613,2016-0500,Halle,Grass,106233,Dominic Thiem,7,AUT,SF,104252,Florian Mayer,192,GER,no
+20160627,2016-540,Wimbledon,Grass,106233,Dominic Thiem,8,AUT,R64,106210,Jiri Vesely,64,CZE,no
+20160718,2016-0319,Kitzbuhel,Clay,106233,Dominic Thiem,9,AUT,R16,103781,Jurgen Melzer,421,AUT,no
+20160725,2016-0421,Canada Masters,Hard,106233,Dominic Thiem,9,AUT,R32,104731,Kevin Anderson,34,RSA,no
+20160815,2016-M024,Cincinnati Masters,Hard,106233,Dominic Thiem,9,AUT,QF,105683,Milos Raonic,6,CAN,no
+20160829,2016-560,Us Open,Hard,106233,Dominic Thiem,10,AUT,R16,105223,Juan Martin Del Potro,142,ARG,no
+20160919,2016-0341,Metz,Hard,106233,Dominic Thiem,10,AUT,F,106298,Lucas Pouille,18,FRA,no
+20160926,2016-7581,Chengdu,Hard,106233,Dominic Thiem,10,AUT,QF,105077,Albert Ramos,31,ESP,no
+20161003,2016-M015,Beijing,Hard,106233,Dominic Thiem,10,AUT,R32,100644,Alexander Zverev,24,GER,no
+20161024,2016-0337,Vienna,Hard,106233,Dominic Thiem,9,AUT,R16,104678,Viktor Troicki,28,SRB,no
+20161031,2016-0352,Paris Masters,Hard,106233,Dominic Thiem,8,AUT,R32,106058,Jack Sock,24,USA,no
+20161114,2016-0605,London,Hard,106233,Dominic Thiem,9,AUT,RR,104925,Novak Djokovic,2,SRB,no
+20161114,2016-0605,London,Hard,106233,Dominic Thiem,9,AUT,RR,105683,Milos Raonic,4,CAN,no
+20160111,2016-0301,Auckland,Hard,105385,Donald Young,46,USA,R16,105138,Roberto Bautista Agut,25,ESP,no
+20160118,2016-580,Australian Open,Hard,105385,Donald Young,47,USA,R128,105053,Santiago Giraldo,70,COL,no
+20160208,2016-0402,Memphis,Hard,105385,Donald Young,48,USA,QF,105575,Ricardas Berankis,102,LTU,no
+20160215,2016-0499,Delray Beach,Hard,105385,Donald Young,58,USA,R16,105065,Tim Smyczek,129,USA,no
+20160222,2016-M004,Acapulco,Hard,105385,Donald Young,79,USA,R16,105777,Grigor Dimitrov,26,BUL,no
+20160307,2016-M006,Indian Wells Masters,Hard,105385,Donald Young,75,USA,R128,104312,Andreas Seppi,42,ITA,no
+20160321,2016-M007,Miami Masters,Hard,105385,Donald Young,80,USA,R128,104312,Andreas Seppi,43,ITA,no
+20160404,2016-0717,Houston,Clay,105385,Donald Young,85,USA,R16,105065,Tim Smyczek,125,USA,no
+20160516,2016-6120,Nice,Clay,105385,Donald Young,82,USA,R16,105550,Guido Pella,54,ARG,no
+20160523,2016-520,Roland Garros,Clay,105385,Donald Young,76,USA,R128,104559,Teymuraz Gabashvili,79,RUS,no
+20160613,2016-0311,London,Grass,105385,Donald Young,75,USA,R16,105138,Roberto Bautista Agut,16,ESP,no
+20160627,2016-540,Wimbledon,Grass,105385,Donald Young,69,USA,R64,106298,Lucas Pouille,30,FRA,no
+20160711,2016-0315,Newport,Grass,105385,Donald Young,61,USA,SF,104180,Gilles Muller,39,LUX,no
+20160718,2016-M035,Washington,Hard,105385,Donald Young,57,USA,R32,106071,Bernard Tomic,19,AUS,no
+20160725,2016-0421,Canada Masters,Hard,105385,Donald Young,57,USA,R32,106058,Jack Sock,26,USA,no
+20160801,2016-6116,Atlanta,Hard,105385,Donald Young,53,USA,QF,124187,Reilly Opelka,837,USA,no
+20160822,2016-6242,Winston-Salem,Hard,105385,Donald Young,57,USA,R32,104571,Marcos Baghdatis,44,CYP,no
+20160829,2016-560,Us Open,Hard,105385,Donald Young,56,USA,R64,103333,Ivo Karlovic,23,CRO,no
+20161003,2016-0329,Tokyo,Hard,105385,Donald Young,81,USA,R32,105453,Kei Nishikori,5,JPN,no
+20161017,2016-0429,Stockholm,Hard,105385,Donald Young,82,USA,R32,105173,Adrian Mannarino,53,FRA,no
+20161024,2016-0328,Basel,Hard,105385,Donald Young,83,USA,R16,104527,Stanislas Wawrinka,3,SUI,no
+20160111,2016-0301,Auckland,Hard,104926,Fabio Fognini,21,ITA,QF,104542,Jo Wilfried Tsonga,10,FRA,no
+20160118,2016-580,Australian Open,Hard,104926,Fabio Fognini,23,ITA,R128,104180,Gilles Muller,38,LUX,no
+20160208,2016-0506,Buenos Aires,Clay,104926,Fabio Fognini,24,ITA,R32,105643,Federico Delbonis,45,ARG,no
+20160215,2016-M052,Rio de Janeiro,Clay,104926,Fabio Fognini,24,ITA,R16,104593,Daniel Gimeno Traver,118,ESP,no
+20160411,2016-0410,Monte Carlo Masters,Clay,104926,Fabio Fognini,31,ITA,R64,103893,Paolo Lorenzi,53,ITA,no
+20160418,2016-0425,Barcelona,Clay,104926,Fabio Fognini,31,ITA,QF,104745,Rafael Nadal,5,ESP,no
+20160425,2016-0308,Munich,Clay,104926,Fabio Fognini,30,ITA,SF,104259,Philipp Kohlschreiber,27,GER,no
+20160502,2016-M021,Madrid Masters,Clay,104926,Fabio Fognini,31,ITA,R32,105453,Kei Nishikori,6,JPN,no
+20160509,2016-M009,Rome Masters,Clay,104926,Fabio Fognini,31,ITA,R64,104198,Guillermo Garcia Lopez,51,ESP,no
+20160516,2016-6120,Nice,Clay,104926,Fabio Fognini,34,ITA,R32,105385,Donald Young,82,USA,no
+20160523,2016-520,Roland Garros,Clay,104926,Fabio Fognini,33,ITA,R128,104719,Marcel Granollers,56,ESP,no
+20160627,2016-540,Wimbledon,Grass,104926,Fabio Fognini,35,ITA,R64,103852,Feliciano Lopez,21,ESP,no
+20160725,2016-0421,Canada Masters,Hard,104926,Fabio Fognini,33,ITA,R32,111577,Jared Donaldson,147,USA,no
+20160808,2016-O16,Olympics,Hard,104926,Fabio Fognini,40,ITA,R16,104918,Andy Murray,2,GBR,no
+20160815,2016-M024,Cincinnati Masters,Hard,104926,Fabio Fognini,38,ITA,R64,104545,John Isner,22,USA,no
+20160829,2016-560,Us Open,Hard,104926,Fabio Fognini,38,ITA,R64,103970,David Ferrer,13,ESP,no
+20160926,2016-6967,Shenzhen,Hard,104926,Fabio Fognini,43,ITA,R16,104999,Mischa Zverev,120,GER,no
+20161003,2016-M015,Beijing,Hard,104926,Fabio Fognini,43,ITA,R16,103970,David Ferrer,13,ESP,no
+20161010,2016-5014,Shanghai Masters,Hard,104926,Fabio Fognini,50,ITA,R32,104925,Novak Djokovic,1,SRB,no
+20161017,2016-M014,Moscow,Hard,104926,Fabio Fognini,50,ITA,F,105807,Pablo Carreno Busta,36,ESP,no
+20161024,2016-0337,Vienna,Hard,104926,Fabio Fognini,49,ITA,R32,105077,Albert Ramos,26,ESP,no
+20161031,2016-0352,Paris Masters,Hard,104926,Fabio Fognini,49,ITA,R64,105807,Pablo Carreno Busta,31,ESP,no
+20160715,2016-M-DC-2016-WG-M-ITA-ARG-01,Davis Cup WG QF: ITA vs ARG,Clay,104926,Fabio Fognini,36,ITA,RR,105643,Federico Delbonis,40,ARG,no
+20160111,2016-M001,Sydney,Hard,105643,Federico Delbonis,52,ARG,R16,104559,Teymuraz Gabashvili,50,RUS,no
+20160118,2016-580,Australian Open,Hard,105643,Federico Delbonis,53,ARG,R32,104468,Gilles Simon,15,FRA,no
+20160208,2016-0506,Buenos Aires,Clay,105643,Federico Delbonis,45,ARG,R16,104597,Nicolas Almagro,72,ESP,no
+20160215,2016-M052,Rio de Janeiro,Clay,105643,Federico Delbonis,46,ARG,QF,104655,Pablo Cuevas,45,URU,no
+20160222,2016-0533,Sao Paulo,Clay,105643,Federico Delbonis,49,ARG,QF,105438,Inigo Cervantes Huegun,65,ESP,no
+20160307,2016-M006,Indian Wells Masters,Hard,105643,Federico Delbonis,53,ARG,R16,104792,Gael Monfils,16,FRA,no
+20160321,2016-M007,Miami Masters,Hard,105643,Federico Delbonis,48,ARG,R64,105777,Grigor Dimitrov,28,BUL,no
+20160411,2016-0410,Monte Carlo Masters,Clay,105643,Federico Delbonis,36,ARG,R64,104269,Fernando Verdasco,88,ESP,no
+20160418,2016-0773,Bucharest,Clay,105643,Federico Delbonis,40,ARG,SF,106298,Lucas Pouille,72,FRA,no
+20160425,2016-7163,Istanbul,Clay,105643,Federico Delbonis,36,ARG,SF,106043,Diego Sebastian Schwartzman,87,ARG,no
+20160516,2016-0322,Geneva,Clay,105643,Federico Delbonis,33,ARG,QF,105227,Marin Cilic,11,CRO,no
+20160523,2016-520,Roland Garros,Clay,105643,Federico Delbonis,35,ARG,R128,105807,Pablo Carreno Busta,43,ESP,no
+20160627,2016-540,Wimbledon,Grass,105643,Federico Delbonis,38,ARG,R128,104926,Fabio Fognini,35,ITA,no
+20160725,2016-0421,Canada Masters,Hard,105643,Federico Delbonis,43,ARG,R64,106261,Dennis Novikov,131,USA,no
+20160808,2016-O16,Olympics,Hard,105643,Federico Delbonis,44,ARG,R64,104745,Rafael Nadal,5,ESP,no
+20160815,2016-M024,Cincinnati Masters,Hard,105643,Federico Delbonis,43,ARG,R64,105449,Steve Johnson,23,USA,no
+20160822,2016-6242,Winston-Salem,Hard,105643,Federico Delbonis,43,ARG,R32,103565,Stephane Robert,52,FRA,no
+20160829,2016-560,Us Open,Hard,105643,Federico Delbonis,43,ARG,R64,105138,Roberto Bautista Agut,17,ESP,no
+20160926,2016-7581,Chengdu,Hard,105643,Federico Delbonis,41,ARG,R32,105583,Dusan Lajovic,73,SRB,no
+20161003,2016-0329,Tokyo,Hard,105643,Federico Delbonis,47,ARG,R32,103333,Ivo Karlovic,21,CRO,no
+20161010,2016-5014,Shanghai Masters,Hard,105643,Federico Delbonis,46,ARG,R64,106378,Kyle Edmund,48,GBR,no
+20161017,2016-7485,Antwerp,Hard,105643,Federico Delbonis,47,ARG,R32,104312,Andreas Seppi,100,ITA,no
+20161024,2016-0328,Basel,Hard,105643,Federico Delbonis,48,ARG,QF,104180,Gilles Muller,37,LUX,no
+20161125,2016-M-DC-2016-WG-M-ARG-CRO-01,Davis Cup WG F: ARG vs CRO,Hard,105643,Federico Delbonis,41,ARG,RR,105227,Marin Cilic,6,CRO,no
+20160104,2016-0451,Doha,Hard,103852,Feliciano Lopez,17,ESP,R32,103926,Daniel Munoz De La Nava,75,ESP,no
+20160118,2016-580,Australian Open,Hard,103852,Feliciano Lopez,19,ESP,R32,104545,John Isner,11,USA,no
+20160201,2016-7161,Quito,Clay,103852,Feliciano Lopez,22,ESP,QF,105077,Albert Ramos,55,ESP,no
+20160215,2016-0496,Marseille,Hard,103852,Feliciano Lopez,25,ESP,R32,104660,Sergiy Stakhovsky,81,UKR,no
+20160222,2016-0495,Dubai,Hard,103852,Feliciano Lopez,24,ESP,SF,104571,Marcos Baghdatis,57,CYP,no
+20160307,2016-M006,Indian Wells Masters,Hard,103852,Feliciano Lopez,21,ESP,R16,104925,Novak Djokovic,1,SRB,no
+20160321,2016-M007,Miami Masters,Hard,103852,Feliciano Lopez,23,ESP,R64,106415,Yoshihito Nishioka,124,JPN,no
+20160404,2016-0717,Houston,Clay,103852,Feliciano Lopez,24,ESP,SF,104338,Juan Monaco,148,ARG,no
+20160411,2016-0410,Monte Carlo Masters,Clay,103852,Feliciano Lopez,23,ESP,R64,105676,David Goffin,13,BEL,no
+20160418,2016-0425,Barcelona,Clay,103852,Feliciano Lopez,23,ESP,R16,104259,Philipp Kohlschreiber,27,GER,no
+20160502,2016-M021,Madrid Masters,Clay,103852,Feliciano Lopez,23,ESP,R32,105138,Roberto Bautista Agut,17,ESP,no
+20160509,2016-M009,Rome Masters,Clay,103852,Feliciano Lopez,23,ESP,R64,104731,Kevin Anderson,19,RSA,no
+20160523,2016-520,Roland Garros,Clay,103852,Feliciano Lopez,23,ESP,R32,103970,David Ferrer,11,ESP,no
+20160606,2016-0321,Stuttgart,Grass,103852,Feliciano Lopez,22,ESP,R32,104022,Mikhail Youzhny,76,RUS,no
+20160613,2016-0311,London,Grass,103852,Feliciano Lopez,21,ESP,R32,105227,Marin Cilic,13,CRO,no
+20160627,2016-540,Wimbledon,Grass,103852,Feliciano Lopez,21,ESP,R32,106401,Nick Kyrgios,18,AUS,no
+20160808,2016-7480,Los Cabos,Hard,103852,Feliciano Lopez,18,ESP,F,103333,Ivo Karlovic,24,CRO,no
+20160815,2016-M024,Cincinnati Masters,Hard,103852,Feliciano Lopez,18,ESP,R32,105777,Grigor Dimitrov,34,BUL,no
+20160829,2016-560,Us Open,Hard,103852,Feliciano Lopez,18,ESP,R64,105311,Joao Sousa,36,POR,no
+20160926,2016-7581,Chengdu,Hard,103852,Feliciano Lopez,27,ESP,QF,111575,Karen Khachanov,101,RUS,no
+20161003,2016-0329,Tokyo,Hard,103852,Feliciano Lopez,28,ESP,R32,105902,James Duckworth,175,AUS,no
+20161010,2016-5014,Shanghai Masters,Hard,103852,Feliciano Lopez,28,ESP,R32,106058,Jack Sock,25,USA,no
+20161024,2016-0337,Vienna,Hard,103852,Feliciano Lopez,30,ESP,R16,104545,John Isner,27,USA,no
+20161031,2016-0352,Paris Masters,Hard,103852,Feliciano Lopez,30,ESP,R32,106298,Lucas Pouille,17,FRA,no
+20160104,2016-0451,Doha,Hard,104269,Fernando Verdasco,49,ESP,R16,104925,Novak Djokovic,1,SRB,no
+20160118,2016-580,Australian Open,Hard,104269,Fernando Verdasco,45,ESP,R64,104534,Dudi Sela,87,ISR,no
+20160201,2016-7161,Quito,Clay,104269,Fernando Verdasco,47,ESP,R16,105952,Renzo Olivo,158,ARG,no
+20160307,2016-M006,Indian Wells Masters,Hard,104269,Fernando Verdasco,65,ESP,R32,104745,Rafael Nadal,5,ESP,no
+20160321,2016-M007,Miami Masters,Hard,104269,Fernando Verdasco,65,ESP,R32,104547,Horacio Zeballos,112,ARG,no
+20160404,2016-0717,Houston,Clay,104269,Fernando Verdasco,77,ESP,R16,104571,Marcos Baghdatis,39,CYP,no
+20160411,2016-0410,Monte Carlo Masters,Clay,104269,Fernando Verdasco,88,ESP,R32,105676,David Goffin,13,BEL,no
+20160425,2016-7290,Estoril,Clay,104269,Fernando Verdasco,51,ESP,R32,105807,Pablo Carreno Busta,50,ESP,no
+20160502,2016-M021,Madrid Masters,Clay,104269,Fernando Verdasco,52,ESP,R32,104755,Richard Gasquet,12,FRA,no
+20160516,2016-6120,Nice,Clay,104269,Fernando Verdasco,56,ESP,R32,106043,Diego Sebastian Schwartzman,65,ARG,no
+20160523,2016-520,Roland Garros,Clay,104269,Fernando Verdasco,52,ESP,R32,105453,Kei Nishikori,6,JPN,no
+20160613,2016-0311,London,Grass,104269,Fernando Verdasco,53,ESP,R16,106071,Bernard Tomic,22,AUS,no
+20160620,2016-0741,Nottingham,Grass,104269,Fernando Verdasco,52,ESP,R16,104731,Kevin Anderson,24,RSA,no
+20160627,2016-540,Wimbledon,Grass,104269,Fernando Verdasco,53,ESP,R128,106071,Bernard Tomic,19,AUS,no
+20160711,2016-0316,Bastad,Clay,104269,Fernando Verdasco,59,ESP,F,105077,Albert Ramos,35,ESP,no
+20160801,2016-6116,Atlanta,Hard,104269,Fernando Verdasco,48,ESP,QF,106401,Nick Kyrgios,18,AUS,no
+20160808,2016-7480,Los Cabos,Hard,104269,Fernando Verdasco,46,ESP,R32,104719,Marcel Granollers,47,ESP,no
+20160815,2016-M024,Cincinnati Masters,Hard,104269,Fernando Verdasco,45,ESP,R32,105227,Marin Cilic,14,CRO,no
+20160822,2016-6242,Winston-Salem,Hard,104269,Fernando Verdasco,47,ESP,QF,104678,Viktor Troicki,35,SRB,no
+20160829,2016-560,Us Open,Hard,104269,Fernando Verdasco,46,ESP,R128,104527,Stanislas Wawrinka,3,SUI,no
+20160919,2016-0568,St.Petersburg,Hard,104269,Fernando Verdasco,47,ESP,R32,105583,Dusan Lajovic,73,SRB,no
+20161003,2016-0329,Tokyo,Hard,104269,Fernando Verdasco,46,ESP,R16,105227,Marin Cilic,11,CRO,no
+20161010,2016-5014,Shanghai Masters,Hard,104269,Fernando Verdasco,44,ESP,R64,106298,Lucas Pouille,16,FRA,no
+20161017,2016-0429,Stockholm,Hard,104269,Fernando Verdasco,44,ESP,R32,144707,Mikael Ymer,549,SWE,no
+20161024,2016-0328,Basel,Hard,104269,Fernando Verdasco,45,ESP,R32,105807,Pablo Carreno Busta,32,ESP,no
+20161031,2016-0352,Paris Masters,Hard,104269,Fernando Verdasco,46,ESP,R32,104918,Andy Murray,2,GBR,no
+20160118,2016-580,Australian Open,Hard,104792,Gael Monfils,25,FRA,QF,105683,Milos Raonic,14,CAN,no
+20160201,2016-0375,Montpellier,Hard,104792,Gael Monfils,17,FRA,R32,104273,Edouard Roger Vasselin,136,FRA,no
+20160208,2016-0407,Rotterdam,Hard,104792,Gael Monfils,18,FRA,F,105373,Martin Klizan,43,SVK,no
+20160307,2016-M006,Indian Wells Masters,Hard,104792,Gael Monfils,16,FRA,QF,105683,Milos Raonic,14,CAN,no
+20160321,2016-M007,Miami Masters,Hard,104792,Gael Monfils,16,FRA,QF,105453,Kei Nishikori,6,JPN,no
+20160411,2016-0410,Monte Carlo Masters,Clay,104792,Gael Monfils,16,FRA,F,104745,Rafael Nadal,5,ESP,no
+20160502,2016-M021,Madrid Masters,Clay,104792,Gael Monfils,15,FRA,R32,104655,Pablo Cuevas,27,URU,no
+20160509,2016-M009,Rome Masters,Clay,104792,Gael Monfils,14,FRA,R64,105064,Thomaz Bellucci,37,BRA,no
+20160627,2016-540,Wimbledon,Grass,104792,Gael Monfils,16,FRA,R128,104871,Jeremy Chardy,34,FRA,no
+20160725,2016-0421,Canada Masters,Hard,104792,Gael Monfils,14,FRA,SF,104925,Novak Djokovic,1,SRB,no
+20160808,2016-O16,Olympics,Hard,104792,Gael Monfils,11,FRA,QF,105453,Kei Nishikori,7,JPN,no
+20160815,2016-M024,Cincinnati Masters,Hard,104792,Gael Monfils,11,FRA,R16,106233,Dominic Thiem,9,AUT,no
+20160829,2016-560,Us Open,Hard,104792,Gael Monfils,12,FRA,SF,104925,Novak Djokovic,1,SRB,no
+20161003,2016-0329,Tokyo,Hard,104792,Gael Monfils,8,FRA,SF,106401,Nick Kyrgios,15,AUS,no
+20161010,2016-5014,Shanghai Masters,Hard,104792,Gael Monfils,8,FRA,R16,105676,David Goffin,12,BEL,no
+20161017,2016-0429,Stockholm,Hard,104792,Gael Monfils,7,FRA,R16,105671,Gastao Elias,61,POR,no
+20161114,2016-0605,London,Hard,104792,Gael Monfils,6,FRA,RR,106233,Dominic Thiem,9,AUT,no
+20161114,2016-0605,London,Hard,104792,Gael Monfils,6,FRA,RR,105683,Milos Raonic,4,CAN,no
+20160104,2016-0891,Chennai,Hard,104180,Gilles Muller,38,LUX,R16,105341,Thomas Fabbiano,157,ITA,no
+20160111,2016-M001,Sydney,Hard,104180,Gilles Muller,38,LUX,SF,105777,Grigor Dimitrov,28,BUL,no
+20160118,2016-580,Australian Open,Hard,104180,Gilles Muller,38,LUX,R64,105357,John Millman,95,AUS,no
+20160201,2016-7434,Sofia,Hard,104180,Gilles Muller,42,LUX,SF,105138,Roberto Bautista Agut,18,ESP,no
+20160208,2016-0407,Rotterdam,Hard,104180,Gilles Muller,40,LUX,R16,105227,Marin Cilic,13,CRO,no
+20160222,2016-M004,Acapulco,Hard,104180,Gilles Muller,46,LUX,R32,105385,Donald Young,79,USA,no
+20160307,2016-M006,Indian Wells Masters,Hard,104180,Gilles Muller,45,LUX,R64,104745,Rafael Nadal,5,ESP,no
+20160321,2016-M007,Miami Masters,Hard,104180,Gilles Muller,44,LUX,R128,104269,Fernando Verdasco,65,ESP,no
+20160411,2016-0410,Monte Carlo Masters,Clay,104180,Gilles Muller,43,LUX,R64,104792,Gael Monfils,16,FRA,no
+20160523,2016-520,Roland Garros,Clay,104180,Gilles Muller,42,LUX,R128,104571,Marcos Baghdatis,39,CYP,no
+20160606,2016-M010,s-Hertogenbosch,Grass,104180,Gilles Muller,44,LUX,F,103917,Nicolas Mahut,49,FRA,no
+20160613,2016-0311,London,Grass,104180,Gilles Muller,41,LUX,QF,106071,Bernard Tomic,22,AUS,no
+20160620,2016-0741,Nottingham,Grass,104180,Gilles Muller,41,LUX,SF,104655,Pablo Cuevas,25,URU,no
+20160627,2016-540,Wimbledon,Grass,104180,Gilles Muller,39,LUX,R64,105723,Andrey Kuznetsov,42,RUS,no
+20160711,2016-0315,Newport,Grass,104180,Gilles Muller,39,LUX,F,103333,Ivo Karlovic,38,CRO,no
+20160718,2016-M035,Washington,Hard,104180,Gilles Muller,36,LUX,R16,105332,Benoit Paire,24,FRA,no
+20160725,2016-0421,Canada Masters,Hard,104180,Gilles Muller,37,LUX,R32,104925,Novak Djokovic,1,SRB,no
+20160808,2016-O16,Olympics,Hard,104180,Gilles Muller,37,LUX,R16,105138,Roberto Bautista Agut,17,ESP,no
+20160829,2016-560,Us Open,Hard,104180,Gilles Muller,37,LUX,R128,104792,Gael Monfils,12,FRA,no
+20160919,2016-0341,Metz,Hard,104180,Gilles Muller,37,LUX,QF,106233,Dominic Thiem,10,AUT,no
+20161003,2016-0329,Tokyo,Hard,104180,Gilles Muller,36,LUX,QF,106401,Nick Kyrgios,15,AUS,no
+20161017,2016-0429,Stockholm,Hard,104180,Gilles Muller,37,LUX,R32,104460,Dustin Brown,74,GER,no
+20161024,2016-0328,Basel,Hard,104180,Gilles Muller,37,LUX,SF,105453,Kei Nishikori,5,JPN,no
+20161031,2016-0352,Paris Masters,Hard,104180,Gilles Muller,34,LUX,R32,104925,Novak Djokovic,1,SRB,no
+20160104,2016-M020,Brisbane,Hard,104468,Gilles Simon,15,FRA,R32,105777,Grigor Dimitrov,28,BUL,no
+20160118,2016-580,Australian Open,Hard,104468,Gilles Simon,15,FRA,R16,104925,Novak Djokovic,1,SRB,no
+20160201,2016-0375,Montpellier,Hard,104468,Gilles Simon,15,FRA,R16,104460,Dustin Brown,133,GER,no
+20160208,2016-0407,Rotterdam,Hard,104468,Gilles Simon,15,FRA,R16,100644,Alexander Zverev,70,GER,no
+20160215,2016-0496,Marseille,Hard,104468,Gilles Simon,15,FRA,R32,104559,Teymuraz Gabashvili,44,RUS,no
+20160307,2016-M006,Indian Wells Masters,Hard,104468,Gilles Simon,19,FRA,R32,100644,Alexander Zverev,58,GER,no
+20160321,2016-M007,Miami Masters,Hard,104468,Gilles Simon,19,FRA,QF,105676,David Goffin,15,BEL,no
+20160411,2016-0410,Monte Carlo Masters,Clay,104468,Gilles Simon,18,FRA,R16,104527,Stanislas Wawrinka,4,SUI,no
+20160425,2016-7290,Estoril,Clay,104468,Gilles Simon,18,FRA,QF,105807,Pablo Carreno Busta,50,ESP,no
+20160502,2016-M021,Madrid Masters,Clay,104468,Gilles Simon,18,FRA,R16,104918,Andy Murray,2,GBR,no
+20160516,2016-6120,Nice,Clay,104468,Gilles Simon,18,FRA,QF,100644,Alexander Zverev,48,GER,no
+20160523,2016-520,Roland Garros,Clay,104468,Gilles Simon,18,FRA,R32,104678,Viktor Troicki,24,SRB,no
+20160606,2016-0321,Stuttgart,Grass,104468,Gilles Simon,18,FRA,QF,105223,Juan Martin Del Potro,223,ARG,no
+20160613,2016-0311,London,Grass,104468,Gilles Simon,18,FRA,R32,106378,Kyle Edmund,85,GBR,no
+20160627,2016-540,Wimbledon,Grass,104468,Gilles Simon,20,FRA,R64,105777,Grigor Dimitrov,37,BUL,no
+20160718,2016-0314,Gstaad,Clay,104468,Gilles Simon,30,FRA,R16,106329,Thiago Monteiro,110,BRA,no
+20160808,2016-O16,Olympics,Hard,104468,Gilles Simon,31,FRA,R16,104745,Rafael Nadal,5,ESP,no
+20160815,2016-M024,Cincinnati Masters,Hard,104468,Gilles Simon,31,FRA,R64,105777,Grigor Dimitrov,34,BUL,no
+20160822,2016-6242,Winston-Salem,Hard,104468,Gilles Simon,32,FRA,R32,106043,Diego Sebastian Schwartzman,68,ARG,no
+20160829,2016-560,Us Open,Hard,104468,Gilles Simon,31,FRA,R64,103893,Paolo Lorenzi,40,ITA,no
+20160919,2016-0341,Metz,Hard,104468,Gilles Simon,28,FRA,SF,106233,Dominic Thiem,10,AUT,no
+20161003,2016-0329,Tokyo,Hard,104468,Gilles Simon,30,FRA,R16,104792,Gael Monfils,8,FRA,no
+20161010,2016-5014,Shanghai Masters,Hard,104468,Gilles Simon,32,FRA,SF,104918,Andy Murray,2,GBR,no
+20161017,2016-7485,Antwerp,Hard,104468,Gilles Simon,25,FRA,R16,105526,Jan Lennard Struff,98,GER,no
+20161024,2016-0337,Vienna,Hard,104468,Gilles Simon,24,FRA,R16,104918,Andy Murray,2,GBR,no
+20161031,2016-0352,Paris Masters,Hard,104468,Gilles Simon,23,FRA,R16,104607,Tomas Berdych,11,CZE,no
+20160104,2016-M020,Brisbane,Hard,105777,Grigor Dimitrov,28,BUL,QF,103819,Roger Federer,3,SUI,no
+20160111,2016-M001,Sydney,Hard,105777,Grigor Dimitrov,28,BUL,F,104678,Viktor Troicki,22,SRB,no
+20160118,2016-580,Australian Open,Hard,105777,Grigor Dimitrov,28,BUL,R32,103819,Roger Federer,3,SUI,no
+20160215,2016-0499,Delray Beach,Hard,105777,Grigor Dimitrov,28,BUL,SF,104330,Rajeev Ram,89,USA,no
+20160222,2016-M004,Acapulco,Hard,105777,Grigor Dimitrov,26,BUL,QF,106233,Dominic Thiem,15,AUT,no
+20160307,2016-M006,Indian Wells Masters,Hard,105777,Grigor Dimitrov,26,BUL,R64,100644,Alexander Zverev,58,GER,no
+20160321,2016-M007,Miami Masters,Hard,105777,Grigor Dimitrov,28,BUL,R16,104792,Gael Monfils,16,FRA,no
+20160411,2016-0410,Monte Carlo Masters,Clay,105777,Grigor Dimitrov,26,BUL,R32,104468,Gilles Simon,18,FRA,no
+20160425,2016-7163,Istanbul,Clay,105777,Grigor Dimitrov,29,BUL,F,106043,Diego Sebastian Schwartzman,87,ARG,no
+20160502,2016-M021,Madrid Masters,Clay,105777,Grigor Dimitrov,28,BUL,R64,105807,Pablo Carreno Busta,46,ESP,no
+20160509,2016-M009,Rome Masters,Clay,105777,Grigor Dimitrov,35,BUL,R64,100644,Alexander Zverev,44,GER,no
+20160523,2016-520,Roland Garros,Clay,105777,Grigor Dimitrov,36,BUL,R128,104678,Viktor Troicki,24,SRB,no
+20160606,2016-0321,Stuttgart,Grass,105777,Grigor Dimitrov,36,BUL,R32,105223,Juan Martin Del Potro,223,ARG,no
+20160613,2016-0311,London,Grass,105777,Grigor Dimitrov,37,BUL,R32,104386,Janko Tipsarevic,553,SRB,no
+20160627,2016-540,Wimbledon,Grass,105777,Grigor Dimitrov,37,BUL,R32,105449,Steve Johnson,29,USA,no
+20160718,2016-M035,Washington,Hard,105777,Grigor Dimitrov,40,BUL,R32,105554,Daniel Evans,82,GBR,no
+20160725,2016-0421,Canada Masters,Hard,105777,Grigor Dimitrov,40,BUL,QF,105453,Kei Nishikori,6,JPN,no
+20160808,2016-O16,Olympics,Hard,105777,Grigor Dimitrov,34,BUL,R64,105227,Marin Cilic,14,CRO,no
+20160815,2016-M024,Cincinnati Masters,Hard,105777,Grigor Dimitrov,34,BUL,SF,105227,Marin Cilic,14,CRO,no
+20160829,2016-560,Us Open,Hard,105777,Grigor Dimitrov,24,BUL,R16,104918,Andy Murray,2,GBR,no
+20160926,2016-7581,Chengdu,Hard,105777,Grigor Dimitrov,21,BUL,SF,105077,Albert Ramos,31,ESP,no
+20161003,2016-M015,Beijing,Hard,105777,Grigor Dimitrov,20,BUL,F,104918,Andy Murray,2,GBR,no
+20161010,2016-5014,Shanghai Masters,Hard,105777,Grigor Dimitrov,18,BUL,R32,105577,Vasek Pospisil,131,CAN,no
+20161017,2016-0429,Stockholm,Hard,105777,Grigor Dimitrov,18,BUL,SF,105223,Juan Martin Del Potro,63,ARG,no
+20161024,2016-0328,Basel,Hard,105777,Grigor Dimitrov,18,BUL,R32,104180,Gilles Muller,37,LUX,no
+20161031,2016-0352,Paris Masters,Hard,105777,Grigor Dimitrov,18,BUL,R16,104925,Novak Djokovic,1,SRB,no
+20160118,2016-580,Australian Open,Hard,105550,Guido Pella,75,ARG,R64,103852,Feliciano Lopez,19,ESP,no
+20160201,2016-7161,Quito,Clay,105550,Guido Pella,68,ARG,R32,103607,Victor Estrella,58,DOM,no
+20160208,2016-0506,Buenos Aires,Clay,105550,Guido Pella,71,ARG,R32,104919,Leonardo Mayer,37,ARG,no
+20160215,2016-M052,Rio de Janeiro,Clay,105550,Guido Pella,71,ARG,F,104655,Pablo Cuevas,45,URU,no
+20160307,2016-M006,Indian Wells Masters,Hard,105550,Guido Pella,40,ARG,R32,105676,David Goffin,18,BEL,no
+20160321,2016-M007,Miami Masters,Hard,105550,Guido Pella,39,ARG,R128,105223,Juan Martin Del Potro,366,ARG,no
+20160411,2016-0410,Monte Carlo Masters,Clay,105550,Guido Pella,47,ARG,R64,105732,Pierre Hugues Herbert,95,FRA,no
+20160418,2016-0773,Bucharest,Clay,105550,Guido Pella,46,ARG,QF,104198,Guillermo Garcia Lopez,37,ESP,no
+20160502,2016-M021,Madrid Masters,Clay,105550,Guido Pella,50,ARG,R64,106401,Nick Kyrgios,21,AUS,no
+20160509,2016-M009,Rome Masters,Clay,105550,Guido Pella,50,ARG,R64,106058,Jack Sock,27,USA,no
+20160516,2016-6120,Nice,Clay,105550,Guido Pella,54,ARG,QF,105173,Adrian Mannarino,63,FRA,no
+20160523,2016-520,Roland Garros,Clay,105550,Guido Pella,48,ARG,R64,104468,Gilles Simon,18,FRA,no
+20160620,2016-0741,Nottingham,Grass,105550,Guido Pella,51,ARG,R32,103794,Benjamin Becker,103,GER,no
+20160627,2016-540,Wimbledon,Grass,105550,Guido Pella,52,ARG,R128,103819,Roger Federer,3,SUI,no
+20160718,2016-0314,Gstaad,Clay,105550,Guido Pella,51,ARG,R32,104505,Konstantin Kravchuk,105,RUS,no
+20160808,2016-O16,Olympics,Hard,105550,Guido Pella,53,ARG,R64,104259,Philipp Kohlschreiber,28,GER,no
+20160829,2016-560,Us Open,Hard,105550,Guido Pella,51,ARG,R64,104022,Mikhail Youzhny,61,RUS,no
+20161003,2016-M015,Beijing,Hard,105550,Guido Pella,57,ARG,R32,104291,Malek Jaziri,50,TUN,no
+20161010,2016-5014,Shanghai Masters,Hard,105550,Guido Pella,55,ARG,R64,106058,Jack Sock,25,USA,no
+20161017,2016-M014,Moscow,Hard,105550,Guido Pella,56,ARG,R32,105723,Andrey Kuznetsov,45,RUS,no
+20161024,2016-0328,Basel,Hard,105550,Guido Pella,59,ARG,R16,104999,Mischa Zverev,72,GER,no
+20161031,2016-0352,Paris Masters,Hard,105550,Guido Pella,57,ARG,R64,105449,Steve Johnson,33,USA,no
+20160916,2016-M-DC-2016-WG-M-GBR-ARG-01,Davis Cup WG SF: GBR vs ARG,Hard,105550,Guido Pella,49,ARG,RR,104918,Andy Murray,2,GBR,no
+20160104,2016-0891,Chennai,Hard,104198,Guillermo Garcia Lopez,27,ESP,QF,104527,Stanislas Wawrinka,4,SUI,no
+20160111,2016-0301,Auckland,Hard,104198,Guillermo Garcia Lopez,27,ESP,R32,104586,Lukas Rosol,54,CZE,no
+20160118,2016-580,Australian Open,Hard,104198,Guillermo Garcia Lopez,27,ESP,R32,105453,Kei Nishikori,7,JPN,no
+20160201,2016-7434,Sofia,Hard,104198,Guillermo Garcia Lopez,27,ESP,QF,104180,Gilles Muller,42,LUX,no
+20160208,2016-0407,Rotterdam,Hard,104198,Guillermo Garcia Lopez,34,ESP,R32,111202,Hyeon Chung,69,KOR,no
+20160222,2016-0495,Dubai,Hard,104198,Guillermo Garcia Lopez,37,ESP,R32,103852,Feliciano Lopez,24,ESP,no
+20160307,2016-M006,Indian Wells Masters,Hard,104198,Guillermo Garcia Lopez,38,ESP,R64,103852,Feliciano Lopez,21,ESP,no
+20160321,2016-M007,Miami Masters,Hard,104198,Guillermo Garcia Lopez,37,ESP,R64,106298,Lucas Pouille,88,FRA,no
+20160404,2016-0360,Marrakech,Clay,104198,Guillermo Garcia Lopez,38,ESP,QF,106210,Jiri Vesely,55,CZE,no
+20160411,2016-0410,Monte Carlo Masters,Clay,104198,Guillermo Garcia Lopez,38,ESP,R32,103819,Roger Federer,3,SUI,no
+20160418,2016-0773,Bucharest,Clay,104198,Guillermo Garcia Lopez,37,ESP,SF,104269,Fernando Verdasco,86,ESP,no
+20160425,2016-7290,Estoril,Clay,104198,Guillermo Garcia Lopez,47,ESP,QF,105332,Benoit Paire,21,FRA,no
+20160502,2016-M021,Madrid Masters,Clay,104198,Guillermo Garcia Lopez,51,ESP,R64,103970,David Ferrer,9,ESP,no
+20160509,2016-M009,Rome Masters,Clay,104198,Guillermo Garcia Lopez,51,ESP,R32,103970,David Ferrer,9,ESP,no
+20160516,2016-0322,Geneva,Clay,104198,Guillermo Garcia Lopez,55,ESP,QF,103970,David Ferrer,12,ESP,no
+20160523,2016-520,Roland Garros,Clay,104198,Guillermo Garcia Lopez,51,ESP,R64,106233,Dominic Thiem,15,AUT,no
+20160606,2016-M010,s-Hertogenbosch,Grass,104198,Guillermo Garcia Lopez,53,ESP,R16,104180,Gilles Muller,44,LUX,no
+20160613,2016-0311,London,Grass,104198,Guillermo Garcia Lopez,54,ESP,R32,105173,Adrian Mannarino,57,FRA,no
+20160627,2016-540,Wimbledon,Grass,104198,Guillermo Garcia Lopez,58,ESP,R128,104312,Andreas Seppi,45,ITA,no
+20160711,2016-0414,Hamburg,Clay,104198,Guillermo Garcia Lopez,56,ESP,QF,103565,Stephane Robert,83,FRA,no
+20160718,2016-0439,Umag,Clay,104198,Guillermo Garcia Lopez,54,ESP,R32,105671,Gastao Elias,72,POR,no
+20160801,2016-6116,Atlanta,Hard,104198,Guillermo Garcia Lopez,52,ESP,R32,104547,Horacio Zeballos,78,ARG,no
+20160808,2016-7480,Los Cabos,Hard,104198,Guillermo Garcia Lopez,52,ESP,R16,104597,Nicolas Almagro,48,ESP,no
+20160822,2016-6242,Winston-Salem,Hard,104198,Guillermo Garcia Lopez,50,ESP,R32,105023,Sam Querrey,31,USA,no
+20160829,2016-560,Us Open,Hard,104198,Guillermo Garcia Lopez,50,ESP,R128,105138,Roberto Bautista Agut,17,ESP,no
+20160919,2016-0341,Metz,Hard,104198,Guillermo Garcia Lopez,57,ESP,R16,104468,Gilles Simon,28,FRA,no
+20160926,2016-6967,Shenzhen,Hard,104198,Guillermo Garcia Lopez,57,ESP,R32,105992,Ryan Harrison,115,USA,no
+20161003,2016-M015,Beijing,Hard,104198,Guillermo Garcia Lopez,73,ESP,R32,106378,Kyle Edmund,54,GBR,no
+20161010,2016-5014,Shanghai Masters,Hard,104198,Guillermo Garcia Lopez,75,ESP,R64,103893,Paolo Lorenzi,37,ITA,no
+20161017,2016-7485,Antwerp,Hard,104198,Guillermo Garcia Lopez,76,ESP,R32,106075,Jozef Kovalik,128,SVK,no
+20161024,2016-0337,Vienna,Hard,104198,Guillermo Garcia Lopez,76,ESP,R32,104468,Gilles Simon,24,FRA,no
+20160104,2016-0451,Doha,Hard,105011,Illya Marchenko,94,UKR,SF,104745,Rafael Nadal,5,ESP,no
+20160118,2016-580,Australian Open,Hard,105011,Illya Marchenko,76,UKR,R128,117357,Omar Jasika,310,AUS,no
+20160208,2016-0402,Memphis,Hard,105011,Illya Marchenko,82,UKR,R16,106415,Yoshihito Nishioka,130,JPN,no
+20160215,2016-0499,Delray Beach,Hard,105011,Illya Marchenko,86,UKR,R16,104330,Rajeev Ram,89,USA,no
+20160222,2016-M004,Acapulco,Hard,105011,Illya Marchenko,85,UKR,QF,106071,Bernard Tomic,21,AUS,no
+20160307,2016-M006,Indian Wells Masters,Hard,105011,Illya Marchenko,72,UKR,R64,104527,Stanislas Wawrinka,4,SUI,no
+20160321,2016-M007,Miami Masters,Hard,105011,Illya Marchenko,68,UKR,R128,105173,Adrian Mannarino,64,FRA,no
+20160418,2016-0773,Bucharest,Clay,105011,Illya Marchenko,70,UKR,R16,105643,Federico Delbonis,40,ARG,no
+20160425,2016-7163,Istanbul,Clay,105011,Illya Marchenko,68,UKR,R16,106000,Damir Dzumhur,79,BIH,no
+20160516,2016-6120,Nice,Clay,105011,Illya Marchenko,69,UKR,R32,126203,Taylor Harry Fritz,72,USA,no
+20160523,2016-520,Roland Garros,Clay,105011,Illya Marchenko,71,UKR,R128,103607,Victor Estrella,87,DOM,no
+20160606,2016-0321,Stuttgart,Grass,105011,Illya Marchenko,73,UKR,R32,105032,Samuel Groth,115,AUS,no
+20160627,2016-540,Wimbledon,Grass,105011,Illya Marchenko,84,UKR,R128,103898,Julien Benneteau,547,FRA,no
+20160808,2016-O16,Olympics,Hard,105011,Illya Marchenko,63,UKR,R64,104312,Andreas Seppi,71,ITA,no
+20160822,2016-6242,Winston-Salem,Hard,105011,Illya Marchenko,65,UKR,R64,104229,Yen Hsun Lu,72,TPE,no
+20160829,2016-560,Us Open,Hard,105011,Illya Marchenko,63,UKR,R16,104527,Stanislas Wawrinka,3,SUI,no
+20160919,2016-0341,Metz,Hard,105011,Illya Marchenko,50,UKR,R16,103917,Nicolas Mahut,40,FRA,no
+20161017,2016-7485,Antwerp,Hard,105011,Illya Marchenko,65,UKR,R32,106378,Kyle Edmund,43,GBR,no
+20161024,2016-0328,Basel,Hard,105011,Illya Marchenko,66,UKR,R32,105385,Donald Young,83,USA,no
+20161031,2016-0352,Paris Masters,Hard,105011,Illya Marchenko,69,UKR,R64,105526,Jan Lennard Struff,91,GER,no
+20160715,2016-M-DC-2016-G1-EPA-M-UKR-AUT-01,Davis Cup G1 R2: UKR vs AUT,Hard,105011,Illya Marchenko,84,UKR,RR,103781,Jurgen Melzer,414,AUT,no
+20160916,2016-M-DC-2016-WG-PO-JPN-UKR-01,Davis Cup WG PO: JPN vs UKR,Hard,105011,Illya Marchenko,50,UKR,RR,106415,Yoshihito Nishioka,96,JPN,no
+20160111,2016-0301,Auckland,Hard,103333,Ivo Karlovic,23,CRO,R32,105577,Vasek Pospisil,39,CAN,no
+20160118,2016-580,Australian Open,Hard,103333,Ivo Karlovic,24,CRO,R128,105643,Federico Delbonis,53,ARG,no
+20160215,2016-0499,Delray Beach,Hard,103333,Ivo Karlovic,26,CRO,R32,105441,John Patrick Smith,135,AUS,no
+20160222,2016-M004,Acapulco,Hard,103333,Ivo Karlovic,31,CRO,R32,105379,Aljaz Bedene,54,GBR,no
+20160411,2016-0410,Monte Carlo Masters,Clay,103333,Ivo Karlovic,30,CRO,R64,105311,Joao Sousa,34,POR,no
+20160418,2016-0773,Bucharest,Clay,103333,Ivo Karlovic,29,CRO,R16,106298,Lucas Pouille,72,FRA,no
+20160425,2016-7163,Istanbul,Clay,103333,Ivo Karlovic,31,CRO,SF,105777,Grigor Dimitrov,29,BUL,no
+20160502,2016-M021,Madrid Masters,Clay,103333,Ivo Karlovic,30,CRO,R64,106045,Denis Kudla,61,USA,no
+20160509,2016-M009,Rome Masters,Clay,103333,Ivo Karlovic,29,CRO,R64,105208,Ernests Gulbis,84,LAT,no
+20160523,2016-520,Roland Garros,Clay,103333,Ivo Karlovic,28,CRO,R32,104918,Andy Murray,2,GBR,no
+20160606,2016-M010,s-Hertogenbosch,Grass,103333,Ivo Karlovic,28,CRO,SF,104180,Gilles Muller,44,LUX,no
+20160613,2016-0500,Halle,Grass,103333,Ivo Karlovic,28,CRO,R16,104259,Philipp Kohlschreiber,25,GER,no
+20160627,2016-540,Wimbledon,Grass,103333,Ivo Karlovic,32,CRO,R64,105041,Lukas Lacko,123,SVK,no
+20160718,2016-M035,Washington,Hard,103333,Ivo Karlovic,35,CRO,F,104792,Gael Monfils,17,FRA,no
+20160725,2016-0421,Canada Masters,Hard,103333,Ivo Karlovic,27,CRO,R16,105777,Grigor Dimitrov,40,BUL,no
+20160815,2016-M024,Cincinnati Masters,Hard,103333,Ivo Karlovic,20,CRO,R64,104338,Juan Monaco,104,ARG,no
+20160829,2016-560,Us Open,Hard,103333,Ivo Karlovic,23,CRO,R16,105453,Kei Nishikori,7,JPN,no
+20161003,2016-0329,Tokyo,Hard,103333,Ivo Karlovic,21,CRO,QF,104792,Gael Monfils,8,FRA,no
+20161010,2016-5014,Shanghai Masters,Hard,103333,Ivo Karlovic,20,CRO,R64,105577,Vasek Pospisil,131,CAN,no
+20161017,2016-0429,Stockholm,Hard,103333,Ivo Karlovic,21,CRO,QF,105223,Juan Martin Del Potro,63,ARG,no
+20161024,2016-0337,Vienna,Hard,103333,Ivo Karlovic,23,CRO,SF,104542,Jo Wilfried Tsonga,15,FRA,no
+20161031,2016-0352,Paris Masters,Hard,103333,Ivo Karlovic,20,CRO,R32,105227,Marin Cilic,10,CRO,no
+20161125,2016-M-DC-2016-WG-M-ARG-CRO-01,Davis Cup WG F: ARG vs CRO,Hard,103333,Ivo Karlovic,20,CRO,RR,105223,Juan Martin Del Potro,38,ARG,no
+20161125,2016-M-DC-2016-WG-M-ARG-CRO-01,Davis Cup WG F: ARG vs CRO,Hard,103333,Ivo Karlovic,20,CRO,RR,105643,Federico Delbonis,41,ARG,no
+20160111,2016-0301,Auckland,Hard,106058,Jack Sock,26,USA,F,105138,Roberto Bautista Agut,25,ESP,no
+20160118,2016-580,Australian Open,Hard,106058,Jack Sock,22,USA,R64,104586,Lukas Rosol,51,CZE,no
+20160215,2016-M052,Rio de Janeiro,Clay,106058,Jack Sock,23,USA,R32,105643,Federico Delbonis,46,ARG,no
+20160307,2016-M006,Indian Wells Masters,Hard,106058,Jack Sock,24,USA,R32,106233,Dominic Thiem,13,AUT,no
+20160321,2016-M007,Miami Masters,Hard,106058,Jack Sock,24,USA,R32,105683,Milos Raonic,12,CAN,no
+20160404,2016-0717,Houston,Clay,106058,Jack Sock,25,USA,F,104338,Juan Monaco,148,ARG,no
+20160502,2016-M021,Madrid Masters,Clay,106058,Jack Sock,26,USA,R16,105311,Joao Sousa,35,POR,no
+20160509,2016-M009,Rome Masters,Clay,106058,Jack Sock,27,USA,R32,105676,David Goffin,13,BEL,no
+20160523,2016-520,Roland Garros,Clay,106058,Jack Sock,25,USA,R32,105077,Albert Ramos,55,ESP,no
+20160627,2016-540,Wimbledon,Grass,106058,Jack Sock,26,USA,R32,105683,Milos Raonic,7,CAN,no
+20160718,2016-M035,Washington,Hard,106058,Jack Sock,26,USA,QF,103333,Ivo Karlovic,35,CRO,no
+20160725,2016-0421,Canada Masters,Hard,106058,Jack Sock,26,USA,R16,104527,Stanislas Wawrinka,5,SUI,no
+20160808,2016-O16,Olympics,Hard,106058,Jack Sock,23,USA,R64,106121,Taro Daniel,117,JPN,no
+20160829,2016-560,Us Open,Hard,106058,Jack Sock,27,USA,R16,104542,Jo Wilfried Tsonga,11,FRA,no
+20161003,2016-M015,Beijing,Hard,106058,Jack Sock,25,USA,R16,100644,Alexander Zverev,24,GER,no
+20161010,2016-5014,Shanghai Masters,Hard,106058,Jack Sock,25,USA,QF,104468,Gilles Simon,32,FRA,no
+20161017,2016-0429,Stockholm,Hard,106058,Jack Sock,23,USA,F,105223,Juan Martin Del Potro,63,ARG,no
+20161024,2016-0328,Basel,Hard,106058,Jack Sock,22,USA,R16,104719,Marcel Granollers,39,ESP,no
+20161031,2016-0352,Paris Masters,Hard,106058,Jack Sock,24,USA,QF,104545,John Isner,27,USA,no
+20160304,2016-M-DC-2016-WG-M-USA-AUS-01,Davis Cup WG R1: USA vs AUS,Grass,106058,Jack Sock,24,USA,RR,106071,Bernard Tomic,20,AUS,no
+20160715,2016-M-DC-2016-WG-M-USA-CRO-01,Davis Cup WG QF: USA vs CRO,Hard,106058,Jack Sock,26,USA,RR,106432,Borna Coric,54,CRO,no
+20160104,2016-0451,Doha,Hard,104871,Jeremy Chardy,31,FRA,QF,105011,Illya Marchenko,94,UKR,no
+20160111,2016-M001,Sydney,Hard,104871,Jeremy Chardy,31,FRA,QF,104180,Gilles Muller,38,LUX,no
+20160118,2016-580,Australian Open,Hard,104871,Jeremy Chardy,31,FRA,R64,105723,Andrey Kuznetsov,74,RUS,no
+20160208,2016-0407,Rotterdam,Hard,104871,Jeremy Chardy,28,FRA,R16,103917,Nicolas Mahut,54,FRA,no
+20160215,2016-0499,Delray Beach,Hard,104871,Jeremy Chardy,30,FRA,QF,105223,Juan Martin Del Potro,1042,ARG,no
+20160222,2016-M004,Acapulco,Hard,104871,Jeremy Chardy,30,FRA,R32,126203,Taylor Harry Fritz,102,USA,no
+20160307,2016-M006,Indian Wells Masters,Hard,104871,Jeremy Chardy,32,FRA,R64,105723,Andrey Kuznetsov,55,RUS,no
+20160321,2016-M007,Miami Masters,Hard,104871,Jeremy Chardy,31,FRA,R64,104269,Fernando Verdasco,65,ESP,no
+20160411,2016-0410,Monte Carlo Masters,Clay,104871,Jeremy Chardy,33,FRA,R32,105138,Roberto Bautista Agut,17,ESP,no
+20160418,2016-0425,Barcelona,Clay,104871,Jeremy Chardy,33,FRA,R16,105453,Kei Nishikori,6,JPN,no
+20160502,2016-M021,Madrid Masters,Clay,104871,Jeremy Chardy,33,FRA,R64,105077,Albert Ramos,56,ESP,no
+20160509,2016-M009,Rome Masters,Clay,104871,Jeremy Chardy,32,FRA,R16,104918,Andy Murray,3,GBR,no
+20160523,2016-520,Roland Garros,Clay,104871,Jeremy Chardy,32,FRA,R32,104527,Stanislas Wawrinka,4,SUI,no
+20160613,2016-0311,London,Grass,104871,Jeremy Chardy,33,FRA,R32,106210,Jiri Vesely,68,CZE,no
+20160627,2016-540,Wimbledon,Grass,104871,Jeremy Chardy,34,FRA,R64,105449,Steve Johnson,29,USA,no
+20160711,2016-0414,Hamburg,Clay,104871,Jeremy Chardy,34,FRA,R32,104216,Maximo Gonzalez,142,ARG,no
+20160718,2016-0439,Umag,Clay,104871,Jeremy Chardy,38,FRA,QF,104122,Carlos Berlocq,87,ARG,no
+20160725,2016-0421,Canada Masters,Hard,104871,Jeremy Chardy,39,FRA,R64,105577,Vasek Pospisil,101,CAN,no
+20160808,2016-7480,Los Cabos,Hard,104871,Jeremy Chardy,39,FRA,R32,105807,Pablo Carreno Busta,55,ESP,no
+20160815,2016-M024,Cincinnati Masters,Hard,104871,Jeremy Chardy,53,FRA,R64,124187,Reilly Opelka,364,USA,no
+20160829,2016-560,Us Open,Hard,104871,Jeremy Chardy,55,FRA,R64,105777,Grigor Dimitrov,24,BUL,no
+20160111,2016-0301,Auckland,Hard,106210,Jiri Vesely,42,CZE,R32,105138,Roberto Bautista Agut,25,ESP,no
+20160118,2016-580,Australian Open,Hard,106210,Jiri Vesely,50,CZE,R128,105952,Renzo Olivo,174,ARG,no
+20160201,2016-7434,Sofia,Hard,106210,Jiri Vesely,51,CZE,R32,106000,Damir Dzumhur,79,BIH,no
+20160208,2016-0407,Rotterdam,Hard,106210,Jiri Vesely,51,CZE,R16,105138,Roberto Bautista Agut,17,ESP,no
+20160222,2016-0495,Dubai,Hard,106210,Jiri Vesely,55,CZE,R32,106432,Borna Coric,38,CRO,no
+20160307,2016-M006,Indian Wells Masters,Hard,106210,Jiri Vesely,56,CZE,R128,105217,Thiemo De Bakker,103,NED,no
+20160321,2016-M007,Miami Masters,Hard,106210,Jiri Vesely,55,CZE,R128,106378,Kyle Edmund,87,GBR,no
+20160404,2016-0360,Marrakech,Clay,106210,Jiri Vesely,55,CZE,SF,106432,Borna Coric,48,CRO,no
+20160411,2016-0410,Monte Carlo Masters,Clay,106210,Jiri Vesely,55,CZE,R16,104792,Gael Monfils,16,FRA,no
+20160425,2016-7163,Istanbul,Clay,106210,Jiri Vesely,63,CZE,QF,105777,Grigor Dimitrov,29,BUL,no
+20160516,2016-6120,Nice,Clay,106210,Jiri Vesely,59,CZE,R32,104919,Leonardo Mayer,51,ARG,no
+20160523,2016-520,Roland Garros,Clay,106210,Jiri Vesely,60,CZE,R64,104597,Nicolas Almagro,49,ESP,no
+20160613,2016-0311,London,Grass,106210,Jiri Vesely,68,CZE,R16,105683,Milos Raonic,9,CAN,no
+20160620,2016-0741,Nottingham,Grass,106210,Jiri Vesely,64,CZE,R32,104180,Gilles Muller,41,LUX,no
+20160627,2016-540,Wimbledon,Grass,106210,Jiri Vesely,64,CZE,R16,104607,Tomas Berdych,9,CZE,no
+20160718,2016-0439,Umag,Clay,106210,Jiri Vesely,50,CZE,R16,104122,Carlos Berlocq,87,ARG,no
+20160815,2016-M024,Cincinnati Masters,Hard,106210,Jiri Vesely,50,CZE,R64,104719,Marcel Granollers,46,ESP,no
+20160822,2016-6242,Winston-Salem,Hard,106210,Jiri Vesely,48,CZE,R16,105723,Andrey Kuznetsov,42,RUS,no
+20160829,2016-560,Us Open,Hard,106210,Jiri Vesely,49,CZE,R64,104925,Novak Djokovic,1,SRB,no
+20160926,2016-6967,Shenzhen,Hard,106210,Jiri Vesely,52,CZE,QF,104607,Tomas Berdych,9,CZE,no
+20161003,2016-0329,Tokyo,Hard,106210,Jiri Vesely,52,CZE,R16,105676,David Goffin,14,BEL,no
+20160715,2016-M-DC-2016-WG-M-FRA-CZE-01,Davis Cup WG QF: FRA vs CZE,Hard,106210,Jiri Vesely,50,CZE,RR,106298,Lucas Pouille,21,FRA,no
+20160715,2016-M-DC-2016-WG-M-FRA-CZE-01,Davis Cup WG QF: FRA vs CZE,Hard,106210,Jiri Vesely,50,CZE,RR,104542,Jo Wilfried Tsonga,10,FRA,no
+20160111,2016-0301,Auckland,Hard,104542,Jo Wilfried Tsonga,10,FRA,SF,105138,Roberto Bautista Agut,25,ESP,no
+20160118,2016-580,Australian Open,Hard,104542,Jo Wilfried Tsonga,10,FRA,R16,105453,Kei Nishikori,7,JPN,no
+20160208,2016-0506,Buenos Aires,Clay,104542,Jo Wilfried Tsonga,9,FRA,QF,104597,Nicolas Almagro,72,ESP,no
+20160215,2016-M052,Rio de Janeiro,Clay,104542,Jo Wilfried Tsonga,9,FRA,R32,106329,Thiago Monteiro,338,BRA,no
+20160307,2016-M006,Indian Wells Masters,Hard,104542,Jo Wilfried Tsonga,9,FRA,QF,104925,Novak Djokovic,1,SRB,no
+20160321,2016-M007,Miami Masters,Hard,104542,Jo Wilfried Tsonga,9,FRA,R32,105138,Roberto Bautista Agut,18,ESP,no
+20160411,2016-0410,Monte Carlo Masters,Clay,104542,Jo Wilfried Tsonga,9,FRA,SF,104792,Gael Monfils,16,FRA,no
+20160502,2016-M021,Madrid Masters,Clay,104542,Jo Wilfried Tsonga,7,FRA,R16,105683,Milos Raonic,10,CAN,no
+20160523,2016-520,Roland Garros,Clay,104542,Jo Wilfried Tsonga,7,FRA,R32,105208,Ernests Gulbis,80,LAT,no
+20160627,2016-540,Wimbledon,Grass,104542,Jo Wilfried Tsonga,12,FRA,QF,104918,Andy Murray,2,GBR,no
+20160808,2016-O16,Olympics,Hard,104542,Jo Wilfried Tsonga,9,FRA,R32,104180,Gilles Muller,37,LUX,no
+20160815,2016-M024,Cincinnati Masters,Hard,104542,Jo Wilfried Tsonga,10,FRA,R16,105449,Steve Johnson,23,USA,no
+20160829,2016-560,Us Open,Hard,104542,Jo Wilfried Tsonga,11,FRA,QF,104925,Novak Djokovic,1,SRB,no
+20161010,2016-5014,Shanghai Masters,Hard,104542,Jo Wilfried Tsonga,13,FRA,QF,105138,Roberto Bautista Agut,19,ESP,no
+20161024,2016-0337,Vienna,Hard,104542,Jo Wilfried Tsonga,15,FRA,F,104918,Andy Murray,2,GBR,no
+20161031,2016-0352,Paris Masters,Hard,104542,Jo Wilfried Tsonga,13,FRA,QF,105683,Milos Raonic,5,CAN,no
+20160715,2016-M-DC-2016-WG-M-FRA-CZE-01,Davis Cup WG QF: FRA vs CZE,Hard,104542,Jo Wilfried Tsonga,10,FRA,RR,104586,Lukas Rosol,78,CZE,no
+20160111,2016-0301,Auckland,Hard,105311,Joao Sousa,33,POR,R32,104926,Fabio Fognini,21,ITA,no
+20160118,2016-580,Australian Open,Hard,105311,Joao Sousa,33,POR,R32,104918,Andy Murray,2,GBR,no
+20160201,2016-0375,Montpellier,Hard,105311,Joao Sousa,33,POR,R32,105074,Ruben Bemelmans,107,BEL,no
+20160208,2016-0407,Rotterdam,Hard,105311,Joao Sousa,33,POR,R32,105138,Roberto Bautista Agut,17,ESP,no
+20160215,2016-0496,Marseille,Hard,105311,Joao Sousa,34,POR,R32,104898,Robin Haase,64,NED,no
+20160222,2016-0495,Dubai,Hard,105311,Joao Sousa,36,POR,R32,104607,Tomas Berdych,7,CZE,no
+20160307,2016-M006,Indian Wells Masters,Hard,105311,Joao Sousa,37,POR,R64,105643,Federico Delbonis,53,ARG,no
+20160321,2016-M007,Miami Masters,Hard,105311,Joao Sousa,38,POR,R32,104925,Novak Djokovic,1,SRB,no
+20160404,2016-0360,Marrakech,Clay,105311,Joao Sousa,36,POR,R16,105487,Facundo Bagnis,95,ARG,no
+20160411,2016-0410,Monte Carlo Masters,Clay,105311,Joao Sousa,34,POR,R32,105332,Benoit Paire,22,FRA,no
+20160418,2016-0425,Barcelona,Clay,105311,Joao Sousa,34,POR,R32,103656,Albert Montanes,104,ESP,no
+20160425,2016-7290,Estoril,Clay,105311,Joao Sousa,34,POR,R16,104597,Nicolas Almagro,71,ESP,no
+20160502,2016-M021,Madrid Masters,Clay,105311,Joao Sousa,35,POR,QF,104745,Rafael Nadal,5,ESP,no
+20160509,2016-M009,Rome Masters,Clay,105311,Joao Sousa,30,POR,R32,106233,Dominic Thiem,15,AUT,no
+20160516,2016-6120,Nice,Clay,105311,Joao Sousa,28,POR,SF,100644,Alexander Zverev,48,GER,no
+20160523,2016-520,Roland Garros,Clay,105311,Joao Sousa,29,POR,R64,105208,Ernests Gulbis,80,LAT,no
+20160613,2016-0500,Halle,Grass,105311,Joao Sousa,30,POR,R32,106233,Dominic Thiem,7,AUT,no
+20160620,2016-0741,Nottingham,Grass,105311,Joao Sousa,30,POR,R32,104534,Dudi Sela,71,ISR,no
+20160627,2016-540,Wimbledon,Grass,105311,Joao Sousa,31,POR,R32,106210,Jiri Vesely,64,CZE,no
+20160711,2016-0316,Bastad,Clay,105311,Joao Sousa,30,POR,QF,105671,Gastao Elias,89,POR,no
+20160718,2016-0439,Umag,Clay,105311,Joao Sousa,32,POR,QF,105413,Andrej Martin,124,SVK,no
+20160725,2016-0421,Canada Masters,Hard,105311,Joao Sousa,36,POR,R64,104792,Gael Monfils,14,FRA,no
+20160808,2016-O16,Olympics,Hard,105311,Joao Sousa,36,POR,R32,105223,Juan Martin Del Potro,141,ARG,no
+20160815,2016-M024,Cincinnati Masters,Hard,105311,Joao Sousa,36,POR,R64,106071,Bernard Tomic,21,AUS,no
+20160822,2016-6242,Winston-Salem,Hard,105311,Joao Sousa,36,POR,R32,104229,Yen Hsun Lu,72,TPE,no
+20160829,2016-560,Us Open,Hard,105311,Joao Sousa,36,POR,R32,105777,Grigor Dimitrov,24,BUL,no
+20160926,2016-7581,Chengdu,Hard,105311,Joao Sousa,34,POR,R32,111575,Karen Khachanov,101,RUS,no
+20160919,2016-0568,St.Petersburg,Hard,105311,Joao Sousa,34,POR,QF,105138,Roberto Bautista Agut,16,ESP,no
+20161003,2016-0329,Tokyo,Hard,105311,Joao Sousa,34,POR,QF,105676,David Goffin,14,BEL,no
+20161010,2016-5014,Shanghai Masters,Hard,105311,Joao Sousa,34,POR,R64,105332,Benoit Paire,47,FRA,no
+20161017,2016-7485,Antwerp,Hard,105311,Joao Sousa,33,POR,R32,105657,Marius Copil,198,ROU,no
+20161024,2016-0337,Vienna,Hard,105311,Joao Sousa,34,POR,R16,103970,David Ferrer,19,ESP,no
+20161031,2016-0352,Paris Masters,Hard,105311,Joao Sousa,43,POR,R32,104607,Tomas Berdych,11,CZE,no
+20160304,2016-M-DC-2016-G1-EPA-M-POR-AUT-01,Davis Cup G1 R1: POR vs AUT,Hard,105311,Joao Sousa,37,POR,RR,106233,Dominic Thiem,14,AUT,no
+20160111,2016-0301,Auckland,Hard,104545,John Isner,11,USA,QF,105138,Roberto Bautista Agut,25,ESP,no
+20160118,2016-580,Australian Open,Hard,104545,John Isner,11,USA,R16,103970,David Ferrer,8,ESP,no
+20160208,2016-0506,Buenos Aires,Clay,104545,John Isner,12,USA,R16,105583,Dusan Lajovic,79,SRB,no
+20160215,2016-M052,Rio de Janeiro,Clay,104545,John Isner,11,USA,R32,105550,Guido Pella,71,ARG,no
+20160307,2016-M006,Indian Wells Masters,Hard,104545,John Isner,11,USA,R16,105453,Kei Nishikori,6,JPN,no
+20160321,2016-M007,Miami Masters,Hard,104545,John Isner,13,USA,R64,105065,Tim Smyczek,132,USA,no
+20160404,2016-0717,Houston,Clay,104545,John Isner,15,USA,SF,106058,Jack Sock,25,USA,no
+20160516,2016-0322,Geneva,Clay,104545,John Isner,17,USA,R16,104586,Lukas Rosol,68,CZE,no
+20160523,2016-520,Roland Garros,Clay,104545,John Isner,17,USA,R16,104918,Andy Murray,2,GBR,no
+20160613,2016-0311,London,Grass,104545,John Isner,17,USA,R16,104180,Gilles Muller,41,LUX,no
+20160627,2016-540,Wimbledon,Grass,104545,John Isner,17,USA,R32,104542,Jo Wilfried Tsonga,12,FRA,no
+20160718,2016-M035,Washington,Hard,104545,John Isner,16,USA,QF,105449,Steve Johnson,25,USA,no
+20160725,2016-0421,Canada Masters,Hard,104545,John Isner,16,USA,R32,105992,Ryan Harrison,144,USA,no
+20160801,2016-6116,Atlanta,Hard,104545,John Isner,17,USA,F,106401,Nick Kyrgios,18,AUS,no
+20160815,2016-M024,Cincinnati Masters,Hard,104545,John Isner,22,USA,R32,105683,Milos Raonic,6,CAN,no
+20160829,2016-560,Us Open,Hard,104545,John Isner,21,USA,R32,106378,Kyle Edmund,84,GBR,no
+20161010,2016-5014,Shanghai Masters,Hard,104545,John Isner,26,USA,R64,100644,Alexander Zverev,21,GER,no
+20161017,2016-0429,Stockholm,Hard,104545,John Isner,27,USA,R32,105223,Juan Martin Del Potro,63,ARG,no
+20161024,2016-0337,Vienna,Hard,104545,John Isner,27,USA,QF,104918,Andy Murray,2,GBR,no
+20161031,2016-0352,Paris Masters,Hard,104545,John Isner,27,USA,F,104918,Andy Murray,2,GBR,no
+20160715,2016-M-DC-2016-WG-M-USA-CRO-01,Davis Cup WG QF: USA vs CRO,Hard,104545,John Isner,16,USA,RR,105227,Marin Cilic,12,CRO,no
+20160215,2016-0499,Delray Beach,Hard,105223,Juan Martin Del Potro,1042,ARG,SF,105023,Sam Querrey,61,USA,no
+20160307,2016-M006,Indian Wells Masters,Hard,105223,Juan Martin Del Potro,420,ARG,R64,104607,Tomas Berdych,7,CZE,no
+20160321,2016-M007,Miami Masters,Hard,105223,Juan Martin Del Potro,366,ARG,R64,104547,Horacio Zeballos,112,ARG,no
+20160425,2016-0308,Munich,Clay,105223,Juan Martin Del Potro,337,ARG,QF,104259,Philipp Kohlschreiber,27,GER,no
+20160502,2016-M021,Madrid Masters,Clay,105223,Juan Martin Del Potro,274,ARG,R32,106058,Jack Sock,26,USA,no
+20160606,2016-0321,Stuttgart,Grass,105223,Juan Martin Del Potro,223,ARG,SF,104259,Philipp Kohlschreiber,26,GER,no
+20160613,2016-0311,London,Grass,105223,Juan Martin Del Potro,166,ARG,R32,104545,John Isner,17,USA,no
+20160627,2016-540,Wimbledon,Grass,105223,Juan Martin Del Potro,165,ARG,R32,106298,Lucas Pouille,30,FRA,no
+20160808,2016-O16,Olympics,Hard,105223,Juan Martin Del Potro,141,ARG,F,104918,Andy Murray,2,GBR,no
+20160829,2016-560,Us Open,Hard,105223,Juan Martin Del Potro,142,ARG,QF,104527,Stanislas Wawrinka,3,SUI,no
+20161010,2016-5014,Shanghai Masters,Hard,105223,Juan Martin Del Potro,63,ARG,R64,105676,David Goffin,12,BEL,no
+20161024,2016-0328,Basel,Hard,105223,Juan Martin Del Potro,42,ARG,QF,105453,Kei Nishikori,5,JPN,no
+20160104,2016-M020,Brisbane,Hard,105453,Kei Nishikori,8,JPN,QF,106071,Bernard Tomic,18,AUS,no
+20160118,2016-580,Australian Open,Hard,105453,Kei Nishikori,7,JPN,QF,104925,Novak Djokovic,1,SRB,no
+20160222,2016-M004,Acapulco,Hard,105453,Kei Nishikori,6,JPN,R16,105023,Sam Querrey,43,USA,no
+20160307,2016-M006,Indian Wells Masters,Hard,105453,Kei Nishikori,6,JPN,QF,104745,Rafael Nadal,5,ESP,no
+20160321,2016-M007,Miami Masters,Hard,105453,Kei Nishikori,6,JPN,F,104925,Novak Djokovic,1,SRB,no
+20160418,2016-0425,Barcelona,Clay,105453,Kei Nishikori,6,JPN,F,104745,Rafael Nadal,5,ESP,no
+20160502,2016-M021,Madrid Masters,Clay,105453,Kei Nishikori,6,JPN,SF,104925,Novak Djokovic,1,SRB,no
+20160509,2016-M009,Rome Masters,Clay,105453,Kei Nishikori,6,JPN,SF,104925,Novak Djokovic,1,SRB,no
+20160523,2016-520,Roland Garros,Clay,105453,Kei Nishikori,6,JPN,R16,104755,Richard Gasquet,12,FRA,no
+20160613,2016-0500,Halle,Grass,105453,Kei Nishikori,6,JPN,R16,104252,Florian Mayer,192,GER,no
+20160627,2016-540,Wimbledon,Grass,105453,Kei Nishikori,6,JPN,R16,105227,Marin Cilic,13,CRO,no
+20160725,2016-0421,Canada Masters,Hard,105453,Kei Nishikori,6,JPN,F,104925,Novak Djokovic,1,SRB,no
+20160808,2016-O16,Olympics,Hard,105453,Kei Nishikori,7,JPN,SF,104918,Andy Murray,2,GBR,no
+20160815,2016-M024,Cincinnati Masters,Hard,105453,Kei Nishikori,7,JPN,R16,106071,Bernard Tomic,21,AUS,no
+20160829,2016-560,Us Open,Hard,105453,Kei Nishikori,7,JPN,SF,104527,Stanislas Wawrinka,3,SUI,no
+20161003,2016-0329,Tokyo,Hard,105453,Kei Nishikori,5,JPN,R16,105311,Joao Sousa,34,POR,no
+20161024,2016-0328,Basel,Hard,105453,Kei Nishikori,5,JPN,F,105227,Marin Cilic,12,CRO,no
+20161031,2016-0352,Paris Masters,Hard,105453,Kei Nishikori,4,JPN,R16,104542,Jo Wilfried Tsonga,13,FRA,no
+20161114,2016-0605,London,Hard,105453,Kei Nishikori,5,JPN,SF,104925,Novak Djokovic,2,SRB,no
+20161114,2016-0605,London,Hard,105453,Kei Nishikori,5,JPN,RR,104918,Andy Murray,1,GBR,no
+20161114,2016-0605,London,Hard,105453,Kei Nishikori,5,JPN,RR,105227,Marin Cilic,7,CRO,no
+20160304,2016-M-DC-2016-WG-M-GBR-JPN-01,Davis Cup WG R1: GBR vs JPN,Hard,105453,Kei Nishikori,6,JPN,RR,104918,Andy Murray,2,GBR,no
+20160111,2016-0301,Auckland,Hard,104731,Kevin Anderson,12,RSA,QF,106058,Jack Sock,26,USA,no
+20160118,2016-580,Australian Open,Hard,104731,Kevin Anderson,12,RSA,R128,104330,Rajeev Ram,93,USA,no
+20160215,2016-0499,Delray Beach,Hard,104731,Kevin Anderson,14,RSA,R32,105572,Austin Krajicek,103,USA,no
+20160502,2016-M021,Madrid Masters,Clay,104731,Kevin Anderson,19,RSA,R64,104792,Gael Monfils,15,FRA,no
+20160509,2016-M009,Rome Masters,Clay,104731,Kevin Anderson,19,RSA,R32,104338,Juan Monaco,114,ARG,no
+20160516,2016-6120,Nice,Clay,104731,Kevin Anderson,20,RSA,QF,105311,Joao Sousa,28,POR,no
+20160523,2016-520,Roland Garros,Clay,104731,Kevin Anderson,20,RSA,R128,103565,Stephane Robert,90,FRA,no
+20160613,2016-0311,London,Grass,104731,Kevin Anderson,20,RSA,R32,106071,Bernard Tomic,22,AUS,no
+20160620,2016-0741,Nottingham,Grass,104731,Kevin Anderson,24,RSA,QF,105449,Steve Johnson,38,USA,no
+20160627,2016-540,Wimbledon,Grass,104731,Kevin Anderson,25,RSA,R128,104797,Denis Istomin,116,UZB,no
+20160718,2016-M035,Washington,Hard,104731,Kevin Anderson,33,RSA,R32,104291,Malek Jaziri,63,TUN,no
+20160725,2016-0421,Canada Masters,Hard,104731,Kevin Anderson,34,RSA,QF,104527,Stanislas Wawrinka,5,SUI,no
+20160801,2016-6116,Atlanta,Hard,104731,Kevin Anderson,28,RSA,R16,124187,Reilly Opelka,837,USA,no
+20160815,2016-M024,Cincinnati Masters,Hard,104731,Kevin Anderson,24,RSA,R16,104918,Andy Murray,2,GBR,no
+20160822,2016-6242,Winston-Salem,Hard,104731,Kevin Anderson,25,RSA,R32,106210,Jiri Vesely,48,CZE,no
+20160829,2016-560,Us Open,Hard,104731,Kevin Anderson,35,RSA,R32,104542,Jo Wilfried Tsonga,11,FRA,no
+20160926,2016-7581,Chengdu,Hard,104731,Kevin Anderson,45,RSA,QF,104678,Viktor Troicki,32,SRB,no
+20161003,2016-0329,Tokyo,Hard,104731,Kevin Anderson,41,RSA,R32,106210,Jiri Vesely,52,CZE,no
+20161010,2016-5014,Shanghai Masters,Hard,104731,Kevin Anderson,40,RSA,R32,104792,Gael Monfils,8,FRA,no
+20161017,2016-0429,Stockholm,Hard,104731,Kevin Anderson,48,RSA,QF,105777,Grigor Dimitrov,18,BUL,no
+20161024,2016-0337,Vienna,Hard,104731,Kevin Anderson,52,RSA,R32,104678,Viktor Troicki,28,SRB,no
+20160104,2016-0451,Doha,Hard,106378,Kyle Edmund,102,GBR,QF,104607,Tomas Berdych,6,CZE,no
+20160118,2016-580,Australian Open,Hard,106378,Kyle Edmund,88,GBR,R128,106000,Damir Dzumhur,81,BIH,no
+20160307,2016-M006,Indian Wells Masters,Hard,106378,Kyle Edmund,82,GBR,R128,105550,Guido Pella,40,ARG,no
+20160321,2016-M007,Miami Masters,Hard,106378,Kyle Edmund,87,GBR,R64,104925,Novak Djokovic,1,SRB,no
+20160418,2016-0773,Bucharest,Clay,106378,Kyle Edmund,92,GBR,R16,104198,Guillermo Garcia Lopez,37,ESP,no
+20160425,2016-7290,Estoril,Clay,106378,Kyle Edmund,89,GBR,R16,105332,Benoit Paire,21,FRA,no
+20160516,2016-6120,Nice,Clay,106378,Kyle Edmund,84,GBR,R32,100644,Alexander Zverev,48,GER,no
+20160523,2016-520,Roland Garros,Clay,106378,Kyle Edmund,82,GBR,R64,104545,John Isner,17,USA,no
+20160613,2016-0311,London,Grass,106378,Kyle Edmund,85,GBR,QF,104918,Andy Murray,2,GBR,no
+20160620,2016-0741,Nottingham,Grass,106378,Kyle Edmund,68,GBR,R32,105238,Alexandr Dolgopolov,32,UKR,no
+20160627,2016-540,Wimbledon,Grass,106378,Kyle Edmund,68,GBR,R128,105173,Adrian Mannarino,55,FRA,no
+20160725,2016-0421,Canada Masters,Hard,106378,Kyle Edmund,84,GBR,R64,105731,Steven Diez,192,CAN,no
+20160808,2016-O16,Olympics,Hard,106378,Kyle Edmund,81,GBR,R32,106121,Taro Daniel,117,JPN,no
+20160822,2016-6242,Winston-Salem,Hard,106378,Kyle Edmund,85,GBR,R32,104678,Viktor Troicki,35,SRB,no
+20160829,2016-560,Us Open,Hard,106378,Kyle Edmund,84,GBR,R16,104925,Novak Djokovic,1,SRB,no
+20161003,2016-M015,Beijing,Hard,106378,Kyle Edmund,54,GBR,QF,104918,Andy Murray,2,GBR,no
+20161010,2016-5014,Shanghai Masters,Hard,106378,Kyle Edmund,48,GBR,R32,104527,Stanislas Wawrinka,3,SUI,no
+20161017,2016-7485,Antwerp,Hard,106378,Kyle Edmund,43,GBR,SF,104755,Richard Gasquet,19,FRA,no
+20161024,2016-0337,Vienna,Hard,106378,Kyle Edmund,40,GBR,R32,103970,David Ferrer,19,ESP,no
+20160916,2016-M-DC-2016-WG-M-GBR-ARG-01,Davis Cup WG SF: GBR vs ARG,Hard,106378,Kyle Edmund,55,GBR,RR,105550,Guido Pella,49,ARG,no
+20160104,2016-0451,Doha,Hard,104919,Leonardo Mayer,35,ARG,QF,104925,Novak Djokovic,1,SRB,no
+20160111,2016-M001,Sydney,Hard,104919,Leonardo Mayer,35,ARG,R32,104559,Teymuraz Gabashvili,50,RUS,no
+20160118,2016-580,Australian Open,Hard,104919,Leonardo Mayer,36,ARG,R128,106233,Dominic Thiem,20,AUT,no
+20160208,2016-0506,Buenos Aires,Clay,104919,Leonardo Mayer,37,ARG,R16,104542,Jo Wilfried Tsonga,9,FRA,no
+20160222,2016-0495,Dubai,Hard,104919,Leonardo Mayer,40,ARG,R32,105341,Thomas Fabbiano,144,ITA,no
+20160307,2016-M006,Indian Wells Masters,Hard,104919,Leonardo Mayer,46,ARG,R32,105227,Marin Cilic,12,CRO,no
+20160321,2016-M007,Miami Masters,Hard,104919,Leonardo Mayer,41,ARG,R128,106000,Damir Dzumhur,94,BIH,no
+20160425,2016-7290,Estoril,Clay,104919,Leonardo Mayer,46,ARG,QF,104597,Nicolas Almagro,71,ESP,no
+20160502,2016-M021,Madrid Masters,Clay,104919,Leonardo Mayer,42,ARG,R64,103852,Feliciano Lopez,23,ESP,no
+20160509,2016-M009,Rome Masters,Clay,104919,Leonardo Mayer,49,ARG,R64,105676,David Goffin,13,BEL,no
+20160516,2016-6120,Nice,Clay,104919,Leonardo Mayer,51,ARG,R16,106233,Dominic Thiem,15,AUT,no
+20160523,2016-520,Roland Garros,Clay,104919,Leonardo Mayer,68,ARG,R128,104871,Jeremy Chardy,32,FRA,no
+20160627,2016-540,Wimbledon,Grass,104919,Leonardo Mayer,90,ARG,R128,105385,Donald Young,69,USA,no
+20160711,2016-0414,Hamburg,Clay,104919,Leonardo Mayer,109,ARG,R32,103565,Stephane Robert,83,FRA,no
+20160718,2016-0439,Umag,Clay,104919,Leonardo Mayer,117,ARG,R16,105311,Joao Sousa,32,POR,no
+20160104,2016-M020,Brisbane,Hard,106298,Lucas Pouille,78,FRA,QF,105683,Milos Raonic,14,CAN,no
+20160118,2016-580,Australian Open,Hard,106298,Lucas Pouille,90,FRA,R128,105683,Milos Raonic,14,CAN,no
+20160215,2016-0496,Marseille,Hard,106298,Lucas Pouille,91,FRA,R32,105723,Andrey Kuznetsov,54,RUS,no
+20160222,2016-0495,Dubai,Hard,106298,Lucas Pouille,88,FRA,R32,105577,Vasek Pospisil,45,CAN,no
+20160307,2016-M006,Indian Wells Masters,Hard,106298,Lucas Pouille,87,FRA,R128,106432,Borna Coric,47,CRO,no
+20160321,2016-M007,Miami Masters,Hard,106298,Lucas Pouille,88,FRA,R16,104468,Gilles Simon,19,FRA,no
+20160411,2016-0410,Monte Carlo Masters,Clay,106298,Lucas Pouille,82,FRA,R16,104542,Jo Wilfried Tsonga,9,FRA,no
+20160418,2016-0773,Bucharest,Clay,106298,Lucas Pouille,72,FRA,F,104269,Fernando Verdasco,86,ESP,no
+20160502,2016-M021,Madrid Masters,Clay,106298,Lucas Pouille,58,FRA,R32,105023,Sam Querrey,37,USA,no
+20160509,2016-M009,Rome Masters,Clay,106298,Lucas Pouille,52,FRA,SF,104918,Andy Murray,3,GBR,no
+20160523,2016-520,Roland Garros,Clay,106298,Lucas Pouille,31,FRA,R64,105413,Andrej Martin,133,SVK,no
+20160606,2016-0321,Stuttgart,Grass,106298,Lucas Pouille,29,FRA,R32,105357,John Millman,66,AUS,no
+20160613,2016-0500,Halle,Grass,106298,Lucas Pouille,29,FRA,R32,105453,Kei Nishikori,6,JPN,no
+20160627,2016-540,Wimbledon,Grass,106298,Lucas Pouille,30,FRA,QF,104607,Tomas Berdych,9,CZE,no
+20160725,2016-0421,Canada Masters,Hard,106298,Lucas Pouille,23,FRA,R32,104330,Rajeev Ram,118,USA,no
+20160815,2016-M024,Cincinnati Masters,Hard,106298,Lucas Pouille,26,FRA,R64,106401,Nick Kyrgios,16,AUS,no
+20160829,2016-560,Us Open,Hard,106298,Lucas Pouille,25,FRA,QF,104792,Gael Monfils,12,FRA,no
+20161003,2016-M015,Beijing,Hard,106298,Lucas Pouille,16,FRA,R16,105777,Grigor Dimitrov,20,BUL,no
+20161010,2016-5014,Shanghai Masters,Hard,106298,Lucas Pouille,16,FRA,R16,104918,Andy Murray,2,GBR,no
+20161024,2016-0337,Vienna,Hard,106298,Lucas Pouille,17,FRA,R32,103852,Feliciano Lopez,30,ESP,no
+20161031,2016-0352,Paris Masters,Hard,106298,Lucas Pouille,17,FRA,R16,104918,Andy Murray,2,GBR,no
+20160916,2016-M-DC-2016-WG-M-FRA-CRO-01,Davis Cup WG SF: FRA vs CRO,Hard,106298,Lucas Pouille,18,FRA,RR,105227,Marin Cilic,11,CRO,no
+20160104,2016-0891,Chennai,Hard,104586,Lukas Rosol,55,CZE,R16,105332,Benoit Paire,19,FRA,no
+20160111,2016-0301,Auckland,Hard,104586,Lukas Rosol,54,CZE,QF,103970,David Ferrer,8,ESP,no
+20160118,2016-580,Australian Open,Hard,104586,Lukas Rosol,51,CZE,R32,104527,Stanislas Wawrinka,4,SUI,no
+20160201,2016-7434,Sofia,Hard,104586,Lukas Rosol,46,CZE,R16,105373,Martin Klizan,44,SVK,no
+20160208,2016-0407,Rotterdam,Hard,104586,Lukas Rosol,47,CZE,R32,106210,Jiri Vesely,51,CZE,no
+20160222,2016-0495,Dubai,Hard,104586,Lukas Rosol,51,CZE,R16,103852,Feliciano Lopez,24,ESP,no
+20160307,2016-M006,Indian Wells Masters,Hard,104586,Lukas Rosol,50,CZE,R128,105173,Adrian Mannarino,60,FRA,no
+20160321,2016-M007,Miami Masters,Hard,104586,Lukas Rosol,58,CZE,R128,105732,Pierre Hugues Herbert,107,FRA,no
+20160411,2016-0410,Monte Carlo Masters,Clay,104586,Lukas Rosol,61,CZE,R64,105379,Aljaz Bedene,60,GBR,no
+20160418,2016-0773,Bucharest,Clay,104586,Lukas Rosol,61,CZE,R32,106378,Kyle Edmund,92,GBR,no
+20160425,2016-0308,Munich,Clay,104586,Lukas Rosol,65,CZE,R16,100644,Alexander Zverev,49,GER,no
+20160516,2016-0322,Geneva,Clay,104586,Lukas Rosol,68,CZE,SF,104527,Stanislas Wawrinka,4,SUI,no
+20160523,2016-520,Roland Garros,Clay,104586,Lukas Rosol,59,CZE,R128,104527,Stanislas Wawrinka,4,SUI,no
+20160620,2016-0741,Nottingham,Grass,104586,Lukas Rosol,75,CZE,R64,106378,Kyle Edmund,68,GBR,no
+20160627,2016-540,Wimbledon,Grass,104586,Lukas Rosol,73,CZE,R128,105023,Sam Querrey,41,USA,no
+20160718,2016-0319,Kitzbuhel,Clay,104586,Lukas Rosol,79,CZE,R32,105932,Nikoloz Basilashvili,123,RUS,no
+20160808,2016-O16,Olympics,Hard,104586,Lukas Rosol,79,CZE,R64,105332,Benoit Paire,32,FRA,no
+20160822,2016-6242,Winston-Salem,Hard,104586,Lukas Rosol,82,CZE,R32,105449,Steve Johnson,21,USA,no
+20160829,2016-560,Us Open,Hard,104586,Lukas Rosol,81,CZE,R128,104918,Andy Murray,2,GBR,no
+20160926,2016-6967,Shenzhen,Hard,104586,Lukas Rosol,85,CZE,R32,105062,Mikhail Kukushkin,80,KAZ,no
+20160919,2016-0568,St.Petersburg,Hard,104586,Lukas Rosol,85,CZE,R16,104527,Stanislas Wawrinka,3,SUI,no
+20161010,2016-5014,Shanghai Masters,Hard,104586,Lukas Rosol,94,CZE,R64,104678,Viktor Troicki,31,SRB,no
+20161017,2016-M014,Moscow,Hard,104586,Lukas Rosol,93,CZE,R16,103565,Stephane Robert,52,FRA,no
+20160304,2016-M-DC-2016-WG-M-GER-CZE-01,Davis Cup WG R1: GER vs CZE,Hard,104586,Lukas Rosol,50,CZE,RR,104259,Philipp Kohlschreiber,30,GER,no
+20160104,2016-0451,Doha,Hard,104291,Malek Jaziri,103,TUN,R32,104269,Fernando Verdasco,49,ESP,no
+20160118,2016-580,Australian Open,Hard,104291,Malek Jaziri,104,TUN,R128,103990,Tommy Robredo,42,ESP,no
+20160201,2016-7434,Sofia,Hard,104291,Malek Jaziri,122,TUN,R32,104180,Gilles Muller,42,LUX,no
+20160208,2016-0402,Memphis,Hard,104291,Malek Jaziri,120,TUN,R32,104719,Marcel Granollers,98,ESP,no
+20160215,2016-0499,Delray Beach,Hard,104291,Malek Jaziri,123,TUN,R32,105173,Adrian Mannarino,49,FRA,no
+20160222,2016-0495,Dubai,Hard,104291,Malek Jaziri,121,TUN,R16,104925,Novak Djokovic,1,SRB,no
+20160418,2016-0425,Barcelona,Clay,104291,Malek Jaziri,76,TUN,QF,105332,Benoit Paire,22,FRA,no
+20160425,2016-0308,Munich,Clay,104291,Malek Jaziri,64,TUN,R32,100644,Alexander Zverev,49,GER,no
+20160523,2016-520,Roland Garros,Clay,104291,Malek Jaziri,72,TUN,R64,104607,Tomas Berdych,8,CZE,no
+20160606,2016-0321,Stuttgart,Grass,104291,Malek Jaziri,63,TUN,R32,103582,Michael Berrer,121,GER,no
+20160613,2016-0500,Halle,Grass,104291,Malek Jaziri,64,TUN,R16,103819,Roger Federer,3,SUI,no
+20160620,2016-0741,Nottingham,Grass,104291,Malek Jaziri,60,TUN,R32,104312,Andreas Seppi,57,ITA,no
+20160627,2016-540,Wimbledon,Grass,104291,Malek Jaziri,60,TUN,R128,105449,Steve Johnson,29,USA,no
+20160718,2016-M035,Washington,Hard,104291,Malek Jaziri,63,TUN,R16,100644,Alexander Zverev,27,GER,no
+20160808,2016-O16,Olympics,Hard,104291,Malek Jaziri,59,TUN,R64,104542,Jo Wilfried Tsonga,9,FRA,no
+20160815,2016-M024,Cincinnati Masters,Hard,104291,Malek Jaziri,62,TUN,R64,105357,John Millman,91,AUS,no
+20160822,2016-6242,Winston-Salem,Hard,104291,Malek Jaziri,53,TUN,R32,104655,Pablo Cuevas,20,URU,no
+20160829,2016-560,Us Open,Hard,104291,Malek Jaziri,68,TUN,R128,105575,Ricardas Berankis,89,LTU,no
+20160919,2016-0341,Metz,Hard,104291,Malek Jaziri,55,TUN,QF,104468,Gilles Simon,28,FRA,no
+20160926,2016-6967,Shenzhen,Hard,104291,Malek Jaziri,55,TUN,QF,104386,Janko Tipsarevic,224,SRB,no
+20161003,2016-M015,Beijing,Hard,104291,Malek Jaziri,50,TUN,R16,105683,Milos Raonic,6,CAN,no
+20161017,2016-0429,Stockholm,Hard,104291,Malek Jaziri,57,TUN,R32,106058,Jack Sock,23,USA,no
+20160304,2016-M-DC-2016-G2-EPA-M-BIH-TUN-01,Davis Cup G2 R1: BIH vs TUN,Carpet,104291,Malek Jaziri,107,TUN,RR,105806,Mirza Basic,133,BIH,no
+20160104,2016-0891,Chennai,Hard,104719,Marcel Granollers,84,ESP,R32,106432,Borna Coric,44,CRO,no
+20160118,2016-580,Australian Open,Hard,104719,Marcel Granollers,80,ESP,R64,104545,John Isner,11,USA,no
+20160201,2016-7161,Quito,Clay,104719,Marcel Granollers,83,ESP,R32,105413,Andrej Martin,141,SVK,no
+20160208,2016-0402,Memphis,Hard,104719,Marcel Granollers,98,ESP,R16,105385,Donald Young,48,USA,no
+20160215,2016-0499,Delray Beach,Hard,104719,Marcel Granollers,96,ESP,R32,105011,Illya Marchenko,86,UKR,no
+20160222,2016-0533,Sao Paulo,Clay,104719,Marcel Granollers,93,ESP,R32,105438,Inigo Cervantes Huegun,65,ESP,no
+20160307,2016-M006,Indian Wells Masters,Hard,104719,Marcel Granollers,92,ESP,R64,104918,Andy Murray,2,GBR,no
+20160321,2016-M007,Miami Masters,Hard,104719,Marcel Granollers,73,ESP,R64,105676,David Goffin,15,BEL,no
+20160411,2016-0410,Monte Carlo Masters,Clay,104719,Marcel Granollers,67,ESP,QF,104792,Gael Monfils,16,FRA,no
+20160418,2016-0425,Barcelona,Clay,104719,Marcel Granollers,50,ESP,R32,104745,Rafael Nadal,5,ESP,no
+20160425,2016-7163,Istanbul,Clay,104719,Marcel Granollers,54,ESP,QF,103333,Ivo Karlovic,31,CRO,no
+20160502,2016-M021,Madrid Masters,Clay,104719,Marcel Granollers,53,ESP,R32,105311,Joao Sousa,35,POR,no
+20160516,2016-6120,Nice,Clay,104719,Marcel Granollers,58,ESP,R16,100644,Alexander Zverev,48,GER,no
+20160523,2016-520,Roland Garros,Clay,104719,Marcel Granollers,56,ESP,R16,106233,Dominic Thiem,15,AUT,no
+20160613,2016-0500,Halle,Grass,104719,Marcel Granollers,45,ESP,R32,104259,Philipp Kohlschreiber,25,GER,no
+20160627,2016-540,Wimbledon,Grass,104719,Marcel Granollers,43,ESP,R64,104755,Richard Gasquet,10,FRA,no
+20160711,2016-0316,Bastad,Clay,104719,Marcel Granollers,45,ESP,R16,105487,Facundo Bagnis,93,ARG,no
+20160718,2016-0319,Kitzbuhel,Clay,104719,Marcel Granollers,46,ESP,R16,106361,Adam Pavlasek,116,CZE,no
+20160808,2016-7480,Los Cabos,Hard,104719,Marcel Granollers,47,ESP,QF,103333,Ivo Karlovic,24,CRO,no
+20160815,2016-M024,Cincinnati Masters,Hard,104719,Marcel Granollers,46,ESP,R32,104607,Tomas Berdych,8,CZE,no
+20160829,2016-560,Us Open,Hard,104719,Marcel Granollers,45,ESP,R64,104918,Andy Murray,2,GBR,no
+20161003,2016-0329,Tokyo,Hard,104719,Marcel Granollers,44,ESP,R32,104571,Marcos Baghdatis,35,CYP,no
+20161010,2016-5014,Shanghai Masters,Hard,104719,Marcel Granollers,43,ESP,R16,104999,Mischa Zverev,110,GER,no
+20161017,2016-M014,Moscow,Hard,104719,Marcel Granollers,39,ESP,R32,103565,Stephane Robert,52,FRA,no
+20161024,2016-0328,Basel,Hard,104719,Marcel Granollers,39,ESP,QF,105227,Marin Cilic,12,CRO,no
+20160118,2016-580,Australian Open,Hard,104571,Marcos Baghdatis,46,CYP,R128,104542,Jo Wilfried Tsonga,10,FRA,no
+20160201,2016-0375,Montpellier,Hard,104571,Marcos Baghdatis,53,CYP,QF,104755,Richard Gasquet,10,FRA,no
+20160208,2016-0407,Rotterdam,Hard,104571,Marcos Baghdatis,61,CYP,R16,105373,Martin Klizan,43,SVK,no
+20160222,2016-0495,Dubai,Hard,104571,Marcos Baghdatis,57,CYP,F,104527,Stanislas Wawrinka,4,SUI,no
+20160321,2016-M007,Miami Masters,Hard,104571,Marcos Baghdatis,40,CYP,R64,106401,Nick Kyrgios,26,AUS,no
+20160404,2016-0717,Houston,Clay,104571,Marcos Baghdatis,39,CYP,QF,106058,Jack Sock,25,USA,no
+20160418,2016-0773,Bucharest,Clay,104571,Marcos Baghdatis,39,CYP,R32,106065,Marco Cecchinato,99,ITA,no
+20160502,2016-M021,Madrid Masters,Clay,104571,Marcos Baghdatis,38,CYP,R64,104468,Gilles Simon,18,FRA,no
+20160523,2016-520,Roland Garros,Clay,104571,Marcos Baghdatis,39,CYP,R64,104542,Jo Wilfried Tsonga,7,FRA,no
+20160606,2016-0321,Stuttgart,Grass,104571,Marcos Baghdatis,41,CYP,R32,105526,Jan Lennard Struff,89,GER,no
+20160613,2016-0500,Halle,Grass,104571,Marcos Baghdatis,42,CYP,QF,100644,Alexander Zverev,38,GER,no
+20160620,2016-0741,Nottingham,Grass,104571,Marcos Baghdatis,40,CYP,QF,104655,Pablo Cuevas,25,URU,no
+20160627,2016-540,Wimbledon,Grass,104571,Marcos Baghdatis,40,CYP,R128,104545,John Isner,17,USA,no
+20160711,2016-0315,Newport,Grass,104571,Marcos Baghdatis,43,CYP,SF,103333,Ivo Karlovic,38,CRO,no
+20160718,2016-M035,Washington,Hard,104571,Marcos Baghdatis,41,CYP,R16,104545,John Isner,16,USA,no
+20160815,2016-M024,Cincinnati Masters,Hard,104571,Marcos Baghdatis,44,CYP,R32,104792,Gael Monfils,11,FRA,no
+20160822,2016-6242,Winston-Salem,Hard,104571,Marcos Baghdatis,44,CYP,R16,105138,Roberto Bautista Agut,17,ESP,no
+20160829,2016-560,Us Open,Hard,104571,Marcos Baghdatis,44,CYP,R16,104792,Gael Monfils,12,FRA,no
+20160926,2016-7581,Chengdu,Hard,104571,Marcos Baghdatis,36,CYP,R16,104678,Viktor Troicki,32,SRB,no
+20161003,2016-0329,Tokyo,Hard,104571,Marcos Baghdatis,35,CYP,R16,104180,Gilles Muller,36,LUX,no
+20161017,2016-0429,Stockholm,Hard,104571,Marcos Baghdatis,35,CYP,R32,104731,Kevin Anderson,48,RSA,no
+20161024,2016-0328,Basel,Hard,104571,Marcos Baghdatis,36,CYP,R32,105676,David Goffin,11,BEL,no
+20161031,2016-0352,Paris Masters,Hard,104571,Marcos Baghdatis,37,CYP,R32,105777,Grigor Dimitrov,18,BUL,no
+20160104,2016-M020,Brisbane,Hard,105227,Marin Cilic,13,CRO,QF,106233,Dominic Thiem,20,AUT,no
+20160118,2016-580,Australian Open,Hard,105227,Marin Cilic,13,CRO,R32,105138,Roberto Bautista Agut,21,ESP,no
+20160201,2016-0375,Montpellier,Hard,105227,Marin Cilic,13,CRO,R16,100644,Alexander Zverev,85,GER,no
+20160208,2016-0407,Rotterdam,Hard,105227,Marin Cilic,13,CRO,QF,104259,Philipp Kohlschreiber,32,GER,no
+20160215,2016-0496,Marseille,Hard,105227,Marin Cilic,12,CRO,F,106401,Nick Kyrgios,41,AUS,no
+20160222,2016-M004,Acapulco,Hard,105227,Marin Cilic,12,CRO,R32,105992,Ryan Harrison,127,USA,no
+20160307,2016-M006,Indian Wells Masters,Hard,105227,Marin Cilic,12,CRO,QF,105676,David Goffin,18,BEL,no
+20160321,2016-M007,Miami Masters,Hard,105227,Marin Cilic,11,CRO,R32,104468,Gilles Simon,19,FRA,no
+20160516,2016-0322,Geneva,Clay,105227,Marin Cilic,11,CRO,F,104527,Stanislas Wawrinka,4,SUI,no
+20160523,2016-520,Roland Garros,Clay,105227,Marin Cilic,10,CRO,R128,105477,Marco Trungelliti,166,ARG,no
+20160606,2016-0321,Stuttgart,Grass,105227,Marin Cilic,13,CRO,R16,103285,Radek Stepanek,129,CZE,no
+20160613,2016-0311,London,Grass,105227,Marin Cilic,13,CRO,SF,104918,Andy Murray,2,GBR,no
+20160627,2016-540,Wimbledon,Grass,105227,Marin Cilic,13,CRO,QF,103819,Roger Federer,3,SUI,no
+20160725,2016-0421,Canada Masters,Hard,105227,Marin Cilic,12,CRO,R32,103333,Ivo Karlovic,27,CRO,no
+20160808,2016-O16,Olympics,Hard,105227,Marin Cilic,14,CRO,R16,104792,Gael Monfils,11,FRA,no
+20160829,2016-560,Us Open,Hard,105227,Marin Cilic,9,CRO,R32,106058,Jack Sock,27,USA,no
+20161003,2016-0329,Tokyo,Hard,105227,Marin Cilic,11,CRO,SF,105676,David Goffin,14,BEL,no
+20161010,2016-5014,Shanghai Masters,Hard,105227,Marin Cilic,11,CRO,R32,100644,Alexander Zverev,21,GER,no
+20161031,2016-0352,Paris Masters,Hard,105227,Marin Cilic,10,CRO,SF,104545,John Isner,27,USA,no
+20161114,2016-0605,London,Hard,105227,Marin Cilic,7,CRO,RR,104918,Andy Murray,1,GBR,no
+20161114,2016-0605,London,Hard,105227,Marin Cilic,7,CRO,RR,104527,Stanislas Wawrinka,3,SUI,no
+20161125,2016-M-DC-2016-WG-M-ARG-CRO-01,Davis Cup WG F: ARG vs CRO,Hard,105227,Marin Cilic,6,CRO,RR,105223,Juan Martin Del Potro,38,ARG,no
+20160304,2016-M-DC-2016-WG-M-CRO-BEL-01,Davis Cup WG R1: CRO vs BEL,Clay,105227,Marin Cilic,12,CRO,RR,105676,David Goffin,16,BEL,no
+20160715,2016-M-DC-2016-WG-M-USA-CRO-01,Davis Cup WG QF: USA vs CRO,Hard,105227,Marin Cilic,12,CRO,RR,106058,Jack Sock,26,USA,no
+20160104,2016-0451,Doha,Hard,105373,Martin Klizan,43,SVK,R32,106378,Kyle Edmund,102,GBR,no
+20160111,2016-M001,Sydney,Hard,105373,Martin Klizan,45,SVK,R32,111442,Jordan Thompson,149,AUS,no
+20160118,2016-580,Australian Open,Hard,105373,Martin Klizan,43,SVK,R128,105138,Roberto Bautista Agut,21,ESP,no
+20160201,2016-7434,Sofia,Hard,105373,Martin Klizan,44,SVK,SF,104678,Viktor Troicki,25,SRB,no
+20160222,2016-0495,Dubai,Hard,105373,Martin Klizan,25,SVK,R32,106401,Nick Kyrgios,33,AUS,no
+20160307,2016-M006,Indian Wells Masters,Hard,105373,Martin Klizan,28,SVK,R64,104269,Fernando Verdasco,65,ESP,no
+20160523,2016-520,Roland Garros,Clay,105373,Martin Klizan,45,SVK,R128,106121,Taro Daniel,93,JPN,no
+20160627,2016-540,Wimbledon,Grass,105373,Martin Klizan,48,SVK,R128,105062,Mikhail Kukushkin,57,KAZ,no
+20160718,2016-0439,Umag,Clay,105373,Martin Klizan,28,SVK,R16,105413,Andrej Martin,124,SVK,no
+20160829,2016-560,Us Open,Hard,105373,Martin Klizan,29,SVK,R128,104022,Mikhail Youzhny,61,RUS,no
+20160919,2016-0341,Metz,Hard,105373,Martin Klizan,31,SVK,R32,103898,Julien Benneteau,238,FRA,no
+20161003,2016-0329,Tokyo,Hard,105373,Martin Klizan,33,SVK,R32,105311,Joao Sousa,34,POR,no
+20161010,2016-5014,Shanghai Masters,Hard,105373,Martin Klizan,33,SVK,R64,105449,Steve Johnson,24,USA,no
+20161024,2016-0337,Vienna,Hard,105373,Martin Klizan,35,SVK,R32,104918,Andy Murray,2,GBR,no
+20161031,2016-0352,Paris Masters,Hard,105373,Martin Klizan,35,SVK,R64,103917,Nicolas Mahut,41,FRA,no
+20160222,2016-0495,Dubai,Hard,104022,Mikhail Youzhny,78,RUS,R32,104291,Malek Jaziri,121,TUN,no
+20160307,2016-M006,Indian Wells Masters,Hard,104022,Mikhail Youzhny,76,RUS,R64,105138,Roberto Bautista Agut,17,ESP,no
+20160321,2016-M007,Miami Masters,Hard,104022,Mikhail Youzhny,72,RUS,R64,105332,Benoit Paire,22,FRA,no
+20160418,2016-0425,Barcelona,Clay,104022,Mikhail Youzhny,74,RUS,R32,104926,Fabio Fognini,31,ITA,no
+20160425,2016-0308,Munich,Clay,104022,Mikhail Youzhny,76,RUS,R32,105064,Thomaz Bellucci,35,BRA,no
+20160516,2016-0322,Geneva,Clay,104022,Mikhail Youzhny,77,RUS,R32,105449,Steve Johnson,35,USA,no
+20160523,2016-520,Roland Garros,Clay,104022,Mikhail Youzhny,78,RUS,R128,104471,Ivan Dodig,77,CRO,no
+20160606,2016-0321,Stuttgart,Grass,104022,Mikhail Youzhny,76,RUS,QF,106233,Dominic Thiem,7,AUT,no
+20160620,2016-0741,Nottingham,Grass,104022,Mikhail Youzhny,73,RUS,R16,104180,Gilles Muller,41,LUX,no
+20160627,2016-540,Wimbledon,Grass,104022,Mikhail Youzhny,70,RUS,R64,100644,Alexander Zverev,28,GER,no
+20160711,2016-0414,Hamburg,Clay,104022,Mikhail Youzhny,63,RUS,R32,105952,Renzo Olivo,153,ARG,no
+20160718,2016-0314,Gstaad,Clay,104022,Mikhail Youzhny,66,RUS,QF,104460,Dustin Brown,99,GER,no
+20160725,2016-0421,Canada Masters,Hard,104022,Mikhail Youzhny,61,RUS,R32,104527,Stanislas Wawrinka,5,SUI,no
+20160815,2016-M024,Cincinnati Masters,Hard,104022,Mikhail Youzhny,68,RUS,R32,105453,Kei Nishikori,7,JPN,no
+20160822,2016-6242,Winston-Salem,Hard,104022,Mikhail Youzhny,63,RUS,R32,105723,Andrey Kuznetsov,42,RUS,no
+20160829,2016-560,Us Open,Hard,104022,Mikhail Youzhny,61,RUS,R32,104925,Novak Djokovic,1,SRB,no
+20160919,2016-0568,St.Petersburg,Hard,104022,Mikhail Youzhny,53,RUS,QF,100644,Alexander Zverev,27,GER,no
+20161010,2016-5014,Shanghai Masters,Hard,104022,Mikhail Youzhny,51,RUS,R64,104597,Nicolas Almagro,45,ESP,no
+20161017,2016-7485,Antwerp,Hard,104022,Mikhail Youzhny,49,RUS,R32,105526,Jan Lennard Struff,98,GER,no
+20161024,2016-0328,Basel,Hard,104022,Mikhail Youzhny,51,RUS,R32,105227,Marin Cilic,12,CRO,no
+20160118,2016-580,Australian Open,Hard,105683,Milos Raonic,14,CAN,SF,104918,Andy Murray,2,GBR,no
+20160307,2016-M006,Indian Wells Masters,Hard,105683,Milos Raonic,14,CAN,F,104925,Novak Djokovic,1,SRB,no
+20160321,2016-M007,Miami Masters,Hard,105683,Milos Raonic,12,CAN,QF,106401,Nick Kyrgios,26,AUS,no
+20160411,2016-0410,Monte Carlo Masters,Clay,105683,Milos Raonic,12,CAN,QF,104918,Andy Murray,2,GBR,no
+20160502,2016-M021,Madrid Masters,Clay,105683,Milos Raonic,10,CAN,QF,104925,Novak Djokovic,1,SRB,no
+20160509,2016-M009,Rome Masters,Clay,105683,Milos Raonic,10,CAN,R32,106401,Nick Kyrgios,20,AUS,no
+20160523,2016-520,Roland Garros,Clay,105683,Milos Raonic,9,CAN,R16,105077,Albert Ramos,55,ESP,no
+20160613,2016-0311,London,Grass,105683,Milos Raonic,9,CAN,F,104918,Andy Murray,2,GBR,no
+20160627,2016-540,Wimbledon,Grass,105683,Milos Raonic,7,CAN,F,104918,Andy Murray,2,GBR,no
+20160725,2016-0421,Canada Masters,Hard,105683,Milos Raonic,7,CAN,QF,104792,Gael Monfils,14,FRA,no
+20160815,2016-M024,Cincinnati Masters,Hard,105683,Milos Raonic,6,CAN,SF,104918,Andy Murray,2,GBR,no
+20160829,2016-560,Us Open,Hard,105683,Milos Raonic,6,CAN,R64,105992,Ryan Harrison,120,USA,no
+20160919,2016-0568,St.Petersburg,Hard,105683,Milos Raonic,6,CAN,R16,104022,Mikhail Youzhny,53,RUS,no
+20161003,2016-M015,Beijing,Hard,105683,Milos Raonic,6,CAN,SF,105777,Grigor Dimitrov,20,BUL,no
+20161010,2016-5014,Shanghai Masters,Hard,105683,Milos Raonic,6,CAN,R16,106058,Jack Sock,25,USA,no
+20161024,2016-0328,Basel,Hard,105683,Milos Raonic,4,CAN,R32,105575,Ricardas Berankis,91,LTU,no
+20161031,2016-0352,Paris Masters,Hard,105683,Milos Raonic,5,CAN,SF,104918,Andy Murray,2,GBR,no
+20161114,2016-0605,London,Hard,105683,Milos Raonic,4,CAN,SF,104918,Andy Murray,1,GBR,no
+20161114,2016-0605,London,Hard,105683,Milos Raonic,4,CAN,RR,104925,Novak Djokovic,2,SRB,no
+20160118,2016-580,Australian Open,Hard,106401,Nick Kyrgios,30,AUS,R32,104607,Tomas Berdych,6,CZE,no
+20160222,2016-0495,Dubai,Hard,106401,Nick Kyrgios,33,AUS,SF,104527,Stanislas Wawrinka,4,SUI,no
+20160307,2016-M006,Indian Wells Masters,Hard,106401,Nick Kyrgios,27,AUS,R64,105077,Albert Ramos,49,ESP,no
+20160321,2016-M007,Miami Masters,Hard,106401,Nick Kyrgios,26,AUS,SF,105453,Kei Nishikori,6,JPN,no
+20160425,2016-7290,Estoril,Clay,106401,Nick Kyrgios,20,AUS,SF,104597,Nicolas Almagro,71,ESP,no
+20160502,2016-M021,Madrid Masters,Clay,106401,Nick Kyrgios,21,AUS,QF,105453,Kei Nishikori,6,JPN,no
+20160509,2016-M009,Rome Masters,Clay,106401,Nick Kyrgios,20,AUS,R16,104745,Rafael Nadal,5,ESP,no
+20160523,2016-520,Roland Garros,Clay,106401,Nick Kyrgios,19,AUS,R32,104755,Richard Gasquet,12,FRA,no
+20160613,2016-0311,London,Grass,106401,Nick Kyrgios,19,AUS,R32,105683,Milos Raonic,9,CAN,no
+20160627,2016-540,Wimbledon,Grass,106401,Nick Kyrgios,18,AUS,R16,104918,Andy Murray,2,GBR,no
+20160725,2016-0421,Canada Masters,Hard,106401,Nick Kyrgios,19,AUS,R64,133430,Denis Shapovalov,370,CAN,no
+20160815,2016-M024,Cincinnati Masters,Hard,106401,Nick Kyrgios,16,AUS,R32,106432,Borna Coric,49,CRO,no
+20160829,2016-560,Us Open,Hard,106401,Nick Kyrgios,16,AUS,R32,105011,Illya Marchenko,63,UKR,no
+20160926,2016-7581,Chengdu,Hard,106401,Nick Kyrgios,15,AUS,R16,104731,Kevin Anderson,45,RSA,no
+20161010,2016-5014,Shanghai Masters,Hard,106401,Nick Kyrgios,14,AUS,R32,104999,Mischa Zverev,110,GER,no
+20160104,2016-0891,Chennai,Hard,104597,Nicolas Almagro,73,ESP,R32,105302,Ante Pavic,449,CRO,no
+20160118,2016-580,Australian Open,Hard,104597,Nicolas Almagro,73,ESP,R64,106233,Dominic Thiem,20,AUT,no
+20160208,2016-0506,Buenos Aires,Clay,104597,Nicolas Almagro,72,ESP,F,106233,Dominic Thiem,19,AUT,no
+20160215,2016-M052,Rio de Janeiro,Clay,104597,Nicolas Almagro,53,ESP,R16,104745,Rafael Nadal,5,ESP,no
+20160222,2016-0533,Sao Paulo,Clay,104597,Nicolas Almagro,50,ESP,R32,106329,Thiago Monteiro,278,BRA,no
+20160307,2016-M006,Indian Wells Masters,Hard,104597,Nicolas Almagro,61,ESP,R128,105438,Inigo Cervantes Huegun,59,ESP,no
+20160404,2016-0360,Marrakech,Clay,104597,Nicolas Almagro,62,ESP,R16,104198,Guillermo Garcia Lopez,38,ESP,no
+20160411,2016-0410,Monte Carlo Masters,Clay,104597,Nicolas Almagro,64,ESP,R64,104755,Richard Gasquet,10,FRA,no
+20160418,2016-0425,Barcelona,Clay,104597,Nicolas Almagro,66,ESP,R64,104559,Teymuraz Gabashvili,54,RUS,no
+20160502,2016-M021,Madrid Masters,Clay,104597,Nicolas Almagro,48,ESP,R64,106432,Borna Coric,40,CRO,no
+20160523,2016-520,Roland Garros,Clay,104597,Nicolas Almagro,49,ESP,R32,105676,David Goffin,13,BEL,no
+20160627,2016-540,Wimbledon,Grass,104597,Nicolas Almagro,47,ESP,R64,104797,Denis Istomin,116,UZB,no
+20160711,2016-0414,Hamburg,Clay,104597,Nicolas Almagro,44,ESP,R16,103908,Paul Henri Mathieu,66,FRA,no
+20160718,2016-0439,Umag,Clay,104597,Nicolas Almagro,45,ESP,R32,106000,Damir Dzumhur,81,BIH,no
+20160808,2016-7480,Los Cabos,Hard,104597,Nicolas Almagro,48,ESP,QF,105583,Dusan Lajovic,72,SRB,no
+20160815,2016-M024,Cincinnati Masters,Hard,104597,Nicolas Almagro,47,ESP,R64,111577,Jared Donaldson,122,USA,no
+20160829,2016-560,Us Open,Hard,104597,Nicolas Almagro,48,ESP,R32,104792,Gael Monfils,12,FRA,no
+20160919,2016-0341,Metz,Hard,104597,Nicolas Almagro,48,ESP,R32,105376,Peter Gojowczyk,209,GER,no
+20161010,2016-5014,Shanghai Masters,Hard,104597,Nicolas Almagro,45,ESP,R32,106298,Lucas Pouille,16,FRA,no
+20161017,2016-0429,Stockholm,Hard,104597,Nicolas Almagro,41,ESP,R16,105223,Juan Martin Del Potro,63,ARG,no
+20161024,2016-0337,Vienna,Hard,104597,Nicolas Almagro,43,ESP,R32,106000,Damir Dzumhur,92,BIH,no
+20161031,2016-0352,Paris Masters,Hard,104597,Nicolas Almagro,44,ESP,R64,104180,Gilles Muller,34,LUX,no
+20160104,2016-M020,Brisbane,Hard,103917,Nicolas Mahut,71,FRA,R32,106071,Bernard Tomic,18,AUS,no
+20160111,2016-M001,Sydney,Hard,103917,Nicolas Mahut,71,FRA,QF,104678,Viktor Troicki,22,SRB,no
+20160118,2016-580,Australian Open,Hard,103917,Nicolas Mahut,63,FRA,R64,104792,Gael Monfils,25,FRA,no
+20160201,2016-0375,Montpellier,Hard,103917,Nicolas Mahut,54,FRA,R32,105526,Jan Lennard Struff,108,GER,no
+20160208,2016-0407,Rotterdam,Hard,103917,Nicolas Mahut,54,FRA,SF,105373,Martin Klizan,43,SVK,no
+20160215,2016-0496,Marseille,Hard,103917,Nicolas Mahut,40,FRA,R32,104672,Vincent Millot,196,FRA,no
+20160307,2016-M006,Indian Wells Masters,Hard,103917,Nicolas Mahut,44,FRA,R64,104755,Richard Gasquet,10,FRA,no
+20160321,2016-M007,Miami Masters,Hard,103917,Nicolas Mahut,42,FRA,R128,105147,Tatsuma Ito,120,JPN,no
+20160411,2016-0410,Monte Carlo Masters,Clay,103917,Nicolas Mahut,48,FRA,R64,106298,Lucas Pouille,82,FRA,no
+20160502,2016-M021,Madrid Masters,Clay,103917,Nicolas Mahut,49,FRA,R64,105311,Joao Sousa,35,POR,no
+20160509,2016-M009,Rome Masters,Clay,103917,Nicolas Mahut,48,FRA,R32,105064,Thomaz Bellucci,37,BRA,no
+20160523,2016-520,Roland Garros,Clay,103917,Nicolas Mahut,44,FRA,R64,104719,Marcel Granollers,56,ESP,no
+20160613,2016-0311,London,Grass,103917,Nicolas Mahut,51,FRA,R32,104918,Andy Murray,2,GBR,no
+20160627,2016-540,Wimbledon,Grass,103917,Nicolas Mahut,51,FRA,R16,105023,Sam Querrey,41,USA,no
+20160815,2016-M024,Cincinnati Masters,Hard,103917,Nicolas Mahut,42,FRA,R32,105216,Yuichi Sugita,102,JPN,no
+20160829,2016-560,Us Open,Hard,103917,Nicolas Mahut,42,FRA,R32,105453,Kei Nishikori,7,JPN,no
+20160919,2016-0341,Metz,Hard,103917,Nicolas Mahut,40,FRA,QF,105676,David Goffin,14,BEL,no
+20161017,2016-7485,Antwerp,Hard,103917,Nicolas Mahut,40,FRA,R32,106043,Diego Sebastian Schwartzman,77,ARG,no
+20161024,2016-0328,Basel,Hard,103917,Nicolas Mahut,41,FRA,R32,103893,Paolo Lorenzi,38,ITA,no
+20161031,2016-0352,Paris Masters,Hard,103917,Nicolas Mahut,41,FRA,R32,105676,David Goffin,12,BEL,no
+20160222,2016-0495,Dubai,Hard,104925,Novak Djokovic,1,SRB,QF,103852,Feliciano Lopez,24,ESP,no
+20160411,2016-0410,Monte Carlo Masters,Clay,104925,Novak Djokovic,1,SRB,R32,106210,Jiri Vesely,55,CZE,no
+20160509,2016-M009,Rome Masters,Clay,104925,Novak Djokovic,1,SRB,F,104918,Andy Murray,3,GBR,no
+20160627,2016-540,Wimbledon,Grass,104925,Novak Djokovic,1,SRB,R32,105023,Sam Querrey,41,USA,no
+20160808,2016-O16,Olympics,Hard,104925,Novak Djokovic,1,SRB,R64,105223,Juan Martin Del Potro,141,ARG,no
+20160829,2016-560,Us Open,Hard,104925,Novak Djokovic,1,SRB,F,104527,Stanislas Wawrinka,3,SUI,no
+20161010,2016-5014,Shanghai Masters,Hard,104925,Novak Djokovic,1,SRB,SF,105138,Roberto Bautista Agut,19,ESP,no
+20161031,2016-0352,Paris Masters,Hard,104925,Novak Djokovic,1,SRB,QF,105227,Marin Cilic,10,CRO,no
+20161114,2016-0605,London,Hard,104925,Novak Djokovic,2,SRB,F,104918,Andy Murray,1,GBR,no
+20160104,2016-0451,Doha,Hard,105807,Pablo Carreno Busta,67,ESP,R32,104745,Rafael Nadal,5,ESP,no
+20160118,2016-580,Australian Open,Hard,105807,Pablo Carreno Busta,68,ESP,R128,106401,Nick Kyrgios,30,AUS,no
+20160201,2016-7161,Quito,Clay,105807,Pablo Carreno Busta,67,ESP,QF,105064,Thomaz Bellucci,35,BRA,no
+20160208,2016-0506,Buenos Aires,Clay,105807,Pablo Carreno Busta,64,ESP,R32,106233,Dominic Thiem,19,AUT,no
+20160215,2016-M052,Rio de Janeiro,Clay,105807,Pablo Carreno Busta,66,ESP,R32,104745,Rafael Nadal,5,ESP,no
+20160222,2016-0533,Sao Paulo,Clay,105807,Pablo Carreno Busta,67,ESP,F,104655,Pablo Cuevas,27,URU,no
+20160307,2016-M006,Indian Wells Masters,Hard,105807,Pablo Carreno Busta,52,ESP,R64,104792,Gael Monfils,16,FRA,no
+20160321,2016-M007,Miami Masters,Hard,105807,Pablo Carreno Busta,53,ESP,R128,105357,John Millman,69,AUS,no
+20160404,2016-0360,Marrakech,Clay,105807,Pablo Carreno Busta,52,ESP,QF,105643,Federico Delbonis,47,ARG,no
+20160411,2016-0410,Monte Carlo Masters,Clay,105807,Pablo Carreno Busta,51,ESP,R32,104542,Jo Wilfried Tsonga,9,FRA,no
+20160418,2016-0425,Barcelona,Clay,105807,Pablo Carreno Busta,49,ESP,R32,104259,Philipp Kohlschreiber,27,GER,no
+20160425,2016-7290,Estoril,Clay,105807,Pablo Carreno Busta,50,ESP,F,104597,Nicolas Almagro,71,ESP,no
+20160502,2016-M021,Madrid Masters,Clay,105807,Pablo Carreno Busta,46,ESP,R32,104468,Gilles Simon,18,FRA,no
+20160516,2016-0322,Geneva,Clay,105807,Pablo Carreno Busta,43,ESP,QF,104527,Stanislas Wawrinka,4,SUI,no
+20160523,2016-520,Roland Garros,Clay,105807,Pablo Carreno Busta,43,ESP,R64,105379,Aljaz Bedene,66,GBR,no
+20160620,2016-0741,Nottingham,Grass,105807,Pablo Carreno Busta,45,ESP,R32,104022,Mikhail Youzhny,73,RUS,no
+20160627,2016-540,Wimbledon,Grass,105807,Pablo Carreno Busta,46,ESP,R128,105683,Milos Raonic,7,CAN,no
+20160718,2016-0439,Umag,Clay,105807,Pablo Carreno Busta,56,ESP,QF,105671,Gastao Elias,72,POR,no
+20160808,2016-7480,Los Cabos,Hard,105807,Pablo Carreno Busta,55,ESP,SF,103852,Feliciano Lopez,18,ESP,no
+20160815,2016-M024,Cincinnati Masters,Hard,105807,Pablo Carreno Busta,48,ESP,R64,104792,Gael Monfils,11,FRA,no
+20160829,2016-560,Us Open,Hard,105807,Pablo Carreno Busta,39,ESP,R32,106233,Dominic Thiem,10,AUT,no
+20160926,2016-7581,Chengdu,Hard,105807,Pablo Carreno Busta,39,ESP,R32,104571,Marcos Baghdatis,36,CYP,no
+20161003,2016-M015,Beijing,Hard,105807,Pablo Carreno Busta,38,ESP,QF,105683,Milos Raonic,6,CAN,no
+20161010,2016-5014,Shanghai Masters,Hard,105807,Pablo Carreno Busta,35,ESP,R64,104468,Gilles Simon,32,FRA,no
+20161024,2016-0328,Basel,Hard,105807,Pablo Carreno Busta,32,ESP,R16,105227,Marin Cilic,12,CRO,no
+20161031,2016-0352,Paris Masters,Hard,105807,Pablo Carreno Busta,31,ESP,R32,105683,Milos Raonic,5,CAN,no
+20160111,2016-M001,Sydney,Hard,104655,Pablo Cuevas,41,URU,R16,105777,Grigor Dimitrov,28,BUL,no
+20160118,2016-580,Australian Open,Hard,104655,Pablo Cuevas,41,URU,R64,106401,Nick Kyrgios,30,AUS,no
+20160208,2016-0506,Buenos Aires,Clay,104655,Pablo Cuevas,35,URU,QF,103970,David Ferrer,6,ESP,no
+20160307,2016-M006,Indian Wells Masters,Hard,104655,Pablo Cuevas,25,URU,R64,105550,Guido Pella,40,ARG,no
+20160321,2016-M007,Miami Masters,Hard,104655,Pablo Cuevas,25,URU,R32,104792,Gael Monfils,16,FRA,no
+20160411,2016-0410,Monte Carlo Masters,Clay,104655,Pablo Cuevas,25,URU,R32,105683,Milos Raonic,12,CAN,no
+20160418,2016-0425,Barcelona,Clay,104655,Pablo Cuevas,25,URU,R16,105332,Benoit Paire,22,FRA,no
+20160502,2016-M021,Madrid Masters,Clay,104655,Pablo Cuevas,27,URU,R16,106401,Nick Kyrgios,21,AUS,no
+20160509,2016-M009,Rome Masters,Clay,104655,Pablo Cuevas,25,URU,R64,103917,Nicolas Mahut,48,FRA,no
+20160523,2016-520,Roland Garros,Clay,104655,Pablo Cuevas,27,URU,R32,104607,Tomas Berdych,8,CZE,no
+20160620,2016-0741,Nottingham,Grass,104655,Pablo Cuevas,25,URU,F,105449,Steve Johnson,38,USA,no
+20160627,2016-540,Wimbledon,Grass,104655,Pablo Cuevas,24,URU,R128,105723,Andrey Kuznetsov,42,RUS,no
+20160711,2016-0414,Hamburg,Clay,104655,Pablo Cuevas,24,URU,F,105373,Martin Klizan,47,SVK,no
+20160718,2016-0439,Umag,Clay,104655,Pablo Cuevas,20,URU,R16,105671,Gastao Elias,72,POR,no
+20160808,2016-O16,Olympics,Hard,104655,Pablo Cuevas,21,URU,R32,105064,Thomaz Bellucci,54,BRA,no
+20160815,2016-M024,Cincinnati Masters,Hard,104655,Pablo Cuevas,19,URU,R32,104745,Rafael Nadal,5,ESP,no
+20160822,2016-6242,Winston-Salem,Hard,104655,Pablo Cuevas,20,URU,R16,105807,Pablo Carreno Busta,49,ESP,no
+20160829,2016-560,Us Open,Hard,104655,Pablo Cuevas,20,URU,R64,104597,Nicolas Almagro,48,ESP,no
+20161003,2016-M015,Beijing,Hard,104655,Pablo Cuevas,19,URU,R32,103970,David Ferrer,13,ESP,no
+20161010,2016-5014,Shanghai Masters,Hard,104655,Pablo Cuevas,22,URU,R64,105842,Di Wu,182,CHN,no
+20161017,2016-7485,Antwerp,Hard,104655,Pablo Cuevas,22,URU,QF,106043,Diego Sebastian Schwartzman,77,ARG,no
+20161024,2016-0337,Vienna,Hard,104655,Pablo Cuevas,21,URU,R32,105311,Joao Sousa,34,POR,no
+20161031,2016-0352,Paris Masters,Hard,104655,Pablo Cuevas,22,URU,R16,105683,Milos Raonic,5,CAN,no
+20160104,2016-0451,Doha,Hard,103893,Paolo Lorenzi,68,ITA,R32,104665,Pablo Andujar,64,ESP,no
+20160118,2016-580,Australian Open,Hard,103893,Paolo Lorenzi,57,ITA,R128,105777,Grigor Dimitrov,28,BUL,no
+20160201,2016-7161,Quito,Clay,103893,Paolo Lorenzi,59,ITA,SF,105064,Thomaz Bellucci,35,BRA,no
+20160208,2016-0506,Buenos Aires,Clay,103893,Paolo Lorenzi,52,ITA,QF,104745,Rafael Nadal,5,ESP,no
+20160215,2016-M052,Rio de Janeiro,Clay,103893,Paolo Lorenzi,50,ITA,R16,105643,Federico Delbonis,46,ARG,no
+20160222,2016-0533,Sao Paulo,Clay,103893,Paolo Lorenzi,52,ITA,R32,105641,Blaz Rola,160,SLO,no
+20160404,2016-0717,Houston,Clay,103893,Paolo Lorenzi,53,ITA,R32,126205,Tommy Paul,200,USA,no
+20160411,2016-0410,Monte Carlo Masters,Clay,103893,Paolo Lorenzi,53,ITA,R32,104792,Gael Monfils,16,FRA,no
+20160418,2016-0773,Bucharest,Clay,103893,Paolo Lorenzi,52,ITA,QF,106298,Lucas Pouille,72,FRA,no
+20160425,2016-7290,Estoril,Clay,103893,Paolo Lorenzi,52,ITA,R16,104919,Leonardo Mayer,46,ARG,no
+20160509,2016-M009,Rome Masters,Clay,103893,Paolo Lorenzi,53,ITA,R64,105138,Roberto Bautista Agut,17,ESP,no
+20160523,2016-520,Roland Garros,Clay,103893,Paolo Lorenzi,54,ITA,R128,104122,Carlos Berlocq,126,ARG,no
+20160613,2016-0500,Halle,Grass,103893,Paolo Lorenzi,48,ITA,R32,104559,Teymuraz Gabashvili,95,RUS,no
+20160620,2016-0741,Nottingham,Grass,103893,Paolo Lorenzi,48,ITA,R32,105173,Adrian Mannarino,54,FRA,no
+20160627,2016-540,Wimbledon,Grass,103893,Paolo Lorenzi,49,ITA,R128,105041,Lukas Lacko,123,SVK,no
+20160808,2016-O16,Olympics,Hard,103893,Paolo Lorenzi,41,ITA,R32,105138,Roberto Bautista Agut,17,ESP,no
+20160822,2016-6242,Winston-Salem,Hard,103893,Paolo Lorenzi,39,ITA,R32,106216,Bjorn Fratangelo,116,USA,no
+20160829,2016-560,Us Open,Hard,103893,Paolo Lorenzi,40,ITA,R32,104918,Andy Murray,2,GBR,no
+20160926,2016-7581,Chengdu,Hard,103893,Paolo Lorenzi,35,ITA,R16,106043,Diego Sebastian Schwartzman,70,ARG,no
+20160919,2016-0568,St.Petersburg,Hard,103893,Paolo Lorenzi,35,ITA,QF,104607,Tomas Berdych,9,CZE,no
+20161003,2016-M015,Beijing,Hard,103893,Paolo Lorenzi,39,ITA,R32,104745,Rafael Nadal,4,ESP,no
+20161010,2016-5014,Shanghai Masters,Hard,103893,Paolo Lorenzi,37,ITA,R32,105683,Milos Raonic,6,CAN,no
+20161017,2016-M014,Moscow,Hard,103893,Paolo Lorenzi,38,ITA,R16,104926,Fabio Fognini,50,ITA,no
+20161024,2016-0328,Basel,Hard,103893,Paolo Lorenzi,38,ITA,R16,105453,Kei Nishikori,5,JPN,no
+20161031,2016-0352,Paris Masters,Hard,103893,Paolo Lorenzi,39,ITA,R32,104655,Pablo Cuevas,22,URU,no
+20160111,2016-0301,Auckland,Hard,104259,Philipp Kohlschreiber,34,GER,R16,104542,Jo Wilfried Tsonga,10,FRA,no
+20160118,2016-580,Australian Open,Hard,104259,Philipp Kohlschreiber,34,GER,R128,105453,Kei Nishikori,7,JPN,no
+20160201,2016-7434,Sofia,Hard,104259,Philipp Kohlschreiber,34,GER,QF,104678,Viktor Troicki,25,SRB,no
+20160208,2016-0407,Rotterdam,Hard,104259,Philipp Kohlschreiber,32,GER,SF,104792,Gael Monfils,18,FRA,no
+20160222,2016-0495,Dubai,Hard,104259,Philipp Kohlschreiber,28,GER,QF,104527,Stanislas Wawrinka,4,SUI,no
+20160307,2016-M006,Indian Wells Masters,Hard,104259,Philipp Kohlschreiber,30,GER,R32,104925,Novak Djokovic,1,SRB,no
+20160411,2016-0410,Monte Carlo Masters,Clay,104259,Philipp Kohlschreiber,28,GER,R32,104527,Stanislas Wawrinka,4,SUI,no
+20160418,2016-0425,Barcelona,Clay,104259,Philipp Kohlschreiber,27,GER,SF,104745,Rafael Nadal,5,ESP,no
+20160502,2016-M021,Madrid Masters,Clay,104259,Philipp Kohlschreiber,25,GER,R64,104655,Pablo Cuevas,27,URU,no
+20160509,2016-M009,Rome Masters,Clay,104259,Philipp Kohlschreiber,26,GER,R32,104745,Rafael Nadal,5,ESP,no
+20160523,2016-520,Roland Garros,Clay,104259,Philipp Kohlschreiber,26,GER,R128,104597,Nicolas Almagro,49,ESP,no
+20160606,2016-0321,Stuttgart,Grass,104259,Philipp Kohlschreiber,26,GER,F,106233,Dominic Thiem,7,AUT,no
+20160613,2016-0500,Halle,Grass,104259,Philipp Kohlschreiber,25,GER,QF,106233,Dominic Thiem,7,AUT,no
+20160627,2016-540,Wimbledon,Grass,104259,Philipp Kohlschreiber,22,GER,R128,105732,Pierre Hugues Herbert,81,FRA,no
+20160711,2016-0414,Hamburg,Clay,104259,Philipp Kohlschreiber,22,GER,QF,105952,Renzo Olivo,153,ARG,no
+20160718,2016-0319,Kitzbuhel,Clay,104259,Philipp Kohlschreiber,23,GER,R16,111575,Karen Khachanov,104,RUS,no
+20160808,2016-O16,Olympics,Hard,104259,Philipp Kohlschreiber,28,GER,R32,105413,Andrej Martin,121,SVK,no
+20160829,2016-560,Us Open,Hard,104259,Philipp Kohlschreiber,26,GER,R128,103917,Nicolas Mahut,42,FRA,no
+20161003,2016-0329,Tokyo,Hard,104259,Philipp Kohlschreiber,31,GER,R32,104468,Gilles Simon,30,FRA,no
+20161010,2016-5014,Shanghai Masters,Hard,104259,Philipp Kohlschreiber,30,GER,R64,104386,Janko Tipsarevic,158,SRB,no
+20161017,2016-M014,Moscow,Hard,104259,Philipp Kohlschreiber,32,GER,SF,104926,Fabio Fognini,50,ITA,no
+20161024,2016-0337,Vienna,Hard,104259,Philipp Kohlschreiber,33,GER,R16,104542,Jo Wilfried Tsonga,15,FRA,no
+20161031,2016-0352,Paris Masters,Hard,104259,Philipp Kohlschreiber,32,GER,R64,106058,Jack Sock,24,USA,no
+20160104,2016-0451,Doha,Hard,104745,Rafael Nadal,5,ESP,F,104925,Novak Djokovic,1,SRB,no
+20160118,2016-580,Australian Open,Hard,104745,Rafael Nadal,5,ESP,R128,104269,Fernando Verdasco,45,ESP,no
+20160208,2016-0506,Buenos Aires,Clay,104745,Rafael Nadal,5,ESP,SF,106233,Dominic Thiem,19,AUT,no
+20160215,2016-M052,Rio de Janeiro,Clay,104745,Rafael Nadal,5,ESP,SF,104655,Pablo Cuevas,45,URU,no
+20160307,2016-M006,Indian Wells Masters,Hard,104745,Rafael Nadal,5,ESP,SF,104925,Novak Djokovic,1,SRB,no
+20160321,2016-M007,Miami Masters,Hard,104745,Rafael Nadal,5,ESP,R64,106000,Damir Dzumhur,94,BIH,no
+20160502,2016-M021,Madrid Masters,Clay,104745,Rafael Nadal,5,ESP,SF,104918,Andy Murray,2,GBR,no
+20160509,2016-M009,Rome Masters,Clay,104745,Rafael Nadal,5,ESP,QF,104925,Novak Djokovic,1,SRB,no
+20160523,2016-520,Roland Garros,Clay,104745,Rafael Nadal,5,ESP,R32,104719,Marcel Granollers,56,ESP,no
+20160808,2016-O16,Olympics,Hard,104745,Rafael Nadal,5,ESP,SF,105223,Juan Martin Del Potro,141,ARG,no
+20160808,2016-O16,Olympics,Hard,104745,Rafael Nadal,5,ESP,BR,105453,Kei Nishikori,7,JPN,no
+20160815,2016-M024,Cincinnati Masters,Hard,104745,Rafael Nadal,5,ESP,R16,106432,Borna Coric,49,CRO,no
+20160829,2016-560,Us Open,Hard,104745,Rafael Nadal,5,ESP,R16,106298,Lucas Pouille,25,FRA,no
+20161003,2016-M015,Beijing,Hard,104745,Rafael Nadal,4,ESP,QF,105777,Grigor Dimitrov,20,BUL,no
+20161010,2016-5014,Shanghai Masters,Hard,104745,Rafael Nadal,5,ESP,R32,104678,Viktor Troicki,31,SRB,no
+20160215,2016-0496,Marseille,Hard,104755,Richard Gasquet,10,FRA,QF,106401,Nick Kyrgios,41,AUS,no
+20160307,2016-M006,Indian Wells Masters,Hard,104755,Richard Gasquet,10,FRA,R16,105227,Marin Cilic,12,CRO,no
+20160321,2016-M007,Miami Masters,Hard,104755,Richard Gasquet,10,FRA,R16,104607,Tomas Berdych,7,CZE,no
+20160411,2016-0410,Monte Carlo Masters,Clay,104755,Richard Gasquet,10,FRA,R32,106298,Lucas Pouille,82,FRA,no
+20160502,2016-M021,Madrid Masters,Clay,104755,Richard Gasquet,12,FRA,R16,105453,Kei Nishikori,6,JPN,no
+20160509,2016-M009,Rome Masters,Clay,104755,Richard Gasquet,12,FRA,R16,105453,Kei Nishikori,6,JPN,no
+20160523,2016-520,Roland Garros,Clay,104755,Richard Gasquet,12,FRA,QF,104918,Andy Murray,2,GBR,no
+20160613,2016-0311,London,Grass,104755,Richard Gasquet,10,FRA,R32,105449,Steve Johnson,39,USA,no
+20160627,2016-540,Wimbledon,Grass,104755,Richard Gasquet,10,FRA,R16,104542,Jo Wilfried Tsonga,12,FRA,no
+20160815,2016-M024,Cincinnati Masters,Hard,104755,Richard Gasquet,15,FRA,R32,104731,Kevin Anderson,24,RSA,no
+20160822,2016-6242,Winston-Salem,Hard,104755,Richard Gasquet,15,FRA,QF,105357,John Millman,81,AUS,no
+20160829,2016-560,Us Open,Hard,104755,Richard Gasquet,15,FRA,R128,106378,Kyle Edmund,84,GBR,no
+20160926,2016-6967,Shenzhen,Hard,104755,Richard Gasquet,18,FRA,F,104607,Tomas Berdych,9,CZE,no
+20161003,2016-M015,Beijing,Hard,104755,Richard Gasquet,17,FRA,R16,105807,Pablo Carreno Busta,38,ESP,no
+20161010,2016-5014,Shanghai Masters,Hard,104755,Richard Gasquet,17,FRA,R64,105777,Grigor Dimitrov,18,BUL,no
+20161024,2016-0328,Basel,Hard,104755,Richard Gasquet,16,FRA,R32,105550,Guido Pella,59,ARG,no
+20161031,2016-0352,Paris Masters,Hard,104755,Richard Gasquet,19,FRA,R16,106058,Jack Sock,24,USA,no
+20160916,2016-M-DC-2016-WG-M-FRA-CRO-01,Davis Cup WG SF: FRA vs CRO,Hard,104755,Richard Gasquet,17,FRA,RR,105227,Marin Cilic,11,CRO,no
+20160104,2016-0891,Chennai,Hard,105138,Roberto Bautista Agut,25,ESP,QF,106432,Borna Coric,44,CRO,no
+20160118,2016-580,Australian Open,Hard,105138,Roberto Bautista Agut,21,ESP,R16,104607,Tomas Berdych,6,CZE,no
+20160208,2016-0407,Rotterdam,Hard,105138,Roberto Bautista Agut,17,ESP,QF,105373,Martin Klizan,43,SVK,no
+20160222,2016-0495,Dubai,Hard,105138,Roberto Bautista Agut,18,ESP,QF,104571,Marcos Baghdatis,57,CYP,no
+20160307,2016-M006,Indian Wells Masters,Hard,105138,Roberto Bautista Agut,17,ESP,R32,103852,Feliciano Lopez,21,ESP,no
+20160321,2016-M007,Miami Masters,Hard,105138,Roberto Bautista Agut,18,ESP,R16,105453,Kei Nishikori,6,JPN,no
+20160411,2016-0410,Monte Carlo Masters,Clay,105138,Roberto Bautista Agut,17,ESP,R16,103819,Roger Federer,3,SUI,no
+20160418,2016-0425,Barcelona,Clay,105138,Roberto Bautista Agut,17,ESP,R32,111575,Karen Khachanov,138,RUS,no
+20160502,2016-M021,Madrid Masters,Clay,105138,Roberto Bautista Agut,17,ESP,R16,104925,Novak Djokovic,1,SRB,no
+20160509,2016-M009,Rome Masters,Clay,105138,Roberto Bautista Agut,17,ESP,R32,104871,Jeremy Chardy,32,FRA,no
+20160523,2016-520,Roland Garros,Clay,105138,Roberto Bautista Agut,16,ESP,R16,104925,Novak Djokovic,1,SRB,no
+20160613,2016-0311,London,Grass,105138,Roberto Bautista Agut,16,ESP,QF,105683,Milos Raonic,9,CAN,no
+20160627,2016-540,Wimbledon,Grass,105138,Roberto Bautista Agut,15,ESP,R32,106071,Bernard Tomic,19,AUS,no
+20160808,2016-O16,Olympics,Hard,105138,Roberto Bautista Agut,17,ESP,QF,105223,Juan Martin Del Potro,141,ARG,no
+20160815,2016-M024,Cincinnati Masters,Hard,105138,Roberto Bautista Agut,17,ESP,R64,103917,Nicolas Mahut,42,FRA,no
+20160822,2016-6242,Winston-Salem,Hard,105138,Roberto Bautista Agut,17,ESP,F,105807,Pablo Carreno Busta,49,ESP,no
+20160829,2016-560,Us Open,Hard,105138,Roberto Bautista Agut,17,ESP,R32,106298,Lucas Pouille,25,FRA,no
+20160919,2016-0568,St.Petersburg,Hard,105138,Roberto Bautista Agut,16,ESP,SF,104527,Stanislas Wawrinka,3,SUI,no
+20161003,2016-M015,Beijing,Hard,105138,Roberto Bautista Agut,18,ESP,R16,106378,Kyle Edmund,54,GBR,no
+20161010,2016-5014,Shanghai Masters,Hard,105138,Roberto Bautista Agut,19,ESP,F,104918,Andy Murray,2,GBR,no
+20161017,2016-M014,Moscow,Hard,105138,Roberto Bautista Agut,13,ESP,R16,122330,Alexander Bublik,266,RUS,no
+20161024,2016-0337,Vienna,Hard,105138,Roberto Bautista Agut,14,ESP,R32,103781,Jurgen Melzer,417,AUT,no
+20161031,2016-0352,Paris Masters,Hard,105138,Roberto Bautista Agut,15,ESP,R32,104468,Gilles Simon,23,FRA,no
+20160104,2016-M020,Brisbane,Hard,103819,Roger Federer,3,SUI,F,105683,Milos Raonic,14,CAN,no
+20160118,2016-580,Australian Open,Hard,103819,Roger Federer,3,SUI,SF,104925,Novak Djokovic,1,SRB,no
+20160411,2016-0410,Monte Carlo Masters,Clay,103819,Roger Federer,3,SUI,QF,104542,Jo Wilfried Tsonga,9,FRA,no
+20160509,2016-M009,Rome Masters,Clay,103819,Roger Federer,2,SUI,R16,106233,Dominic Thiem,15,AUT,no
+20160606,2016-0321,Stuttgart,Grass,103819,Roger Federer,3,SUI,SF,106233,Dominic Thiem,7,AUT,no
+20160613,2016-0500,Halle,Grass,103819,Roger Federer,3,SUI,SF,100644,Alexander Zverev,38,GER,no
+20160627,2016-540,Wimbledon,Grass,103819,Roger Federer,3,SUI,SF,105683,Milos Raonic,7,CAN,no
+20160111,2016-0301,Auckland,Hard,105023,Sam Querrey,60,USA,R16,104545,John Isner,11,USA,no
+20160118,2016-580,Australian Open,Hard,105023,Sam Querrey,58,USA,R128,105583,Dusan Lajovic,77,SRB,no
+20160208,2016-0402,Memphis,Hard,105023,Sam Querrey,58,USA,SF,105453,Kei Nishikori,7,JPN,no
+20160222,2016-M004,Acapulco,Hard,105023,Sam Querrey,43,USA,SF,106233,Dominic Thiem,15,AUT,no
+20160307,2016-M006,Indian Wells Masters,Hard,105023,Sam Querrey,36,USA,R32,104542,Jo Wilfried Tsonga,9,FRA,no
+20160321,2016-M007,Miami Masters,Hard,105023,Sam Querrey,34,USA,R64,105173,Adrian Mannarino,64,FRA,no
+20160404,2016-0717,Houston,Clay,105023,Sam Querrey,35,USA,QF,104338,Juan Monaco,148,ARG,no
+20160502,2016-M021,Madrid Masters,Clay,105023,Sam Querrey,37,USA,R16,104745,Rafael Nadal,5,ESP,no
+20160509,2016-M009,Rome Masters,Clay,105023,Sam Querrey,36,USA,R64,105077,Albert Ramos,57,ESP,no
+20160516,2016-0322,Geneva,Clay,105023,Sam Querrey,37,USA,R32,104198,Guillermo Garcia Lopez,55,ESP,no
+20160523,2016-520,Roland Garros,Clay,105023,Sam Querrey,37,USA,R128,106216,Bjorn Fratangelo,103,USA,no
+20160606,2016-M010,s-Hertogenbosch,Grass,105023,Sam Querrey,37,USA,SF,103917,Nicolas Mahut,49,FRA,no
+20160613,2016-0311,London,Grass,105023,Sam Querrey,32,USA,R32,105138,Roberto Bautista Agut,16,ESP,no
+20160620,2016-0741,Nottingham,Grass,105023,Sam Querrey,33,USA,R16,104571,Marcos Baghdatis,40,CYP,no
+20160627,2016-540,Wimbledon,Grass,105023,Sam Querrey,41,USA,QF,105683,Milos Raonic,7,CAN,no
+20160718,2016-M035,Washington,Hard,105023,Sam Querrey,29,USA,QF,104792,Gael Monfils,17,FRA,no
+20160725,2016-0421,Canada Masters,Hard,105023,Sam Querrey,29,USA,R32,105676,David Goffin,11,BEL,no
+20160808,2016-7480,Los Cabos,Hard,105023,Sam Querrey,29,USA,R16,105053,Santiago Giraldo,137,COL,no
+20160815,2016-M024,Cincinnati Masters,Hard,105023,Sam Querrey,29,USA,R64,104655,Pablo Cuevas,19,URU,no
+20160822,2016-6242,Winston-Salem,Hard,105023,Sam Querrey,31,USA,R16,104678,Viktor Troicki,35,SRB,no
+20160829,2016-560,Us Open,Hard,105023,Sam Querrey,30,USA,R128,104386,Janko Tipsarevic,250,SRB,no
+20161003,2016-M015,Beijing,Hard,105023,Sam Querrey,29,USA,R32,104755,Richard Gasquet,17,FRA,no
+20161010,2016-5014,Shanghai Masters,Hard,105023,Sam Querrey,29,USA,R64,106401,Nick Kyrgios,14,AUS,no
+20160118,2016-580,Australian Open,Hard,104527,Stanislas Wawrinka,4,SUI,R16,105683,Milos Raonic,14,CAN,no
+20160215,2016-0496,Marseille,Hard,104527,Stanislas Wawrinka,4,SUI,QF,105332,Benoit Paire,22,FRA,no
+20160307,2016-M006,Indian Wells Masters,Hard,104527,Stanislas Wawrinka,4,SUI,R16,105676,David Goffin,18,BEL,no
+20160321,2016-M007,Miami Masters,Hard,104527,Stanislas Wawrinka,4,SUI,R64,105723,Andrey Kuznetsov,51,RUS,no
+20160411,2016-0410,Monte Carlo Masters,Clay,104527,Stanislas Wawrinka,4,SUI,QF,104745,Rafael Nadal,5,ESP,no
+20160502,2016-M021,Madrid Masters,Clay,104527,Stanislas Wawrinka,4,SUI,R32,106401,Nick Kyrgios,21,AUS,no
+20160509,2016-M009,Rome Masters,Clay,104527,Stanislas Wawrinka,4,SUI,R16,104338,Juan Monaco,114,ARG,no
+20160523,2016-520,Roland Garros,Clay,104527,Stanislas Wawrinka,4,SUI,SF,104918,Andy Murray,2,GBR,no
+20160613,2016-0311,London,Grass,104527,Stanislas Wawrinka,5,SUI,R32,104269,Fernando Verdasco,53,ESP,no
+20160627,2016-540,Wimbledon,Grass,104527,Stanislas Wawrinka,5,SUI,R64,105223,Juan Martin Del Potro,165,ARG,no
+20160725,2016-0421,Canada Masters,Hard,104527,Stanislas Wawrinka,5,SUI,SF,105453,Kei Nishikori,6,JPN,no
+20160815,2016-M024,Cincinnati Masters,Hard,104527,Stanislas Wawrinka,4,SUI,R16,105777,Grigor Dimitrov,34,BUL,no
+20160919,2016-0568,St.Petersburg,Hard,104527,Stanislas Wawrinka,3,SUI,F,100644,Alexander Zverev,27,GER,no
+20161010,2016-5014,Shanghai Masters,Hard,104527,Stanislas Wawrinka,3,SUI,R16,104468,Gilles Simon,32,FRA,no
+20161024,2016-0328,Basel,Hard,104527,Stanislas Wawrinka,3,SUI,QF,104999,Mischa Zverev,72,GER,no
+20161031,2016-0352,Paris Masters,Hard,104527,Stanislas Wawrinka,3,SUI,R32,105526,Jan Lennard Struff,91,GER,no
+20161114,2016-0605,London,Hard,104527,Stanislas Wawrinka,3,SUI,RR,104918,Andy Murray,1,GBR,no
+20161114,2016-0605,London,Hard,104527,Stanislas Wawrinka,3,SUI,RR,105453,Kei Nishikori,5,JPN,no
+20160104,2016-M020,Brisbane,Hard,105449,Steve Johnson,32,USA,R32,104678,Viktor Troicki,22,SRB,no
+20160111,2016-0301,Auckland,Hard,105449,Steve Johnson,32,USA,R32,105881,Matthew Barton,299,AUS,no
+20160118,2016-580,Australian Open,Hard,105449,Steve Johnson,32,USA,R32,103970,David Ferrer,8,ESP,no
+20160208,2016-0402,Memphis,Hard,105449,Steve Johnson,29,USA,R16,126203,Taylor Harry Fritz,145,USA,no
+20160215,2016-0499,Delray Beach,Hard,105449,Steve Johnson,31,USA,R16,103794,Benjamin Becker,104,GER,no
+20160222,2016-M004,Acapulco,Hard,105449,Steve Johnson,34,USA,R32,105238,Alexandr Dolgopolov,32,UKR,no
+20160307,2016-M006,Indian Wells Masters,Hard,105449,Steve Johnson,35,USA,R32,105453,Kei Nishikori,6,JPN,no
+20160321,2016-M007,Miami Masters,Hard,105449,Steve Johnson,36,USA,R32,104607,Tomas Berdych,7,CZE,no
+20160404,2016-0717,Houston,Clay,105449,Steve Johnson,33,USA,R32,105385,Donald Young,85,USA,no
+20160502,2016-M021,Madrid Masters,Clay,105449,Steve Johnson,32,USA,R64,105238,Alexandr Dolgopolov,29,UKR,no
+20160509,2016-M009,Rome Masters,Clay,105449,Steve Johnson,34,USA,R64,104338,Juan Monaco,114,ARG,no
+20160516,2016-0322,Geneva,Clay,105449,Steve Johnson,35,USA,R16,105723,Andrey Kuznetsov,40,RUS,no
+20160523,2016-520,Roland Garros,Clay,105449,Steve Johnson,34,USA,R128,104269,Fernando Verdasco,52,ESP,no
+20160606,2016-M010,s-Hertogenbosch,Grass,105449,Steve Johnson,39,USA,R16,111578,Stefan Kozlov,196,USA,no
+20160613,2016-0311,London,Grass,105449,Steve Johnson,39,USA,QF,105227,Marin Cilic,13,CRO,no
+20160627,2016-540,Wimbledon,Grass,105449,Steve Johnson,29,USA,R16,103819,Roger Federer,3,SUI,no
+20160711,2016-0315,Newport,Grass,105449,Steve Johnson,25,USA,QF,105385,Donald Young,61,USA,no
+20160718,2016-M035,Washington,Hard,105449,Steve Johnson,25,USA,SF,103333,Ivo Karlovic,35,CRO,no
+20160725,2016-0421,Canada Masters,Hard,105449,Steve Johnson,21,USA,R64,104926,Fabio Fognini,33,ITA,no
+20160808,2016-O16,Olympics,Hard,105449,Steve Johnson,22,USA,QF,104918,Andy Murray,2,GBR,no
+20160815,2016-M024,Cincinnati Masters,Hard,105449,Steve Johnson,23,USA,QF,105777,Grigor Dimitrov,34,BUL,no
+20160822,2016-6242,Winston-Salem,Hard,105449,Steve Johnson,21,USA,R16,104269,Fernando Verdasco,47,ESP,no
+20160829,2016-560,Us Open,Hard,105449,Steve Johnson,22,USA,R64,105223,Juan Martin Del Potro,142,ARG,no
+20161003,2016-M015,Beijing,Hard,105449,Steve Johnson,23,USA,R32,105777,Grigor Dimitrov,20,BUL,no
+20161010,2016-5014,Shanghai Masters,Hard,105449,Steve Johnson,24,USA,R32,104918,Andy Murray,2,GBR,no
+20161017,2016-0429,Stockholm,Hard,105449,Steve Johnson,24,USA,R32,105430,Radu Albot,103,MDA,no
+20161024,2016-0337,Vienna,Hard,105449,Steve Johnson,31,USA,R32,103333,Ivo Karlovic,23,CRO,no
+20161031,2016-0352,Paris Masters,Hard,105449,Steve Johnson,33,USA,R32,104755,Richard Gasquet,19,FRA,no
+20160104,2016-0451,Doha,Hard,104559,Teymuraz Gabashvili,50,RUS,R16,105011,Illya Marchenko,94,UKR,no
+20160111,2016-M001,Sydney,Hard,104559,Teymuraz Gabashvili,50,RUS,SF,104678,Viktor Troicki,22,SRB,no
+20160118,2016-580,Australian Open,Hard,104559,Teymuraz Gabashvili,44,RUS,R128,104312,Andreas Seppi,29,ITA,no
+20160208,2016-0407,Rotterdam,Hard,104559,Teymuraz Gabashvili,44,RUS,R32,103917,Nicolas Mahut,54,FRA,no
+20160215,2016-0496,Marseille,Hard,104559,Teymuraz Gabashvili,44,RUS,R16,106401,Nick Kyrgios,41,AUS,no
+20160222,2016-0495,Dubai,Hard,104559,Teymuraz Gabashvili,47,RUS,R32,105015,Franco Skugor,188,CRO,no
+20160307,2016-M006,Indian Wells Masters,Hard,104559,Teymuraz Gabashvili,48,RUS,R128,106216,Bjorn Fratangelo,149,USA,no
+20160321,2016-M007,Miami Masters,Hard,104559,Teymuraz Gabashvili,49,RUS,R128,106298,Lucas Pouille,88,FRA,no
+20160404,2016-0360,Marrakech,Clay,104559,Teymuraz Gabashvili,51,RUS,R32,104593,Daniel Gimeno Traver,102,ESP,no
+20160411,2016-0410,Monte Carlo Masters,Clay,104559,Teymuraz Gabashvili,52,RUS,R64,106210,Jiri Vesely,55,CZE,no
+20160418,2016-0425,Barcelona,Clay,104559,Teymuraz Gabashvili,54,RUS,R32,105332,Benoit Paire,22,FRA,no
+20160425,2016-7163,Istanbul,Clay,104559,Teymuraz Gabashvili,53,RUS,R32,106000,Damir Dzumhur,79,BIH,no
+20160502,2016-M021,Madrid Masters,Clay,104559,Teymuraz Gabashvili,57,RUS,R64,104797,Denis Istomin,79,UZB,no
+20160509,2016-M009,Rome Masters,Clay,104559,Teymuraz Gabashvili,60,RUS,R64,104678,Viktor Troicki,24,SRB,no
+20160516,2016-0322,Geneva,Clay,104559,Teymuraz Gabashvili,80,RUS,R32,105077,Albert Ramos,53,ESP,no
+20160523,2016-520,Roland Garros,Clay,104559,Teymuraz Gabashvili,79,RUS,R32,104545,John Isner,17,USA,no
+20160613,2016-0500,Halle,Grass,104559,Teymuraz Gabashvili,95,RUS,R16,106233,Dominic Thiem,7,AUT,no
+20160620,2016-0741,Nottingham,Grass,104559,Teymuraz Gabashvili,104,RUS,R64,104022,Mikhail Youzhny,73,RUS,no
+20160627,2016-540,Wimbledon,Grass,104559,Teymuraz Gabashvili,103,RUS,R128,104273,Edouard Roger Vasselin,186,FRA,no
+20160718,2016-0439,Umag,Clay,104559,Teymuraz Gabashvili,101,RUS,R16,105807,Pablo Carreno Busta,56,ESP,no
+20160808,2016-O16,Olympics,Hard,104559,Teymuraz Gabashvili,108,RUS,R64,105430,Radu Albot,92,MDA,no
+20160829,2016-560,Us Open,Hard,104559,Teymuraz Gabashvili,105,RUS,R128,104926,Fabio Fognini,38,ITA,no
+20160104,2016-M020,Brisbane,Hard,105064,Thomaz Bellucci,37,BRA,R32,105676,David Goffin,16,BEL,no
+20160111,2016-M001,Sydney,Hard,105064,Thomaz Bellucci,37,BRA,R32,105238,Alexandr Dolgopolov,36,UKR,no
+20160118,2016-580,Australian Open,Hard,105064,Thomaz Bellucci,37,BRA,R64,105449,Steve Johnson,32,USA,no
+20160201,2016-7161,Quito,Clay,105064,Thomaz Bellucci,35,BRA,F,103607,Victor Estrella,58,DOM,no
+20160215,2016-M052,Rio de Janeiro,Clay,105064,Thomaz Bellucci,32,BRA,R32,105238,Alexandr Dolgopolov,33,UKR,no
+20160222,2016-0533,Sao Paulo,Clay,105064,Thomaz Bellucci,35,BRA,R16,106148,Roberto Carballes Baena,122,ESP,no
+20160307,2016-M006,Indian Wells Masters,Hard,105064,Thomaz Bellucci,33,BRA,R64,106432,Borna Coric,47,CRO,no
+20160321,2016-M007,Miami Masters,Hard,105064,Thomaz Bellucci,35,BRA,R64,105062,Mikhail Kukushkin,90,KAZ,no
+20160411,2016-0410,Monte Carlo Masters,Clay,105064,Thomaz Bellucci,35,BRA,R64,104198,Guillermo Garcia Lopez,38,ESP,no
+20160418,2016-0425,Barcelona,Clay,105064,Thomaz Bellucci,35,BRA,R32,100644,Alexander Zverev,51,GER,no
+20160425,2016-0308,Munich,Clay,105064,Thomaz Bellucci,35,BRA,R16,104471,Ivan Dodig,75,CRO,no
+20160502,2016-M021,Madrid Masters,Clay,105064,Thomaz Bellucci,36,BRA,R64,105683,Milos Raonic,10,CAN,no
+20160509,2016-M009,Rome Masters,Clay,105064,Thomaz Bellucci,37,BRA,R16,104925,Novak Djokovic,1,SRB,no
+20160516,2016-0322,Geneva,Clay,105064,Thomaz Bellucci,39,BRA,R16,105643,Federico Delbonis,33,ARG,no
+20160523,2016-520,Roland Garros,Clay,105064,Thomaz Bellucci,57,BRA,R128,104755,Richard Gasquet,12,FRA,no
+20160620,2016-0741,Nottingham,Grass,105064,Thomaz Bellucci,62,BRA,R64,105357,John Millman,67,AUS,no
+20160627,2016-540,Wimbledon,Grass,105064,Thomaz Bellucci,62,BRA,R64,105023,Sam Querrey,41,USA,no
+20160718,2016-0314,Gstaad,Clay,105064,Thomaz Bellucci,49,BRA,R16,104460,Dustin Brown,99,GER,no
+20160808,2016-O16,Olympics,Hard,105064,Thomaz Bellucci,54,BRA,QF,104745,Rafael Nadal,5,ESP,no
+20160829,2016-560,Us Open,Hard,105064,Thomaz Bellucci,65,BRA,R128,105723,Andrey Kuznetsov,47,RUS,no
+20160926,2016-6967,Shenzhen,Hard,105064,Thomaz Bellucci,81,BRA,SF,104607,Tomas Berdych,9,CZE,no
+20161017,2016-M014,Moscow,Hard,105064,Thomaz Bellucci,62,BRA,QF,104259,Philipp Kohlschreiber,32,GER,no
+20160916,2016-M-DC-2016-WG-PO-BEL-BRA-01,Davis Cup WG PO: BEL vs BRA,Hard,105064,Thomaz Bellucci,79,BRA,RR,104327,Steve Darcis,103,BEL,no
+20160916,2016-M-DC-2016-WG-PO-BEL-BRA-01,Davis Cup WG PO: BEL vs BRA,Hard,105064,Thomaz Bellucci,79,BRA,RR,106167,Joris De Loore,190,BEL,no
+20160104,2016-0451,Doha,Hard,104607,Tomas Berdych,6,CZE,SF,104925,Novak Djokovic,1,SRB,no
+20160118,2016-580,Australian Open,Hard,104607,Tomas Berdych,6,CZE,QF,103819,Roger Federer,3,SUI,no
+20160215,2016-0496,Marseille,Hard,104607,Tomas Berdych,8,CZE,SF,106401,Nick Kyrgios,41,AUS,no
+20160222,2016-0495,Dubai,Hard,104607,Tomas Berdych,7,CZE,QF,106401,Nick Kyrgios,33,AUS,no
+20160307,2016-M006,Indian Wells Masters,Hard,104607,Tomas Berdych,7,CZE,R16,105683,Milos Raonic,14,CAN,no
+20160321,2016-M007,Miami Masters,Hard,104607,Tomas Berdych,7,CZE,QF,104925,Novak Djokovic,1,SRB,no
+20160411,2016-0410,Monte Carlo Masters,Clay,104607,Tomas Berdych,7,CZE,R32,106000,Damir Dzumhur,99,BIH,no
+20160502,2016-M021,Madrid Masters,Clay,104607,Tomas Berdych,8,CZE,QF,104918,Andy Murray,2,GBR,no
+20160509,2016-M009,Rome Masters,Clay,104607,Tomas Berdych,8,CZE,R16,105676,David Goffin,13,BEL,no
+20160523,2016-520,Roland Garros,Clay,104607,Tomas Berdych,8,CZE,QF,104925,Novak Djokovic,1,SRB,no
+20160613,2016-0500,Halle,Grass,104607,Tomas Berdych,8,CZE,R32,104571,Marcos Baghdatis,42,CYP,no
+20160627,2016-540,Wimbledon,Grass,104607,Tomas Berdych,9,CZE,SF,104918,Andy Murray,2,GBR,no
+20160725,2016-0421,Canada Masters,Hard,104607,Tomas Berdych,8,CZE,QF,104925,Novak Djokovic,1,SRB,no
+20160815,2016-M024,Cincinnati Masters,Hard,104607,Tomas Berdych,8,CZE,R16,105227,Marin Cilic,14,CRO,no
+20160919,2016-0568,St.Petersburg,Hard,104607,Tomas Berdych,9,CZE,SF,100644,Alexander Zverev,27,GER,no
+20161003,2016-0329,Tokyo,Hard,104607,Tomas Berdych,9,CZE,R32,104180,Gilles Muller,36,LUX,no
+20161010,2016-5014,Shanghai Masters,Hard,104607,Tomas Berdych,9,CZE,R32,104719,Marcel Granollers,43,ESP,no
+20161024,2016-0337,Vienna,Hard,104607,Tomas Berdych,10,CZE,R32,105932,Nikoloz Basilashvili,107,RUS,no
+20161031,2016-0352,Paris Masters,Hard,104607,Tomas Berdych,11,CZE,QF,104918,Andy Murray,2,GBR,no
+20160304,2016-M-DC-2016-WG-M-GER-CZE-01,Davis Cup WG R1: GER vs CZE,Hard,104607,Tomas Berdych,7,CZE,RR,104259,Philipp Kohlschreiber,30,GER,no
+20160111,2016-M001,Sydney,Hard,103990,Tommy Robredo,43,ESP,R16,104678,Viktor Troicki,22,SRB,no
+20160118,2016-580,Australian Open,Hard,103990,Tommy Robredo,42,ESP,R64,105683,Milos Raonic,14,CAN,no
+20160208,2016-0407,Rotterdam,Hard,103990,Tommy Robredo,39,ESP,R32,105373,Martin Klizan,43,SVK,no
+20160222,2016-0495,Dubai,Hard,103990,Tommy Robredo,41,ESP,R32,104925,Novak Djokovic,1,SRB,no
+20160919,2016-0341,Metz,Hard,103990,Tommy Robredo,251,ESP,R32,105526,Jan Lennard Struff,87,GER,no
+20161017,2016-7485,Antwerp,Hard,103990,Tommy Robredo,484,ESP,R32,104252,Florian Mayer,55,GER,no
+20160104,2016-0891,Chennai,Hard,105577,Vasek Pospisil,39,CAN,R32,105379,Aljaz Bedene,45,GBR,no
+20160111,2016-0301,Auckland,Hard,105577,Vasek Pospisil,39,CAN,R16,106058,Jack Sock,26,USA,no
+20160118,2016-580,Australian Open,Hard,105577,Vasek Pospisil,39,CAN,R128,104468,Gilles Simon,15,FRA,no
+20160208,2016-0407,Rotterdam,Hard,105577,Vasek Pospisil,41,CAN,R32,100644,Alexander Zverev,70,GER,no
+20160215,2016-0496,Marseille,Hard,105577,Vasek Pospisil,42,CAN,R32,106401,Nick Kyrgios,41,AUS,no
+20160222,2016-0495,Dubai,Hard,105577,Vasek Pospisil,45,CAN,R16,104571,Marcos Baghdatis,57,CYP,no
+20160307,2016-M006,Indian Wells Masters,Hard,105577,Vasek Pospisil,43,CAN,R64,104468,Gilles Simon,19,FRA,no
+20160321,2016-M007,Miami Masters,Hard,105577,Vasek Pospisil,45,CAN,R64,105311,Joao Sousa,38,POR,no
+20160425,2016-0308,Munich,Clay,105577,Vasek Pospisil,45,CAN,R32,105526,Jan Lennard Struff,112,GER,no
+20160502,2016-M021,Madrid Masters,Clay,105577,Vasek Pospisil,47,CAN,R64,103285,Radek Stepanek,148,CZE,no
+20160509,2016-M009,Rome Masters,Clay,105577,Vasek Pospisil,46,CAN,R64,104312,Andreas Seppi,42,ITA,no
+20160523,2016-520,Roland Garros,Clay,105577,Vasek Pospisil,46,CAN,R128,104607,Tomas Berdych,8,CZE,no
+20160606,2016-M010,s-Hertogenbosch,Grass,105577,Vasek Pospisil,46,CAN,R32,104198,Guillermo Garcia Lopez,53,ESP,no
+20160613,2016-0311,London,Grass,105577,Vasek Pospisil,46,CAN,R32,105385,Donald Young,75,USA,no
+20160620,2016-0741,Nottingham,Grass,105577,Vasek Pospisil,44,CAN,R16,105449,Steve Johnson,38,USA,no
+20160627,2016-540,Wimbledon,Grass,105577,Vasek Pospisil,44,CAN,R128,105077,Albert Ramos,36,ESP,no
+20160718,2016-M035,Washington,Hard,105577,Vasek Pospisil,98,CAN,R64,105216,Yuichi Sugita,106,JPN,no
+20160725,2016-0421,Canada Masters,Hard,105577,Vasek Pospisil,101,CAN,R32,104792,Gael Monfils,14,FRA,no
+20160808,2016-O16,Olympics,Hard,105577,Vasek Pospisil,105,CAN,R64,104792,Gael Monfils,11,FRA,no
+20160815,2016-M024,Cincinnati Masters,Hard,105577,Vasek Pospisil,109,CAN,R64,104571,Marcos Baghdatis,44,CYP,no
+20160829,2016-560,Us Open,Hard,105577,Vasek Pospisil,123,CAN,R64,104731,Kevin Anderson,35,RSA,no
+20161010,2016-5014,Shanghai Masters,Hard,105577,Vasek Pospisil,131,CAN,R16,104925,Novak Djokovic,1,SRB,no
+20160304,2016-M-DC-2016-WG-M-CAN-FRA-01,Davis Cup WG R1: CAN vs FRA,Clay,105577,Vasek Pospisil,44,CAN,RR,104468,Gilles Simon,19,FRA,no
+20160104,2016-M020,Brisbane,Hard,104678,Viktor Troicki,22,SRB,R16,105777,Grigor Dimitrov,28,BUL,no
+20160118,2016-580,Australian Open,Hard,104678,Viktor Troicki,26,SRB,R32,105683,Milos Raonic,14,CAN,no
+20160201,2016-7434,Sofia,Hard,104678,Viktor Troicki,25,SRB,F,105138,Roberto Bautista Agut,18,ESP,no
+20160208,2016-0407,Rotterdam,Hard,104678,Viktor Troicki,22,SRB,QF,103917,Nicolas Mahut,54,FRA,no
+20160222,2016-0495,Dubai,Hard,104678,Viktor Troicki,22,SRB,R32,104571,Marcos Baghdatis,57,CYP,no
+20160307,2016-M006,Indian Wells Masters,Hard,104678,Viktor Troicki,23,SRB,R64,104919,Leonardo Mayer,46,ARG,no
+20160321,2016-M007,Miami Masters,Hard,104678,Viktor Troicki,21,SRB,R32,105676,David Goffin,15,BEL,no
+20160411,2016-0410,Monte Carlo Masters,Clay,104678,Viktor Troicki,24,SRB,R64,104468,Gilles Simon,18,FRA,no
+20160418,2016-0425,Barcelona,Clay,104678,Viktor Troicki,24,SRB,R16,104926,Fabio Fognini,31,ITA,no
+20160502,2016-M021,Madrid Masters,Clay,104678,Viktor Troicki,24,SRB,R64,105723,Andrey Kuznetsov,39,RUS,no
+20160509,2016-M009,Rome Masters,Clay,104678,Viktor Troicki,24,SRB,R32,105453,Kei Nishikori,6,JPN,no
+20160523,2016-520,Roland Garros,Clay,104678,Viktor Troicki,24,SRB,R16,104527,Stanislas Wawrinka,4,SUI,no
+20160606,2016-0321,Stuttgart,Grass,104678,Viktor Troicki,21,SRB,R32,104252,Florian Mayer,226,GER,no
+20160613,2016-0500,Halle,Grass,104678,Viktor Troicki,24,SRB,R32,100644,Alexander Zverev,38,GER,no
+20160627,2016-540,Wimbledon,Grass,104678,Viktor Troicki,27,SRB,R64,105077,Albert Ramos,36,ESP,no
+20160718,2016-M035,Washington,Hard,104678,Viktor Troicki,34,SRB,R32,105992,Ryan Harrison,158,USA,no
+20160725,2016-0421,Canada Masters,Hard,104678,Viktor Troicki,35,SRB,R64,104731,Kevin Anderson,34,RSA,no
+20160808,2016-O16,Olympics,Hard,104678,Viktor Troicki,35,SRB,R64,104918,Andy Murray,2,GBR,no
+20160815,2016-M024,Cincinnati Masters,Hard,104678,Viktor Troicki,35,SRB,R64,105227,Marin Cilic,14,CRO,no
+20160822,2016-6242,Winston-Salem,Hard,104678,Viktor Troicki,35,SRB,SF,105138,Roberto Bautista Agut,17,ESP,no
+20160829,2016-560,Us Open,Hard,104678,Viktor Troicki,32,SRB,R64,111577,Jared Donaldson,122,USA,no
+20160926,2016-7581,Chengdu,Hard,104678,Viktor Troicki,32,SRB,SF,111575,Karen Khachanov,101,RUS,no
+20160919,2016-0568,St.Petersburg,Hard,104678,Viktor Troicki,33,SRB,QF,104527,Stanislas Wawrinka,3,SUI,no
+20161003,2016-M015,Beijing,Hard,104678,Viktor Troicki,32,SRB,R32,104926,Fabio Fognini,43,ITA,no
+20161010,2016-5014,Shanghai Masters,Hard,104678,Viktor Troicki,31,SRB,R16,105138,Roberto Bautista Agut,19,ESP,no
+20161017,2016-M014,Moscow,Hard,104678,Viktor Troicki,28,SRB,R16,106421,Daniil Medvedev,123,RUS,no
+20161024,2016-0337,Vienna,Hard,104678,Viktor Troicki,28,SRB,QF,103970,David Ferrer,19,ESP,no
+20161031,2016-0352,Paris Masters,Hard,104678,Viktor Troicki,28,SRB,R32,105453,Kei Nishikori,4,JPN,no
+20160304,2016-M-DC-2016-WG-M-SRB-KAZ-01,Davis Cup WG R1: SRB vs KAZ,Hard,104678,Viktor Troicki,23,SRB,RR,105062,Mikhail Kukushkin,79,KAZ,no
